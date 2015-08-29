@@ -1,0 +1,2464 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <bounds minlat='46.8289078' minlon='-71.2293327' maxlat='46.8314622' maxlon='-71.2244403' origin='CGImap 0.4.0 (2221 thorn-03.openstreetmap.org)' />
+  <node id='-12374' action='modify' visible='true' lat='46.82994040186' lon='-71.22697946879' />
+  <node id='-12372' action='modify' visible='true' lat='46.82990867776' lon='-71.22694948584' />
+  <node id='-12370' action='modify' visible='true' lat='46.82999884092' lon='-71.22674204567' />
+  <node id='-12368' action='modify' visible='true' lat='46.82981612918' lon='-71.2265802772' />
+  <node id='-12366' action='modify' visible='true' lat='46.8298406975' lon='-71.22652379769' />
+  <node id='-12364' action='modify' visible='true' lat='46.83028745743' lon='-71.22693623756' />
+  <node id='-12362' action='modify' visible='true' lat='46.83027243033' lon='-71.2269697069' />
+  <node id='-12360' action='modify' visible='true' lat='46.83021661534' lon='-71.22691915425' />
+  <node id='-12358' action='modify' visible='true' lat='46.83021279893' lon='-71.22689230905' />
+  <node id='-12356' action='modify' visible='true' lat='46.83016342408' lon='-71.22684628871' />
+  <node id='-12354' action='modify' visible='true' lat='46.83014386495' lon='-71.22685221557' />
+  <node id='-12352' action='modify' visible='true' lat='46.83008638014' lon='-71.22679852518' />
+  <node id='-12350' action='modify' visible='true' lat='46.83004583066' lon='-71.22681142482' />
+  <node id='-12348' action='modify' visible='true' lat='46.83003772076' lon='-71.22682990268' />
+  <node id='-12346' action='modify' visible='true' lat='46.8300138681' lon='-71.22680793843' />
+  <node id='-12345' action='modify' visible='true' lat='46.82994970441' lon='-71.22695680726' />
+  <node id='-12257' action='modify' visible='true' lat='46.82991815407' lon='-71.22715237348' />
+  <node id='-12255' action='modify' visible='true' lat='46.82996275861' lon='-71.22704847907' />
+  <node id='-12253' action='modify' visible='true' lat='46.83003312398' lon='-71.22711367456' />
+  <node id='-12252' action='modify' visible='true' lat='46.82998828097' lon='-71.2272161744' />
+  <node id='-11529' action='modify' visible='true' lat='46.83058198513' lon='-71.227606612' />
+  <node id='-11528' action='modify' visible='true' lat='46.83032211288' lon='-71.22732373784' />
+  <node id='-11527' action='modify' visible='true' lat='46.83068739123' lon='-71.227357394' />
+  <node id='-11526' action='modify' visible='true' lat='46.83046095337' lon='-71.22715278581' />
+  <node id='-11525' action='modify' visible='true' lat='46.83044129758' lon='-71.22719925901' />
+  <node id='-11524' action='modify' visible='true' lat='46.83040372605' lon='-71.22716530965' />
+  <node id='-11523' action='modify' visible='true' lat='46.83035906663' lon='-71.22727090011' />
+  <node id='-11522' action='modify' visible='true' lat='46.83030740778' lon='-71.22735850579' />
+  <node id='-11521' action='modify' visible='true' lat='46.83034849918' lon='-71.22726135146' />
+  <node id='-11455' action='modify' visible='true' lat='46.83045464055' lon='-71.22750083889' />
+  <node id='-11453' action='modify' visible='true' lat='46.83041213631' lon='-71.22760250666' />
+  <node id='-11451' action='modify' visible='true' lat='46.83048360873' lon='-71.22766634366' />
+  <node id='-11450' action='modify' visible='true' lat='46.83052611291' lon='-71.22756467589' />
+  <node id='-11413' action='modify' visible='true' lat='46.83073108974' lon='-71.22746727663' />
+  <node id='-11411' action='modify' visible='true' lat='46.83067879542' lon='-71.22758745135' />
+  <node id='-11378' action='modify' visible='true' lat='46.83073167079' lon='-71.22763755953' />
+  <node id='-11376' action='modify' visible='true' lat='46.83078396506' lon='-71.22751483694' />
+  <node id='-11374' action='modify' visible='true' lat='46.8308365498' lon='-71.22756409584' />
+  <node id='-11373' action='modify' visible='true' lat='46.83078483663' lon='-71.22768511984' />
+  <node id='-11339' action='modify' visible='true' lat='46.83043323464' lon='-71.22794460762' />
+  <node id='-11337' action='modify' visible='true' lat='46.8304159783' lon='-71.22798514405' />
+  <node id='-11335' action='modify' visible='true' lat='46.83040077629' lon='-71.22797163191' />
+  <node id='-11333' action='modify' visible='true' lat='46.83046117346' lon='-71.22783020482' />
+  <node id='-11331' action='modify' visible='true' lat='46.83051951624' lon='-71.22788665555' />
+  <node id='-11330' action='modify' visible='true' lat='46.83047740262' lon='-71.22798574459' />
+  <node id='-11270' action='modify' visible='true' lat='46.82989005351' lon='-71.22698362355' />
+  <node id='-11268' action='modify' visible='true' lat='46.82982875198' lon='-71.22692629638' />
+  <node id='-11266' action='modify' visible='true' lat='46.82977529466' lon='-71.22705071756' />
+  <node id='-11265' action='modify' visible='true' lat='46.8298380489' lon='-71.22710719543' />
+  <node id='-11230' action='modify' visible='true' lat='46.82992346427' lon='-71.22668254978' />
+  <node id='-11228' action='modify' visible='true' lat='46.82999406259' lon='-71.22674539734' />
+  <node id='-11194' action='modify' visible='true' lat='46.829946416' lon='-71.22685410662' />
+  <node id='-11192' action='modify' visible='true' lat='46.82987494603' lon='-71.22679040978' />
+  <node id='-11190' action='modify' visible='true' lat='46.82983136674' lon='-71.2268902015' />
+  <node id='-11189' action='modify' visible='true' lat='46.82990196518' lon='-71.22695729552' />
+  <node id='164784759' timestamp='2013-11-24T04:21:29Z' uid='1712401' user='Géoludic' visible='true' version='19' changeset='19085341' lat='46.8295558' lon='-71.2269099' />
+  <node id='164784761' timestamp='2013-11-02T02:44:29Z' uid='1712401' user='Géoludic' visible='true' version='18' changeset='18669246' lat='46.8293394' lon='-71.2274011' />
+  <node id='164794360' timestamp='2014-10-05T23:14:10Z' uid='595246' user='BrunoRemy' visible='true' version='40' changeset='25886897' lat='46.8289646' lon='-71.2262017' />
+  <node id='164801044' timestamp='2013-11-24T04:31:58Z' uid='1712401' user='Géoludic' visible='true' version='13' changeset='19085393' lat='46.8280373' lon='-71.2259878' />
+  <node id='164802407' timestamp='2013-11-05T16:47:17Z' uid='1712401' user='Géoludic' visible='true' version='10' changeset='18732253' lat='46.8271445' lon='-71.2262872' />
+  <node id='164808925' timestamp='2013-11-02T02:44:29Z' uid='1712401' user='Géoludic' visible='true' version='6' changeset='18669246' lat='46.8292439' lon='-71.229747' />
+  <node id='164808926' timestamp='2013-11-24T04:21:29Z' uid='1712401' user='Géoludic' visible='true' version='18' changeset='19085341' lat='46.8299816' lon='-71.2279852' />
+  <node id='164976538' timestamp='2014-10-05T23:14:10Z' uid='595246' user='BrunoRemy' visible='true' version='12' changeset='25886897' lat='46.8293679' lon='-71.2254334'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='164976539' timestamp='2014-04-17T00:14:30Z' uid='595246' user='BrunoRemy' visible='true' version='11' changeset='21740549' lat='46.830212' lon='-71.2251073' />
+  <node id='164976541' timestamp='2015-05-30T02:11:32Z' uid='595246' user='BrunoRemy' visible='true' version='13' changeset='31575656' lat='46.8306266' lon='-71.2249423' />
+  <node id='164976543' timestamp='2009-09-27T21:34:23Z' uid='168558' user='DopplerFX' visible='true' version='18' changeset='2658281' lat='46.8314638' lon='-71.2246498' />
+  <node id='164976545' timestamp='2009-09-27T21:34:23Z' uid='168558' user='DopplerFX' visible='true' version='7' changeset='2658281' lat='46.83219' lon='-71.2243442'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='164978022' timestamp='2013-11-16T15:56:32Z' uid='235102' user='SimonMercier' visible='true' version='17' changeset='18935905' lat='46.8277782' lon='-71.2235726' />
+  <node id='164978023' timestamp='2013-11-16T15:56:32Z' uid='235102' user='SimonMercier' visible='true' version='16' changeset='18935905' lat='46.8273818' lon='-71.2231223' />
+  <node id='164978024' timestamp='2013-11-16T15:56:32Z' uid='235102' user='SimonMercier' visible='true' version='6' changeset='18935905' lat='46.8249531' lon='-71.2203899'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='164978026' timestamp='2009-09-27T21:35:01Z' uid='168558' user='DopplerFX' visible='true' version='8' changeset='2658293' lat='46.824137' lon='-71.2194611' />
+  <node id='164984547' timestamp='2013-11-16T15:56:31Z' uid='235102' user='SimonMercier' visible='true' version='22' changeset='18935905' lat='46.8276758' lon='-71.2250114' />
+  <node id='164984563' timestamp='2013-11-05T16:22:29Z' uid='1712401' user='Géoludic' visible='true' version='7' changeset='18731900' lat='46.82257' lon='-71.2201042'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='164997458' timestamp='2013-11-05T01:15:59Z' uid='1712401' user='Géoludic' visible='true' version='6' changeset='18722280' lat='46.8298896' lon='-71.2303292' />
+  <node id='165000382' timestamp='2013-11-05T16:22:30Z' uid='1712401' user='Géoludic' visible='true' version='14' changeset='18731900' lat='46.8243043' lon='-71.2204191' />
+  <node id='165000383' timestamp='2013-11-16T15:56:32Z' uid='235102' user='SimonMercier' visible='true' version='17' changeset='18935905' lat='46.8245212' lon='-71.2199611' />
+  <node id='165016621' timestamp='2013-11-24T04:21:29Z' uid='1712401' user='Géoludic' visible='true' version='20' changeset='19085341' lat='46.8306305' lon='-71.2285754' />
+  <node id='165041334' timestamp='2013-10-30T21:56:59Z' uid='1712401' user='Géoludic' visible='true' version='5' changeset='18625719' lat='46.8312746' lon='-71.2291606' />
+  <node id='165042095' timestamp='2015-05-30T02:11:32Z' uid='595246' user='BrunoRemy' visible='true' version='7' changeset='31575656' lat='46.8319387' lon='-71.2297317' />
+  <node id='165042672' timestamp='2015-05-30T02:11:32Z' uid='595246' user='BrunoRemy' visible='true' version='6' changeset='31575656' lat='46.8325691' lon='-71.2303156' />
+  <node id='165044132' timestamp='2013-10-30T21:56:59Z' uid='1712401' user='Géoludic' visible='true' version='3' changeset='18625719' lat='46.8332159' lon='-71.2309341'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='177102846' timestamp='2014-09-13T01:02:16Z' uid='595246' user='BrunoRemy' visible='true' version='4' changeset='25402577' lat='46.8275497' lon='-71.2446696'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='177112247' timestamp='2014-09-13T01:02:16Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='25402577' lat='46.8263527' lon='-71.2453544'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='177112248' timestamp='2014-09-13T01:02:16Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='25402577' lat='46.8269022' lon='-71.2450092'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='251405334' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='8' changeset='863599' lat='46.8324817' lon='-71.2427188' />
+  <node id='265024182' timestamp='2009-09-27T21:29:51Z' uid='168558' user='DopplerFX' visible='true' version='3' changeset='2658215' lat='46.8337493' lon='-71.2218055'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='265024183' timestamp='2009-03-27T00:01:35Z' uid='37993' user='fsteggink' visible='true' version='3' changeset='862430' lat='46.8319715' lon='-71.2192143' />
+  <node id='265024184' timestamp='2009-03-27T00:01:35Z' uid='37993' user='fsteggink' visible='true' version='3' changeset='862430' lat='46.831586' lon='-71.2185189' />
+  <node id='265024185' timestamp='2009-03-27T00:01:36Z' uid='37993' user='fsteggink' visible='true' version='3' changeset='862430' lat='46.8310939' lon='-71.2171643' />
+  <node id='265024186' timestamp='2008-05-17T04:48:05Z' uid='37993' user='fsteggink' visible='true' version='1' changeset='464151' lat='46.8307986' lon='-71.2162052' />
+  <node id='265203593' timestamp='2008-05-17T17:01:50Z' uid='37993' user='fsteggink' visible='true' version='1' changeset='469282' lat='46.8293565' lon='-71.2161806' />
+  <node id='265203599' timestamp='2008-05-17T17:01:50Z' uid='37993' user='fsteggink' visible='true' version='1' changeset='469282' lat='46.8283546' lon='-71.2168479' />
+  <node id='265203613' timestamp='2008-05-17T17:01:51Z' uid='37993' user='fsteggink' visible='true' version='1' changeset='469282' lat='46.8243468' lon='-71.218544' />
+  <node id='265662824' timestamp='2008-05-18T23:24:44Z' uid='37993' user='fsteggink' visible='true' version='1' changeset='476834' lat='46.8344174' lon='-71.2234032'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='265662889' timestamp='2013-11-05T16:22:30Z' uid='1712401' user='Géoludic' visible='true' version='11' changeset='18731900' lat='46.8247369' lon='-71.2208278' />
+  <node id='265662890' timestamp='2013-11-05T16:22:30Z' uid='1712401' user='Géoludic' visible='true' version='12' changeset='18731900' lat='46.8229414' lon='-71.2191418' />
+  <node id='265685843' timestamp='2013-10-31T20:40:04Z' uid='1712401' user='Géoludic' visible='true' version='3' changeset='18642028' lat='46.8339405' lon='-71.2418181'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='265685883' timestamp='2009-03-27T00:01:36Z' uid='37993' user='fsteggink' visible='true' version='3' changeset='862430' lat='46.8311593' lon='-71.2173392' />
+  <node id='275474109' timestamp='2008-07-02T02:53:01Z' uid='37993' user='fsteggink' visible='true' version='1' changeset='372508' lat='46.8306817' lon='-71.2155204' />
+  <node id='277487791' timestamp='2013-11-05T16:22:30Z' uid='1712401' user='Géoludic' visible='true' version='13' changeset='18731900' lat='46.8234058' lon='-71.219578' />
+  <node id='277487804' timestamp='2015-04-24T01:14:02Z' uid='595246' user='BrunoRemy' visible='true' version='9' changeset='30443820' lat='46.8260885' lon='-71.2266372' />
+  <node id='277487835' timestamp='2008-07-10T03:50:17Z' uid='37993' user='fsteggink' visible='true' version='1' changeset='455063' lat='46.8222839' lon='-71.2416971'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='277487844' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='9' changeset='863599' lat='46.8211943' lon='-71.2433087' />
+  <node id='277487846' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='11' changeset='863599' lat='46.8209485' lon='-71.242592' />
+  <node id='281143774' timestamp='2008-11-07T06:16:03Z' uid='69716' user='Circeus' visible='true' version='3' changeset='709528' lat='46.835827' lon='-71.233295' />
+  <node id='281143781' timestamp='2015-05-30T02:11:33Z' uid='595246' user='BrunoRemy' visible='true' version='4' changeset='31575656' lat='46.8325849' lon='-71.227458' />
+  <node id='281143783' timestamp='2014-04-17T00:22:22Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='21740589' lat='46.8326988' lon='-71.2273963' />
+  <node id='281143784' timestamp='2013-10-30T21:56:59Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='18625719' lat='46.8329502' lon='-71.2267644'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='281143859' timestamp='2013-06-25T02:47:44Z' uid='101184' user='jfd553' visible='true' version='10' changeset='16693298' lat='46.8219989' lon='-71.2401881' />
+  <node id='281143863' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='11' changeset='863599' lat='46.8221421' lon='-71.2409478' />
+  <node id='281143892' timestamp='2014-09-13T01:02:17Z' uid='595246' user='BrunoRemy' visible='true' version='9' changeset='25402577' lat='46.8280029' lon='-71.2445218' />
+  <node id='281143893' timestamp='2014-09-13T01:02:17Z' uid='595246' user='BrunoRemy' visible='true' version='10' changeset='25402577' lat='46.8289581' lon='-71.2440844' />
+  <node id='281143897' timestamp='2014-09-13T01:02:17Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='25402577' lat='46.8289888' lon='-71.2440509'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='281143898' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='9' changeset='863599' lat='46.8296973' lon='-71.243675' />
+  <node id='281143903' timestamp='2014-09-13T01:02:17Z' uid='595246' user='BrunoRemy' visible='true' version='9' changeset='25402577' lat='46.8279291' lon='-71.244552' />
+  <node id='281143907' timestamp='2014-09-13T01:02:17Z' uid='595246' user='BrunoRemy' visible='true' version='10' changeset='25402577' lat='46.8248394' lon='-71.2449374' />
+  <node id='281143916' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='9' changeset='863599' lat='46.8215294' lon='-71.2437257' />
+  <node id='281143917' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='9' changeset='863599' lat='46.821479' lon='-71.2437257' />
+  <node id='281143918' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='8' changeset='863599' lat='46.8213043' lon='-71.2435271' />
+  <node id='281143919' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='8' changeset='863599' lat='46.8214402' lon='-71.2436917' />
+  <node id='281143928' timestamp='2014-09-13T01:02:17Z' uid='595246' user='BrunoRemy' visible='true' version='4' changeset='25402577' lat='46.823898' lon='-71.2442243' />
+  <node id='281143933' timestamp='2012-05-19T15:06:27Z' uid='685112' user='urban alex' visible='true' version='10' changeset='11643385' lat='46.8246709' lon='-71.2449247' />
+  <node id='281144002' timestamp='2014-09-13T00:19:50Z' uid='595246' user='BrunoRemy' visible='true' version='12' changeset='25402577' lat='46.8308429' lon='-71.244131' />
+  <node id='281144008' timestamp='2013-10-31T20:40:05Z' uid='1712401' user='Géoludic' visible='true' version='10' changeset='18642028' lat='46.8331708' lon='-71.2410508' />
+  <node id='288360405' timestamp='2014-09-09T12:21:17Z' uid='595246' user='BrunoRemy' visible='true' version='5' changeset='25326533' lat='46.8376845' lon='-71.2349417' />
+  <node id='288360409' timestamp='2008-11-07T06:16:03Z' uid='69716' user='Circeus' visible='true' version='2' changeset='709528' lat='46.8338293' lon='-71.2314654' />
+  <node id='288360411' timestamp='2008-08-16T01:51:58Z' uid='37993' user='fsteggink' visible='true' version='1' changeset='282431' lat='46.8345189' lon='-71.2320969'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='288360413' timestamp='2008-11-07T06:16:03Z' uid='69716' user='Circeus' visible='true' version='2' changeset='709528' lat='46.8351347' lon='-71.2326609' />
+  <node id='288360414' timestamp='2014-09-09T12:21:17Z' uid='595246' user='BrunoRemy' visible='true' version='5' changeset='25326533' lat='46.8371579' lon='-71.2344973' />
+  <node id='288360428' timestamp='2014-09-09T12:21:17Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25326533' lat='46.8364161' lon='-71.2338102'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='291659741' timestamp='2009-03-27T02:08:22Z' uid='37993' user='fsteggink' visible='true' version='10' changeset='863599' lat='46.8378726' lon='-71.2352465' />
+  <node id='291659742' timestamp='2014-09-09T12:21:17Z' uid='595246' user='BrunoRemy' visible='true' version='11' changeset='25326533' lat='46.8379047' lon='-71.2359801' />
+  <node id='291659747' timestamp='2014-09-09T12:01:47Z' uid='595246' user='BrunoRemy' visible='true' version='11' changeset='25326533' lat='46.8369334' lon='-71.2394838' />
+  <node id='291659850' timestamp='2009-03-27T00:13:02Z' uid='37993' user='fsteggink' visible='true' version='6' changeset='862430' lat='46.824355' lon='-71.21881' />
+  <node id='291659854' timestamp='2014-09-09T12:21:18Z' uid='595246' user='BrunoRemy' visible='true' version='11' changeset='25326533' lat='46.8378404' lon='-71.236761' />
+  <node id='291660542' timestamp='2014-09-09T12:21:18Z' uid='595246' user='BrunoRemy' visible='true' version='12' changeset='25326533' lat='46.8377048' lon='-71.2374826' />
+  <node id='291660727' timestamp='2014-09-09T12:01:49Z' uid='595246' user='BrunoRemy' visible='true' version='11' changeset='25326533' lat='46.8372489' lon='-71.2388217' />
+  <node id='310337825' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='8' changeset='863599' lat='46.8296559' lon='-71.243698' />
+  <node id='366067138' timestamp='2015-05-30T02:11:33Z' uid='595246' user='BrunoRemy' visible='true' version='10' changeset='31575656' lat='46.8315483' lon='-71.2261012' />
+  <node id='366067140' timestamp='2009-03-27T02:08:22Z' uid='37993' user='fsteggink' visible='true' version='9' changeset='863599' lat='46.8319952' lon='-71.2254025' />
+  <node id='366067145' timestamp='2014-09-13T02:34:45Z' uid='595246' user='BrunoRemy' visible='true' version='10' changeset='25403372' lat='46.8310083' lon='-71.2436824' />
+  <node id='366067147' timestamp='2014-03-01T23:53:02Z' uid='595246' user='BrunoRemy' visible='true' version='10' changeset='20855969' lat='46.8351187' lon='-71.2426938' />
+  <node id='366067153' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='8' changeset='863599' lat='46.8261615' lon='-71.2454668' />
+  <node id='366067156' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='8' changeset='863599' lat='46.8218578' lon='-71.2435172' />
+  <node id='366067157' timestamp='2014-09-13T01:02:18Z' uid='595246' user='BrunoRemy' visible='true' version='9' changeset='25402577' lat='46.8251208' lon='-71.2451949' />
+  <node id='366067158' timestamp='2013-11-05T16:22:30Z' uid='1712401' user='Géoludic' visible='true' version='9' changeset='18731900' lat='46.8224823' lon='-71.2202902' />
+  <node id='366067159' timestamp='2014-09-13T01:02:18Z' uid='595246' user='BrunoRemy' visible='true' version='10' changeset='25402577' lat='46.8232254' lon='-71.2437484' />
+  <node id='366067187' timestamp='2013-10-30T21:57:00Z' uid='1712401' user='Géoludic' visible='true' version='15' changeset='18625719' lat='46.8315192' lon='-71.2271282' />
+  <node id='366067197' timestamp='2014-09-09T12:01:49Z' uid='595246' user='BrunoRemy' visible='true' version='9' changeset='25326533' lat='46.8375204' lon='-71.2382652' />
+  <node id='366067223' timestamp='2013-11-24T04:21:29Z' uid='1712401' user='Géoludic' visible='true' version='15' changeset='19085341' lat='46.8299212' lon='-71.2252492' />
+  <node id='366067224' timestamp='2013-06-26T16:32:08Z' uid='101184' user='jfd553' visible='true' version='14' changeset='16715360' lat='46.8221516' lon='-71.2199748' />
+  <node id='366067225' timestamp='2013-11-05T16:22:30Z' uid='1712401' user='Géoludic' visible='true' version='9' changeset='18731900' lat='46.8221097' lon='-71.221034' />
+  <node id='366067236' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='7' changeset='863599' lat='46.8219847' lon='-71.2438785' />
+  <node id='366067237' timestamp='2013-10-07T19:59:00Z' uid='101184' user='jfd553' visible='true' version='8' changeset='18236366' lat='46.8224365' lon='-71.244537' />
+  <node id='366067238' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='7' changeset='863599' lat='46.8226131' lon='-71.2445651' />
+  <node id='366067239' timestamp='2013-10-07T19:59:00Z' uid='101184' user='jfd553' visible='true' version='8' changeset='18236366' lat='46.8229251' lon='-71.2443526' />
+  <node id='366067240' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='7' changeset='863599' lat='46.8253734' lon='-71.2448913' />
+  <node id='366067241' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='7' changeset='863599' lat='46.8256318' lon='-71.2452432' />
+  <node id='366067242' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='7' changeset='863599' lat='46.826084' lon='-71.2452518' />
+  <node id='366067243' timestamp='2014-09-13T02:34:45Z' uid='595246' user='BrunoRemy' visible='true' version='8' changeset='25403372' lat='46.8313804' lon='-71.243995' />
+  <node id='366067244' timestamp='2014-09-13T02:34:45Z' uid='595246' user='BrunoRemy' visible='true' version='8' changeset='25403372' lat='46.8314506' lon='-71.2437573' />
+  <node id='366067245' timestamp='2014-09-13T02:34:45Z' uid='595246' user='BrunoRemy' visible='true' version='8' changeset='25403372' lat='46.8319719' lon='-71.2441856' />
+  <node id='366067967' timestamp='2009-09-27T21:34:23Z' uid='168558' user='DopplerFX' visible='true' version='3' changeset='2658281' lat='46.8308741' lon='-71.2248743' />
+  <node id='366068047' timestamp='2009-09-27T21:35:01Z' uid='168558' user='DopplerFX' visible='true' version='5' changeset='2658293' lat='46.8240905' lon='-71.2194081' />
+  <node id='366068224' timestamp='2009-03-27T02:08:21Z' uid='37993' user='fsteggink' visible='true' version='5' changeset='863599' lat='46.822046' lon='-71.2404404' />
+  <node id='385038237' timestamp='2013-11-05T16:22:30Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='18731900' lat='46.8238554' lon='-71.2199937' />
+  <node id='399494347' timestamp='2013-11-04T22:32:12Z' uid='1712401' user='Géoludic' visible='true' version='4' changeset='18721134' lat='46.8292505' lon='-71.2288086'>
+    <tag k='addr:country' v='CA' />
+    <tag k='addr:province' v='QC' />
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='denomination' v='catholic' />
+    <tag k='name' v='Église Saint-Fidèle' />
+    <tag k='religion' v='christian' />
+  </node>
+  <node id='503672080' timestamp='2009-09-20T20:14:36Z' uid='167425' user='Louis Lamontagne' visible='true' version='1' changeset='2550637' lat='46.830627' lon='-71.2150997' />
+  <node id='503672084' timestamp='2009-09-20T20:14:37Z' uid='167425' user='Louis Lamontagne' visible='true' version='1' changeset='2550637' lat='46.8274893' lon='-71.2173028' />
+  <node id='1198679294' timestamp='2011-03-12T16:49:08Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8321629' lon='-71.2268164' />
+  <node id='1198683339' timestamp='2013-10-30T21:56:59Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='18625719' lat='46.8327957' lon='-71.2293928' />
+  <node id='1198684010' timestamp='2011-03-12T16:53:43Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8285804' lon='-71.2231345' />
+  <node id='1198686967' timestamp='2013-01-26T03:41:30Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8289489' lon='-71.2264723'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='725' />
+    <tag k='addr:street' v='11e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198693380' timestamp='2013-01-26T03:41:29Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8287197' lon='-71.2290702'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='689' />
+    <tag k='addr:street' v='12e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198693653' timestamp='2015-01-20T01:47:11Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.8298751' lon='-71.2250888' />
+  <node id='1198694992' timestamp='2013-01-26T02:12:14Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788067' lat='46.8294316' lon='-71.2268331'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1195' />
+    <tag k='addr:street' v='8e Avenue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198696859' timestamp='2013-10-30T21:56:59Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='18625719' lat='46.8325252' lon='-71.230033' />
+  <node id='1198697837' timestamp='2013-10-30T21:56:59Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='18625719' lat='46.8322509' lon='-71.2293988' />
+  <node id='1198698040' timestamp='2013-01-26T03:41:24Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8300105' lon='-71.2302546'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='401' />
+    <tag k='addr:street' v='14e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198702697' timestamp='2013-10-30T21:56:59Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='18625719' lat='46.832495' lon='-71.2291212' />
+  <node id='1198702738' timestamp='2013-01-26T03:41:32Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8304664' lon='-71.2287053'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='798' />
+    <tag k='addr:street' v='14e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198705324' timestamp='2013-01-26T03:41:24Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8298594' lon='-71.2301165'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='400' />
+    <tag k='addr:street' v='14e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198705627' timestamp='2011-03-12T17:06:22Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8299864' lon='-71.2254202'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1001' />
+    <tag k='addr:street' v='Chemin de la Canardière' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198707515' timestamp='2013-01-26T02:12:14Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788067' lat='46.8290104' lon='-71.2264515'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1101' />
+    <tag k='addr:street' v='8e Avenue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198710030' timestamp='2015-01-20T01:47:11Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.831652' lon='-71.2272025' />
+  <node id='1198714342' timestamp='2015-01-20T01:47:11Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.8242437' lon='-71.218664' />
+  <node id='1198715181' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8296346' lon='-71.2273472' />
+  <node id='1198716682' timestamp='2013-01-26T03:41:25Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.828077' lon='-71.2284895'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='431' />
+    <tag k='addr:street' v='11e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198717544' timestamp='2013-01-26T02:12:15Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788067' lat='46.830043' lon='-71.2282134'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1325' />
+    <tag k='addr:street' v='8e Avenue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198718779' timestamp='2013-01-26T02:12:15Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788067' lat='46.8295049' lon='-71.2274184'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1300' />
+    <tag k='addr:street' v='8e Avenue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198721628' timestamp='2011-03-12T17:11:16Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8320455' lon='-71.227012' />
+  <node id='1198726755' timestamp='2013-10-30T21:56:59Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='18625719' lat='46.8322789' lon='-71.2296325' />
+  <node id='1198729129' timestamp='2013-01-26T03:41:32Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8292452' lon='-71.227414'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='798' />
+    <tag k='addr:street' v='12e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198740290' timestamp='2015-01-20T01:47:11Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.8290275' lon='-71.2239204' />
+  <node id='1198740980' timestamp='2013-01-26T03:41:21Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8325231' lon='-71.2275875'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='2545' />
+    <tag k='addr:street' v='Avenue Conway' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198743108' timestamp='2011-03-12T17:25:48Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8298684' lon='-71.2250788'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1000' />
+    <tag k='addr:street' v='Chemin de la Canardière' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198744114' timestamp='2015-01-20T01:47:11Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.8295813' lon='-71.2247526' />
+  <node id='1198744369' timestamp='2013-01-26T03:41:33Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8289355' lon='-71.2260075'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='820' />
+    <tag k='addr:street' v='11e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198749626' timestamp='2013-10-30T21:56:59Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='18625719' lat='46.832053' lon='-71.2296026' />
+  <node id='1198749769' timestamp='2015-01-20T01:47:11Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.8300572' lon='-71.2253779' />
+  <node id='1198751747' timestamp='2013-01-26T02:12:15Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788067' lat='46.8299895' lon='-71.2278514'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1300' />
+    <tag k='addr:street' v='8e Avenue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198756084' timestamp='2011-03-12T17:33:54Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8293278' lon='-71.2252798'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1050' />
+    <tag k='addr:street' v='Boulevard des Capucins' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198758976' timestamp='2015-01-20T01:47:11Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.8247858' lon='-71.2191646' />
+  <node id='1198758990' timestamp='2013-01-26T03:41:25Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8285677' lon='-71.2289342'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='402' />
+    <tag k='addr:street' v='12e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198759268' timestamp='2014-10-05T23:14:10Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8287134' lon='-71.2258384'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='801' />
+    <tag k='addr:street' v='Chemin de la Canardière' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198759743' timestamp='2011-03-12T17:36:06Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8304628' lon='-71.2249102'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1000' />
+    <tag k='addr:street' v='Chemin de la Canardière' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198762413' timestamp='2013-01-26T03:41:18Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8308421' lon='-71.2250943'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1420' />
+    <tag k='addr:street' v='Avenue Conway' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198762848' timestamp='2011-03-12T17:38:07Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8301973' lon='-71.2249608' />
+  <node id='1198764122' timestamp='2011-03-12T17:38:56Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.83051' lon='-71.2251786'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1001' />
+    <tag k='addr:street' v='Chemin de la Canardière' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198770347' timestamp='2013-01-26T03:41:29Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8292197' lon='-71.2295122'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='690' />
+    <tag k='addr:street' v='13e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198773557' timestamp='2015-01-20T01:47:11Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.8308096' lon='-71.2262472' />
+  <node id='1198779909' timestamp='2014-10-05T23:14:10Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8290177' lon='-71.225719'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='895' />
+    <tag k='addr:street' v='Chemin de la Canardière' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198781623' timestamp='2011-03-12T17:46:40Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8326066' lon='-71.2264441' />
+  <node id='1198782491' timestamp='2013-01-26T02:12:16Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788067' lat='46.8313438' lon='-71.2290858'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1600' />
+    <tag k='addr:street' v='8e Avenue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198782993' timestamp='2013-01-26T02:12:14Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788067' lat='46.8291036' lon='-71.2262301'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1098' />
+    <tag k='addr:street' v='8e Avenue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198787309' timestamp='2011-03-12T17:50:41Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8296844' lon='-71.2289565' />
+  <node id='1198788228' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='5' changeset='33345561' lat='46.8304202' lon='-71.2281246' />
+  <node id='1198789106' timestamp='2013-10-30T21:56:59Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='18625719' lat='46.83217' lon='-71.2293257' />
+  <node id='1198801782' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='4' changeset='26199883' lat='46.8289642' lon='-71.2291234' />
+  <node id='1198803947' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8300759' lon='-71.2278139' />
+  <node id='1198807827' timestamp='2014-10-05T23:14:10Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='25886897' lat='46.8307324' lon='-71.2266081' />
+  <node id='1198808399' timestamp='2011-03-12T17:58:03Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8295325' lon='-71.2288204' />
+  <node id='1198817503' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='4' changeset='26199883' lat='46.8294936' lon='-71.2284212' />
+  <node id='1198817844' timestamp='2015-01-20T01:47:12Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.8300908' lon='-71.2253563' />
+  <node id='1198825106' timestamp='2013-01-26T03:41:26Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8304919' lon='-71.2306956'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='500' />
+    <tag k='addr:street' v='15e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198826915' timestamp='2011-03-12T18:05:06Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8320575' lon='-71.2257113' />
+  <node id='1198830359' timestamp='2014-10-05T23:14:10Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='25886897' lat='46.8300387' lon='-71.2261562' />
+  <node id='1198835127' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8296778' lon='-71.2274689' />
+  <node id='1198838303' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8296293' lon='-71.2271631' />
+  <node id='1198838812' timestamp='2011-03-12T18:16:01Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8292878' lon='-71.2251982' />
+  <node id='1198839037' timestamp='2011-03-12T18:16:14Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.828236' lon='-71.2239778'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1000' />
+    <tag k='addr:street' v='Boulevard des Capucins' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198841436' timestamp='2013-10-30T21:56:59Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='18625719' lat='46.8321871' lon='-71.2295496' />
+  <node id='1198842114' timestamp='2015-01-20T01:47:12Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.8338566' lon='-71.2295275' />
+  <node id='1198842908' timestamp='2011-03-12T18:20:23Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8291103' lon='-71.2249712' />
+  <node id='1198845959' timestamp='2014-10-05T23:14:10Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='25886897' lat='46.8306525' lon='-71.2267959' />
+  <node id='1198846305' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8307687' lon='-71.2283414' />
+  <node id='1198847919' timestamp='2015-01-20T01:47:12Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.8245969' lon='-71.2189997' />
+  <node id='1198850164' timestamp='2011-03-12T18:27:57Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8295704' lon='-71.2266529' />
+  <node id='1198857516' timestamp='2013-01-26T03:41:19Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8314539' lon='-71.2248632'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1515' />
+    <tag k='addr:street' v='Avenue Bergemont' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198859200' timestamp='2013-01-26T03:41:20Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8325521' lon='-71.2272897'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1700' />
+    <tag k='addr:street' v='Avenue Conway' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198861321' timestamp='2013-01-26T03:41:31Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8311133' lon='-71.2292643'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='786' />
+    <tag k='addr:street' v='15e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198866840' timestamp='2013-01-26T03:41:25Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8293691' lon='-71.2296539'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='425' />
+    <tag k='addr:street' v='13e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198867610' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='4' changeset='26199883' lat='46.8293322' lon='-71.2282722' />
+  <node id='1198869598' timestamp='2013-01-26T02:12:16Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788067' lat='46.8319144' lon='-71.2296109'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1600' />
+    <tag k='addr:street' v='8e Avenue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198873469' timestamp='2011-03-12T18:36:44Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7535358' lat='46.8313807' lon='-71.2248308'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1095' />
+    <tag k='addr:street' v='Chemin de la Canardière' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198879224' timestamp='2013-01-26T03:41:32Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8298329' lon='-71.2280924'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='798' />
+    <tag k='addr:street' v='13e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198885501' timestamp='2013-01-26T03:41:19Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8327988' lon='-71.2267331'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1585' />
+    <tag k='addr:street' v='Avenue Bergemont' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198889849' timestamp='2013-01-26T03:41:31Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8293487' lon='-71.2276597'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='797' />
+    <tag k='addr:street' v='12e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198894036' timestamp='2011-03-12T18:44:35Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743' lat='46.8308508' lon='-71.2250285'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1095' />
+    <tag k='addr:street' v='Chemin de la Canardière' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198896991' timestamp='2015-01-20T01:47:12Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.8271924' lon='-71.2209955' />
+  <node id='1198898250' timestamp='2015-01-20T01:47:12Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.8293885' lon='-71.224482' />
+  <node id='1198898605' timestamp='2013-01-26T03:41:16Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8306395' lon='-71.2251778'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1303' />
+    <tag k='addr:street' v='Avenue Conway' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198901139' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8312215' lon='-71.2272592' />
+  <node id='1198901363' timestamp='2014-12-31T20:49:17Z' uid='204929' user='Sebastien Duthil' visible='true' version='3' changeset='27830759' lat='46.829865' lon='-71.2252711' />
+  <node id='1198910173' timestamp='2013-01-26T02:12:14Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788067' lat='46.8296265' lon='-71.2267437'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1098' />
+    <tag k='addr:street' v='8e Avenue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198915414' timestamp='2013-01-26T02:12:15Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788067' lat='46.8304525' lon='-71.2286136'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1345' />
+    <tag k='addr:street' v='8e Avenue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198916410' timestamp='2015-01-20T01:47:12Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.82983' lon='-71.2251031' />
+  <node id='1198917162' timestamp='2014-10-05T23:14:10Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='25886897' lat='46.8290441' lon='-71.2257522'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='820' />
+    <tag k='addr:street' v='11e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198920008' timestamp='2013-01-26T03:41:31Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.8306172' lon='-71.2288439'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='795' />
+    <tag k='addr:street' v='14e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1198928105' timestamp='2013-01-26T03:41:30Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='14788390' lat='46.829983' lon='-71.2282329'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='719' />
+    <tag k='addr:street' v='13e Rue' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </node>
+  <node id='1740939706' timestamp='2013-11-24T04:21:29Z' uid='1712401' user='Géoludic' visible='true' version='3' changeset='19085341' lat='46.8314865' lon='-71.2272079' />
+  <node id='1740939711' timestamp='2012-05-05T01:51:43Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='11503657' lat='46.8331729' lon='-71.2307672' />
+  <node id='1740939712' timestamp='2012-05-05T01:39:11Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='11503625' lat='46.8323685' lon='-71.2278623' />
+  <node id='1740939714' timestamp='2015-05-30T02:11:32Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='31575656' lat='46.8318181' lon='-71.2266555' />
+  <node id='1740939715' timestamp='2012-05-05T01:39:12Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='11503625' lat='46.8316089' lon='-71.2270255' />
+  <node id='1740939722' timestamp='2013-11-24T04:21:29Z' uid='1712401' user='Géoludic' visible='true' version='3' changeset='19085341' lat='46.8308732' lon='-71.2287012' />
+  <node id='1740948492' timestamp='2012-05-05T01:51:41Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='11503657' lat='46.8332164' lon='-71.2307504' />
+  <node id='1740948503' timestamp='2012-05-05T01:51:41Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='11503657' lat='46.8338293' lon='-71.2296587' />
+  <node id='1919577954' timestamp='2014-09-13T01:02:16Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='25402577' lat='46.8233561' lon='-71.2438281'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='2256328118' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8291918' lon='-71.2261904' />
+  <node id='2256328119' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8295035' lon='-71.2264711' />
+  <node id='2256328120' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8293665' lon='-71.2259459' />
+  <node id='2256328121' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8292526' lon='-71.2260461' />
+  <node id='2256328122' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8298214' lon='-71.2262497' />
+  <node id='2256328123' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8298381' lon='-71.2265204' />
+  <node id='2256328124' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8297868' lon='-71.2264748' />
+  <node id='2256328125' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8295669' lon='-71.2264193' />
+  <node id='2256328128' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33345561' lat='46.8298472' lon='-71.2266317' />
+  <node id='2256328129' timestamp='2013-11-16T15:44:35Z' uid='235102' user='SimonMercier' visible='true' version='2' changeset='18935680' lat='46.8299802' lon='-71.2259843' />
+  <node id='2256328130' timestamp='2013-11-16T15:44:35Z' uid='235102' user='SimonMercier' visible='true' version='2' changeset='18935680' lat='46.8300453' lon='-71.2257704' />
+  <node id='2256328131' timestamp='2013-11-16T15:44:35Z' uid='235102' user='SimonMercier' visible='true' version='2' changeset='18935680' lat='46.8299315' lon='-71.2256926' />
+  <node id='2256328132' timestamp='2013-11-16T15:44:35Z' uid='235102' user='SimonMercier' visible='true' version='2' changeset='18935680' lat='46.8299045' lon='-71.2256799' />
+  <node id='2256328133' timestamp='2013-11-16T15:44:35Z' uid='235102' user='SimonMercier' visible='true' version='2' changeset='18935680' lat='46.8295627' lon='-71.2258683' />
+  <node id='2256328134' timestamp='2013-11-16T15:44:35Z' uid='235102' user='SimonMercier' visible='true' version='2' changeset='18935680' lat='46.8295173' lon='-71.2258368' />
+  <node id='2256328135' timestamp='2013-11-16T15:44:35Z' uid='235102' user='SimonMercier' visible='true' version='2' changeset='18935680' lat='46.8294769' lon='-71.2259649' />
+  <node id='2256328136' timestamp='2013-11-16T15:44:35Z' uid='235102' user='SimonMercier' visible='true' version='2' changeset='18935680' lat='46.8299003' lon='-71.2262519' />
+  <node id='2302033712' timestamp='2013-05-13T01:55:09Z' uid='101184' user='jfd553' visible='true' version='1' changeset='16104895' lat='46.8209351' lon='-71.2199766' />
+  <node id='2360989219' timestamp='2013-11-05T16:22:30Z' uid='1712401' user='Géoludic' visible='true' version='3' changeset='18731900' lat='46.8222684' lon='-71.2207044' />
+  <node id='2361976524' timestamp='2013-06-26T16:32:05Z' uid='101184' user='jfd553' visible='true' version='1' changeset='16715360' lat='46.821925' lon='-71.2204033' />
+  <node id='2407810984' timestamp='2015-06-05T01:22:06Z' uid='2821814' user='Leon Talbot' visible='true' version='3' changeset='31734882' lat='46.8284195' lon='-71.2295233' />
+  <node id='2408071622' timestamp='2015-04-24T01:14:02Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='30443820' lat='46.8290887' lon='-71.2301147' />
+  <node id='2408071635' timestamp='2015-06-05T01:09:25Z' uid='595246' user='BrunoRemy' visible='true' version='4' changeset='31734812' lat='46.8297356' lon='-71.2307131' />
+  <node id='2408293707' timestamp='2013-11-24T04:31:58Z' uid='1712401' user='Géoludic' visible='true' version='3' changeset='19085393' lat='46.8280555' lon='-71.2262035' />
+  <node id='2487038793' timestamp='2013-10-07T19:58:42Z' uid='101184' user='jfd553' visible='true' version='1' changeset='18236366' lat='46.822798' lon='-71.2444925' />
+  <node id='2514473619' timestamp='2013-11-24T04:21:29Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='19085341' lat='46.8308448' lon='-71.2287703' />
+  <node id='2514473620' timestamp='2013-10-30T21:56:50Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.830894' lon='-71.228815' />
+  <node id='2514473621' timestamp='2013-10-30T21:56:50Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.83104' lon='-71.2286623' />
+  <node id='2514473622' timestamp='2013-10-30T21:56:50Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.831062' lon='-71.2283847' />
+  <node id='2514473623' timestamp='2013-10-30T21:56:50Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8311094' lon='-71.2282203' />
+  <node id='2514473624' timestamp='2013-10-30T21:56:50Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.831176' lon='-71.2280836' />
+  <node id='2514473625' timestamp='2013-10-30T21:56:50Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8311774' lon='-71.2283333' />
+  <node id='2514473626' timestamp='2013-10-30T21:56:50Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.831314' lon='-71.2278969' />
+  <node id='2514473628' timestamp='2013-10-30T21:56:50Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8314395' lon='-71.2278248' />
+  <node id='2514473629' timestamp='2013-10-30T21:56:51Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8314432' lon='-71.2280339'>
+    <tag k='leisure' v='playground' />
+    <tag k='source' v='Bing Maps' />
+  </node>
+  <node id='2514473630' timestamp='2013-10-30T21:56:51Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8314713' lon='-71.2290472' />
+  <node id='2514473631' timestamp='2013-10-30T21:56:51Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8315882' lon='-71.2277582' />
+  <node id='2514473633' timestamp='2013-10-30T21:56:51Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8316087' lon='-71.2287182' />
+  <node id='2514473635' timestamp='2013-10-30T21:56:51Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8316989' lon='-71.2277759' />
+  <node id='2514473637' timestamp='2015-05-30T02:11:33Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='31575656' lat='46.831805' lon='-71.22961' />
+  <node id='2514473644' timestamp='2013-10-30T21:56:51Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8318151' lon='-71.2278751' />
+  <node id='2514473646' timestamp='2013-10-30T21:56:51Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8318333' lon='-71.2287035' />
+  <node id='2514473651' timestamp='2013-10-30T21:56:51Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8318765' lon='-71.227958' />
+  <node id='2514473653' timestamp='2013-10-30T21:56:51Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8318997' lon='-71.228011' />
+  <node id='2514473661' timestamp='2013-10-30T21:56:51Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8319309' lon='-71.2281075' />
+  <node id='2514473666' timestamp='2013-10-30T21:56:51Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8320029' lon='-71.2297158' />
+  <node id='2514473687' timestamp='2013-10-30T21:56:52Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8322696' lon='-71.2296241' />
+  <node id='2514473709' timestamp='2013-10-30T21:56:53Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719' lat='46.8324881' lon='-71.2301324' />
+  <node id='2515561249' timestamp='2013-10-31T20:39:52Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18642028' lat='46.8324309' lon='-71.242858' />
+  <node id='2515561449' timestamp='2013-10-31T20:39:55Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18642028' lat='46.8332126' lon='-71.2411056' />
+  <node id='2515561468' timestamp='2013-10-31T20:39:55Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18642028' lat='46.8333515' lon='-71.2412577' />
+  <node id='2515561482' timestamp='2013-10-31T20:39:56Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18642028' lat='46.8335427' lon='-71.2414547' />
+  <node id='2517015303' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8289458' lon='-71.2290088' />
+  <node id='2517015309' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8289783' lon='-71.2289273' />
+  <node id='2517015311' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8289835' lon='-71.2291412' />
+  <node id='2517015314' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8289955' lon='-71.229051' />
+  <node id='2517015316' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8290115' lon='-71.2290765' />
+  <node id='2517015317' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.82903' lon='-71.2289712' />
+  <node id='2517015323' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8291028' lon='-71.2286391' />
+  <node id='2517015324' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8291034' lon='-71.2292493' />
+  <node id='2517015327' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8291262' lon='-71.228585' />
+  <node id='2517015328' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8291264' lon='-71.2292705' />
+  <node id='2517015329' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8291305' lon='-71.2291864' />
+  <node id='2517015331' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8291525' lon='-71.2286093' />
+  <node id='2517015332' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8291534' lon='-71.2286858' />
+  <node id='2517015333' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.829157' lon='-71.2291998' />
+  <node id='2517015334' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8291789' lon='-71.2292201' />
+  <node id='2517015335' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8291881' lon='-71.2284542' />
+  <node id='2517015336' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8291939' lon='-71.2291144' />
+  <node id='2517015339' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8292106' lon='-71.228475' />
+  <node id='2517015341' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8292108' lon='-71.2284017' />
+  <node id='2517015342' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8292158' lon='-71.2291346' />
+  <node id='2517015344' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8292575' lon='-71.2284449' />
+  <node id='2517015352' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.829332' lon='-71.2287949' />
+  <node id='2517015353' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8293592' lon='-71.22882' />
+  <node id='2517015354' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8294043' lon='-71.2286277' />
+  <node id='2517015355' timestamp='2014-10-19T19:37:55Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26199883' lat='46.8294315' lon='-71.2286528' />
+  <node id='2521174440' timestamp='2014-10-05T23:14:11Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8291464' lon='-71.2257564' />
+  <node id='2521283014' timestamp='2013-11-05T18:22:28Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18734059' lat='46.8345616' lon='-71.2422747' />
+  <node id='2531625991' timestamp='2014-09-13T02:34:44Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25403372' lat='46.8300734' lon='-71.2433849'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='2535113842' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8293418' lon='-71.2260263' />
+  <node id='2535113844' timestamp='2014-10-05T23:14:11Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8299387' lon='-71.2262769' />
+  <node id='2535113845' timestamp='2014-10-05T23:14:11Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8299763' lon='-71.2263104' />
+  <node id='2535113846' timestamp='2014-10-05T23:14:11Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8300039' lon='-71.2261267' />
+  <node id='2535113847' timestamp='2014-10-05T23:14:11Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8300763' lon='-71.2259564' />
+  <node id='2535113849' timestamp='2014-10-05T23:14:11Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8302644' lon='-71.2261227' />
+  <node id='2535113850' timestamp='2014-10-05T23:14:11Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8302433' lon='-71.2261656' />
+  <node id='2535113852' timestamp='2014-10-05T23:14:11Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8306938' lon='-71.2268308' />
+  <node id='2535113854' timestamp='2014-10-05T23:14:11Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8307067' lon='-71.2268053' />
+  <node id='2535113856' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8296227' lon='-71.2272738' />
+  <node id='2535113857' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8295892' lon='-71.2273302' />
+  <node id='2535113858' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8295873' lon='-71.2273159' />
+  <node id='2535113859' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8296467' lon='-71.2273858' />
+  <node id='2535113861' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8296578' lon='-71.2274143' />
+  <node id='2535113863' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8300609' lon='-71.2278' />
+  <node id='2535113865' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8296731' lon='-71.2274412' />
+  <node id='2535113867' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8296145' lon='-71.2273577' />
+  <node id='2535113869' timestamp='2014-10-05T23:14:11Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8296212' lon='-71.2272157' />
+  <node id='2535113871' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.82962' lon='-71.2271593' />
+  <node id='2535113872' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8296338' lon='-71.2271034' />
+  <node id='2535113873' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8296437' lon='-71.2271091' />
+  <node id='2535113874' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.829818' lon='-71.2266042' />
+  <node id='2535113875' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8297556' lon='-71.2265482' />
+  <node id='2535113877' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8297331' lon='-71.2265311' />
+  <node id='2535113879' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8301026' lon='-71.2278395' />
+  <node id='2535113881' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8301098' lon='-71.2278231' />
+  <node id='2535113883' timestamp='2013-11-16T15:44:34Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935680' lat='46.8295783' lon='-71.2258173' />
+  <node id='2535113885' timestamp='2013-11-16T15:44:34Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935680' lat='46.8295585' lon='-71.2257825' />
+  <node id='2535113887' timestamp='2013-11-16T15:44:34Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935680' lat='46.8297774' lon='-71.2257007' />
+  <node id='2535113889' timestamp='2013-11-16T15:44:34Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935680' lat='46.8296618' lon='-71.2257282' />
+  <node id='2535113891' timestamp='2013-11-16T15:44:34Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935680' lat='46.829843' lon='-71.2256846' />
+  <node id='2535113894' timestamp='2013-11-16T15:44:34Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935680' lat='46.8298801' lon='-71.2256772' />
+  <node id='2535123238' timestamp='2013-11-16T15:47:52Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935749' lat='46.8293839' lon='-71.2256446' />
+  <node id='2535123240' timestamp='2013-11-16T15:47:52Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935749' lat='46.8294144' lon='-71.2257001' />
+  <node id='2535123242' timestamp='2013-11-16T15:47:52Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935749' lat='46.8294619' lon='-71.2257201' />
+  <node id='2535123244' timestamp='2013-11-16T15:47:52Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935749' lat='46.8295156' lon='-71.2257263' />
+  <node id='2535123246' timestamp='2013-11-16T15:47:52Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935749' lat='46.82964' lon='-71.2256785' />
+  <node id='2535123248' timestamp='2013-11-16T15:47:52Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935749' lat='46.8297623' lon='-71.2256338' />
+  <node id='2535123249' timestamp='2013-11-16T15:47:52Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935749' lat='46.8298476' lon='-71.2256231' />
+  <node id='2535123251' timestamp='2013-11-16T15:47:52Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935749' lat='46.8299203' lon='-71.2256261' />
+  <node id='2535123253' timestamp='2013-11-16T15:47:52Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935749' lat='46.830011' lon='-71.2256785' />
+  <node id='2535123255' timestamp='2013-11-24T04:21:29Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='19085341' lat='46.8307738' lon='-71.2287112' />
+  <node id='2535123257' timestamp='2013-11-16T15:47:52Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935749' lat='46.8307772' lon='-71.2265535' />
+  <node id='2535123258' timestamp='2013-11-16T15:47:52Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935749' lat='46.8312884' lon='-71.2271759' />
+  <node id='2535123260' timestamp='2013-11-16T15:47:52Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935749' lat='46.8312652' lon='-71.2271205' />
+  <node id='2535123262' timestamp='2013-11-16T15:47:52Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935749' lat='46.8312852' lon='-71.2272345' />
+  <node id='2535123264' timestamp='2013-11-24T04:21:29Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='19085341' lat='46.8309895' lon='-71.2280884' />
+  <node id='2535131615' timestamp='2014-10-05T23:14:11Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='25886897' lat='46.8285231' lon='-71.2258349'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='2535131622' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8292035' lon='-71.2255125' />
+  <node id='2535131626' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='25886897' lat='46.8293171' lon='-71.2254584'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='source' v='Bing Maps' />
+  </node>
+  <node id='2535131639' timestamp='2013-11-16T15:56:31Z' uid='235102' user='SimonMercier' visible='true' version='1' changeset='18935905' lat='46.8281466' lon='-71.2240189' />
+  <node id='2548204701' timestamp='2013-11-24T04:21:19Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.830933' lon='-71.2273771'>
+    <tag k='leisure' v='sports_centre' />
+    <tag k='name' v='Cégep Limoilou, complexe sportif' />
+  </node>
+  <node id='2548204703' timestamp='2013-11-24T04:21:19Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8307139' lon='-71.2279802'>
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:country' v='CA' />
+    <tag k='addr:housenumber' v='1398' />
+    <tag k='addr:street' v='8e Avenue' />
+    <tag k='amenity' v='theatre' />
+    <tag k='name' v='Salle Sylvain-Lelièvre' />
+    <tag k='source' v='Bing Maps' />
+  </node>
+  <node id='2548204782' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8290957' lon='-71.2257225' />
+  <node id='2548204783' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8291567' lon='-71.2255135'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='source' v='Bing Maps' />
+  </node>
+  <node id='2548204784' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.829309' lon='-71.226005' />
+  <node id='2548204786' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8293152' lon='-71.2253641' />
+  <node id='2548204788' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.829337' lon='-71.2258281' />
+  <node id='2548204790' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8293706' lon='-71.2257198' />
+  <node id='2548204792' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8294279' lon='-71.2254319' />
+  <node id='2548204794' timestamp='2013-11-24T04:21:21Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8294658' lon='-71.227369' />
+  <node id='2548204795' timestamp='2013-11-24T04:21:21Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8294662' lon='-71.2273047' />
+  <node id='2548204796' timestamp='2013-11-24T04:21:21Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8294865' lon='-71.2274366' />
+  <node id='2548204797' timestamp='2013-11-24T04:21:21Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8295293' lon='-71.2267586' />
+  <node id='2548204798' timestamp='2013-11-24T04:21:21Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.829558' lon='-71.2259796' />
+  <node id='2548204799' timestamp='2013-11-24T04:21:21Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8295604' lon='-71.2268223' />
+  <node id='2548204800' timestamp='2013-11-24T04:21:21Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8296221' lon='-71.2256854' />
+  <node id='2548204801' timestamp='2013-11-24T04:21:21Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8296319' lon='-71.2257439' />
+  <node id='2548204802' timestamp='2013-11-24T04:21:21Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8296974' lon='-71.2260797' />
+  <node id='2548204804' timestamp='2015-08-21T02:15:03Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33474209' lat='46.8298127' lon='-71.2264619'>
+    <tag k='access' v='yes' />
+    <tag k='entrance' v='main' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='2548204805' timestamp='2013-11-24T04:21:21Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.829818' lon='-71.2256907' />
+  <node id='2548204806' timestamp='2013-11-24T04:21:22Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.829838' lon='-71.2256243' />
+  <node id='2548204807' timestamp='2015-01-11T16:38:53Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28066603' lat='46.8298398' lon='-71.2261826' />
+  <node id='2548204808' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8298948' lon='-71.2262196' />
+  <node id='2548204809' timestamp='2013-11-24T04:21:22Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8299772' lon='-71.2257238' />
+  <node id='2548204810' timestamp='2013-11-24T04:21:22Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8299944' lon='-71.2256689' />
+  <node id='2548204811' timestamp='2013-11-24T04:21:22Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8300118' lon='-71.2279078' />
+  <node id='2548204812' timestamp='2015-08-21T02:15:03Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33474209' lat='46.8300548' lon='-71.2277947'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='2548204813' timestamp='2013-11-24T04:21:22Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.830453' lon='-71.2284139' />
+  <node id='2548204814' timestamp='2015-08-21T02:15:04Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33474209' lat='46.8305547' lon='-71.2281803'>
+    <tag k='access' v='yes' />
+    <tag k='entrance' v='main' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='2548204815' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8306343' lon='-71.2276647' />
+  <node id='2548204816' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8306613' lon='-71.2276011' />
+  <node id='2548204817' timestamp='2013-11-24T04:21:22Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8306788' lon='-71.2286211' />
+  <node id='2548204818' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8307858' lon='-71.226877' />
+  <node id='2548204819' timestamp='2013-11-24T04:21:22Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8308069' lon='-71.2287358' />
+  <node id='2548204820' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8309612' lon='-71.2278716' />
+  <node id='2548204821' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33345561' lat='46.8310435' lon='-71.2276758' />
+  <node id='2548204822' timestamp='2013-11-24T04:21:22Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.831057' lon='-71.2276758' />
+  <node id='2548204823' timestamp='2013-11-24T04:21:22Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341' lat='46.8311544' lon='-71.2278341'>
+    <tag k='amenity' v='parking' />
+    <tag k='parking' v='underground' />
+  </node>
+  <node id='2678288373' timestamp='2014-02-18T04:43:23Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='20629118' lat='46.8283766' lon='-71.2264859' />
+  <node id='2678288374' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8286436' lon='-71.2258916' />
+  <node id='2678288375' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8287505' lon='-71.2258382' />
+  <node id='2678288376' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8289232' lon='-71.2260118' />
+  <node id='2678288377' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8289485' lon='-71.2260065' />
+  <node id='2678288379' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8290544' lon='-71.2256974' />
+  <node id='2678288380' timestamp='2014-10-05T23:14:12Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897' lat='46.8290737' lon='-71.2257171' />
+  <node id='2697003463' timestamp='2014-09-09T12:21:18Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25326533' lat='46.8376535' lon='-71.2351422' />
+  <node id='2697020497' timestamp='2015-05-30T02:11:33Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='31575656' lat='46.8318882' lon='-71.226542' />
+  <node id='2711581665' timestamp='2014-03-10T21:58:14Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21035323' lat='46.8289888' lon='-71.2258057'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='sushi' />
+    <tag k='name' v='Yuzu' />
+  </node>
+  <node id='2795580630' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8291599' lon='-71.223684' />
+  <node id='2795580631' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8298368' lon='-71.2226088' />
+  <node id='2795580632' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8300177' lon='-71.2245598' />
+  <node id='2795580633' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8302264' lon='-71.2248516' />
+  <node id='2795580634' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8303652' lon='-71.2240288' />
+  <node id='2795580635' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8303798' lon='-71.2240007' />
+  <node id='2795580636' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8304746' lon='-71.2241095' />
+  <node id='2795580637' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8305739' lon='-71.2243206' />
+  <node id='2795580638' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8306404' lon='-71.2240452' />
+  <node id='2795580639' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8306619' lon='-71.2243651' />
+  <node id='2795580640' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8306785' lon='-71.2238043' />
+  <node id='2795580641' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8306788' lon='-71.2244591' />
+  <node id='2795580642' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8306912' lon='-71.2243502' />
+  <node id='2795580643' timestamp='2014-04-17T00:22:22Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='21740589' lat='46.8326241' lon='-71.2282409' />
+  <node id='2795580644' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8329352' lon='-71.2277005' />
+  <node id='2795580646' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8332822' lon='-71.2278228' />
+  <node id='2795580647' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8337461' lon='-71.2284286' />
+  <node id='2795580648' timestamp='2015-01-20T01:47:13Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159' lat='46.8339646' lon='-71.2296146' />
+  <node id='2795580649' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549' lat='46.8342587' lon='-71.2290899' />
+  <node id='2795584921' timestamp='2015-05-30T02:11:33Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='31575656' lat='46.832646' lon='-71.2274826' />
+  <node id='2795584922' timestamp='2015-05-30T02:11:33Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='31575656' lat='46.8326682' lon='-71.2274479' />
+  <node id='2795584923' timestamp='2014-04-17T00:22:21Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740589' lat='46.8327376' lon='-71.2274478' />
+  <node id='2795584924' timestamp='2014-04-17T00:22:21Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740589' lat='46.8330361' lon='-71.2275162' />
+  <node id='2795588920' timestamp='2014-04-17T00:25:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740589' lat='46.8305897' lon='-71.2257779' />
+  <node id='2795588921' timestamp='2014-04-17T00:25:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740589' lat='46.8306782' lon='-71.2258961' />
+  <node id='2795588922' timestamp='2014-04-17T00:25:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740589' lat='46.8307839' lon='-71.2254674' />
+  <node id='2795588923' timestamp='2014-04-17T00:25:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740589' lat='46.8308723' lon='-71.2255856' />
+  <node id='2795588924' timestamp='2014-04-17T00:25:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740589' lat='46.8313754' lon='-71.2252453' />
+  <node id='2795588925' timestamp='2014-04-17T00:25:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740589' lat='46.8315286' lon='-71.2250084' />
+  <node id='2795588926' timestamp='2014-04-17T00:25:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740589' lat='46.8315667' lon='-71.2255095' />
+  <node id='2795588929' timestamp='2014-04-17T00:25:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740589' lat='46.8317201' lon='-71.2252731' />
+  <node id='3068254686' timestamp='2014-09-09T12:21:17Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25326533' lat='46.8376897' lon='-71.2350564' />
+  <node id='3068254692' timestamp='2014-09-09T12:21:17Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25326533' lat='46.8362213' lon='-71.2336399' />
+  <node id='3074280108' timestamp='2014-09-13T00:19:48Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25402577' lat='46.8299915' lon='-71.2434879' />
+  <node id='3074280109' timestamp='2014-09-13T00:19:48Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25402577' lat='46.8300307' lon='-71.243451' />
+  <node id='3074302963' timestamp='2014-09-13T01:02:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25402577' lat='46.824753' lon='-71.2449101' />
+  <node id='3074302968' timestamp='2014-09-13T01:02:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25402577' lat='46.8273052' lon='-71.2447877' />
+  <node id='3074302981' timestamp='2014-09-13T01:02:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25402577' lat='46.8281024' lon='-71.2444717' />
+  <node id='3074302984' timestamp='2014-09-13T01:02:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25402577' lat='46.8284729' lon='-71.2442849' />
+  <node id='3074302985' timestamp='2014-09-13T01:02:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25402577' lat='46.8287057' lon='-71.2441564' />
+  <node id='3074302990' timestamp='2014-09-13T01:02:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25402577' lat='46.8288848' lon='-71.2440792' />
+  <node id='3074323123' timestamp='2014-09-13T02:34:44Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25403372' lat='46.830333' lon='-71.2436224' />
+  <node id='3087943823' timestamp='2014-09-20T18:18:41Z' uid='1679' user='andrewpmk' visible='true' version='1' changeset='25565193' lat='46.8246526' lon='-71.2207482'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='3113755159' timestamp='2014-10-05T23:14:06Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25886897' lat='46.828678' lon='-71.2257081' />
+  <node id='3113755161' timestamp='2014-10-05T23:14:06Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25886897' lat='46.8287757' lon='-71.225807' />
+  <node id='3113755162' timestamp='2014-10-05T23:14:06Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25886897' lat='46.8291307' lon='-71.2256358' />
+  <node id='3113755163' timestamp='2014-10-05T23:14:06Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='25886897' lat='46.8292215' lon='-71.2257644' />
+  <node id='3113755164' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33345561' lat='46.8295246' lon='-71.2264226' />
+  <node id='3113755165' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33345561' lat='46.8295539' lon='-71.2264495' />
+  <node id='3113755166' timestamp='2015-08-15T02:24:40Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33345561' lat='46.8297434' lon='-71.2265011' />
+  <node id='3127768210' timestamp='2014-10-13T13:21:50Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='1' changeset='26047705' lat='46.8285994' lon='-71.2291459'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='3133711788' timestamp='2014-12-27T18:49:44Z' uid='204929' user='Sebastien Duthil' visible='true' version='3' changeset='27737551' lat='46.8297128' lon='-71.2265158'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='rack' />
+    <tag k='capacity' v='12' />
+    <tag k='covered' v='no' />
+  </node>
+  <node id='3133711789' timestamp='2014-12-27T18:49:44Z' uid='204929' user='Sebastien Duthil' visible='true' version='3' changeset='27737551' lat='46.8296725' lon='-71.226607'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='rack' />
+    <tag k='capacity' v='12' />
+    <tag k='covered' v='no' />
+  </node>
+  <node id='3149273089' timestamp='2014-10-25T16:08:57Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26324516' lat='46.8339766' lon='-71.2316003' />
+  <node id='3149273092' timestamp='2014-10-25T16:02:00Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='3' changeset='26324371' lat='46.8347502' lon='-71.2323068' />
+  <node id='3149273093' timestamp='2014-10-25T15:52:18Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='2' changeset='26324184' lat='46.8342535' lon='-71.2318464' />
+  <node id='3149291550' timestamp='2014-10-25T15:39:37Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='1' changeset='26323929' lat='46.8355696' lon='-71.2330595' />
+  <node id='3149309711' timestamp='2014-10-25T15:52:17Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='1' changeset='26324184' lat='46.8345652' lon='-71.2321387' />
+  <node id='3255456459' timestamp='2014-12-27T17:32:49Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='27735469' lat='46.8300543' lon='-71.215587' />
+  <node id='3299599938' timestamp='2015-01-21T00:22:27Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28297270' lat='46.8219948' lon='-71.2165318' />
+  <node id='3299599939' timestamp='2015-01-20T01:46:58Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.8231525' lon='-71.2175595' />
+  <node id='3299599940' timestamp='2015-01-20T01:46:58Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.8234928' lon='-71.2178985' />
+  <node id='3299599952' timestamp='2015-01-20T01:46:58Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.82487' lon='-71.2194479' />
+  <node id='3299600783' timestamp='2015-01-20T01:46:59Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.8287826' lon='-71.2234515' />
+  <node id='3299600786' timestamp='2015-01-20T01:46:59Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.8290857' lon='-71.2240969' />
+  <node id='3299600787' timestamp='2015-01-20T01:46:59Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.8292146' lon='-71.2242115' />
+  <node id='3299600789' timestamp='2015-01-20T01:46:59Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.8294978' lon='-71.2245574' />
+  <node id='3299600790' timestamp='2015-01-20T01:46:59Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.8297879' lon='-71.2251157' />
+  <node id='3299600792' timestamp='2015-01-20T01:46:59Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.8300057' lon='-71.2253949' />
+  <node id='3299600793' timestamp='2015-01-20T01:46:59Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.8307751' lon='-71.2262769' />
+  <node id='3299600795' timestamp='2015-01-20T01:46:59Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.8316252' lon='-71.2272593' />
+  <node id='3299600801' timestamp='2015-01-20T01:46:59Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.8326718' lon='-71.2284314' />
+  <node id='3299600802' timestamp='2015-01-20T01:46:59Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.8327005' lon='-71.2283785' />
+  <node id='3299600805' timestamp='2015-01-20T01:46:59Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159' lat='46.8338351' lon='-71.2295709' />
+  <node id='3472412138' timestamp='2015-04-23T01:26:34Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='30418873' lat='46.8290731' lon='-71.2268443' />
+  <node id='3472412142' timestamp='2015-04-23T01:26:35Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='30418873' lat='46.828785' lon='-71.2287083' />
+  <node id='3472412155' timestamp='2015-06-05T01:09:25Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='31734812' lat='46.8284397' lon='-71.2283725' />
+  <node id='3472412164' timestamp='2015-04-23T01:26:35Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='30418873' lat='46.8294306' lon='-71.2271945' />
+  <node id='3472412166' timestamp='2015-04-23T01:26:35Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='30418873' lat='46.828157' lon='-71.2281017' />
+  <node id='3474298719' timestamp='2015-04-24T01:14:00Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='30443820' lat='46.8309373' lon='-71.2288543' />
+  <node id='3474298720' timestamp='2015-04-24T01:14:00Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='30443820' lat='46.8315583' lon='-71.2294238' />
+  <node id='3474298725' timestamp='2015-06-05T00:43:56Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='31734648' lat='46.8303858' lon='-71.2301361' />
+  <node id='3474298731' timestamp='2015-06-05T00:43:56Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='31734648' lat='46.8307186' lon='-71.2304485' />
+  <node id='3507237949' timestamp='2015-05-09T16:57:00Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='1' changeset='30942129' lat='46.8308649' lon='-71.2281266'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='rack' />
+    <tag k='capacity' v='12' />
+    <tag k='covered' v='no' />
+    <tag k='operator' v='Établissement' />
+  </node>
+  <node id='3507237950' timestamp='2015-05-09T16:57:00Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='1' changeset='30942129' lat='46.8308861' lon='-71.2280716'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='rack' />
+    <tag k='capacity' v='12' />
+    <tag k='covered' v='no' />
+    <tag k='operator' v='Établissement' />
+  </node>
+  <node id='3507237951' timestamp='2015-05-09T16:57:01Z' uid='2195436' user='Le Vélurbaniste' visible='true' version='1' changeset='30942129' lat='46.8309062' lon='-71.2280153'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='rack' />
+    <tag k='capacity' v='12' />
+    <tag k='covered' v='no' />
+    <tag k='operator' v='Établissement' />
+  </node>
+  <node id='3557275067' timestamp='2015-05-30T02:11:30Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31575656' lat='46.8317554' lon='-71.226367' />
+  <node id='3557275069' timestamp='2015-05-30T02:11:30Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31575656' lat='46.8328623' lon='-71.230596' />
+  <node id='3557275072' timestamp='2015-05-30T02:11:30Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31575656' lat='46.8335254' lon='-71.2312022' />
+  <node id='3557275073' timestamp='2015-05-30T02:11:30Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31575656' lat='46.8294477' lon='-71.2292603' />
+  <node id='3557275087' timestamp='2015-05-30T02:11:31Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31575656' lat='46.8325469' lon='-71.2273865' />
+  <node id='3557275088' timestamp='2015-05-30T02:11:31Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31575656' lat='46.8319721' lon='-71.2266737' />
+  <node id='3557275089' timestamp='2015-05-30T02:11:31Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31575656' lat='46.8300761' lon='-71.2298877' />
+  <node id='3557275091' timestamp='2015-05-30T02:11:31Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31575656' lat='46.8316149' lon='-71.2269848' />
+  <node id='3557275092' timestamp='2015-05-30T02:11:31Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31575656' lat='46.830274' lon='-71.2282511' />
+  <node id='3557278293' timestamp='2015-05-30T02:11:31Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31575656' lat='46.8297609' lon='-71.2295761' />
+  <node id='3557278298' timestamp='2015-05-30T02:11:31Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31575656' lat='46.8322456' lon='-71.2300151' />
+  <node id='3573455398' timestamp='2015-06-05T01:40:36Z' uid='2821814' user='Leon Talbot' visible='true' version='1' changeset='31734979' lat='46.8293926' lon='-71.2438373' />
+  <node id='3573469195' timestamp='2015-06-05T01:58:38Z' uid='2821814' user='Leon Talbot' visible='true' version='1' changeset='31735093' lat='46.8316993' lon='-71.2249834' />
+  <node id='3698000044' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8292871' lon='-71.226076' />
+  <node id='3698000045' action='delete' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8293128' lon='-71.2260765' />
+  <node id='3698000046' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8295833' lon='-71.2272834' />
+  <node id='3698000047' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8295933' lon='-71.2273526' />
+  <node id='3698000048' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8295951' lon='-71.2273613' />
+  <node id='3698000049' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8295964' lon='-71.2273658' />
+  <node id='3698000050' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8295973' lon='-71.2260996' />
+  <node id='3698000051' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8296227' lon='-71.2271476' />
+  <node id='3698000052' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8296258' lon='-71.2271353' />
+  <node id='3698000053' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8296652' lon='-71.2274276' />
+  <node id='3698000054' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8296663' lon='-71.2274509' />
+  <node id='3698000055' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8296692' lon='-71.2274573' />
+  <node id='3698000056' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8296966' lon='-71.2274932' />
+  <node id='3698000057' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8297035' lon='-71.2274803' />
+  <node id='3698000058' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8297227' lon='-71.2267073' />
+  <node id='3698000059' action='delete' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8297342' lon='-71.2264527' />
+  <node id='3698000060' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8297479' lon='-71.2268064' />
+  <node id='3698000061' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8297581' lon='-71.2275311' />
+  <node id='3698000062' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8297584' lon='-71.2267811' />
+  <node id='3698000063' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.829759' lon='-71.2264495' />
+  <node id='3698000064' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8297661' lon='-71.2268221' />
+  <node id='3698000065' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8297663' lon='-71.2265219' />
+  <node id='3698000066' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8297676' lon='-71.2267595' />
+  <node id='3698000067' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8297857' lon='-71.226776' />
+  <node id='3698000068' action='delete' timestamp='2015-08-21T02:15:04Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33474209' lat='46.8297936' lon='-71.2265071' />
+  <node id='3698000069' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8297878' lon='-71.2267711' />
+  <node id='3698000070' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8297995' lon='-71.2264488' />
+  <node id='3698000071' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8298161' lon='-71.2265009' />
+  <node id='3698000072' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8298262' lon='-71.226474' />
+  <node id='3698000073' action='delete' timestamp='2015-08-15T02:24:36Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8298457' lon='-71.2271305' />
+  <node id='3698000074' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8298592' lon='-71.2276209' />
+  <node id='3698000075' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8298833' lon='-71.2273613' />
+  <node id='3698000076' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8299173' lon='-71.2269698' />
+  <node id='3698000077' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8299245' lon='-71.226338' />
+  <node id='3698000078' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.82994810239' lon='-71.22661989764' />
+  <node id='3698000079' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8299576334' lon='-71.22694834596' />
+  <node id='3698000080' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.82996152646' lon='-71.22697534278' />
+  <node id='3698000081' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8299599' lon='-71.2277102' />
+  <node id='3698000082' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8299635' lon='-71.2263523' />
+  <node id='3698000083' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.82997326579' lon='-71.22691282941' />
+  <node id='3698000084' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8299677' lon='-71.2269877'>
+    <tag k='door' v='yes' />
+  </node>
+  <node id='3698000085' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.82998496579' lon='-71.22699672941' />
+  <node id='3698000086' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.82998562272' lon='-71.22699712906' />
+  <node id='3698000087' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.82999155629' lon='-71.22651586186' />
+  <node id='3698000088' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.83000726579' lon='-71.22694342941' />
+  <node id='3698000089' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8300076' lon='-71.2262472' />
+  <node id='3698000090' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.83001869373' lon='-71.22668288814' />
+  <node id='3698000091' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33552437' lat='46.83002818742' lon='-71.22689563072' />
+  <node id='3698000092' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8300277' lon='-71.226722' />
+  <node id='3698000093' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8300317' lon='-71.2264144' />
+  <node id='3698000094' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8300325' lon='-71.226415' />
+  <node id='3698000095' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.83005361543' lon='-71.227058045'>
+    <tag k='door' v='yes' />
+  </node>
+  <node id='3698000096' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33552437' lat='46.83005747424' lon='-71.22706150218' />
+  <node id='3698000097' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8300607' lon='-71.2275224' />
+  <node id='3698000098' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.83006214758' lon='-71.22657885236' />
+  <node id='3698000099' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8300759' lon='-71.2263081' />
+  <node id='3698000100' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8300766' lon='-71.2263096' />
+  <node id='3698000101' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33552437' lat='46.83010003887' lon='-71.22696000384' />
+  <node id='3698000102' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8301042' lon='-71.2264797' />
+  <node id='3698000103' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8301102' lon='-71.2265039' />
+  <node id='3698000104' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.830148' lon='-71.2263749' />
+  <node id='3698000105' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8301647' lon='-71.2276181' />
+  <node id='3698000106' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8301791' lon='-71.2263215' />
+  <node id='3698000107' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8301888' lon='-71.2272149' />
+  <node id='3698000108' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8302156' lon='-71.2268944' />
+  <node id='3698000109' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8302454' lon='-71.2261834' />
+  <node id='3698000110' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8302939' lon='-71.2269629' />
+  <node id='3698000111' action='delete' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8304014' lon='-71.2270568' />
+  <node id='3698000112' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8304275' lon='-71.2281088' />
+  <node id='3698000113' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8305133' lon='-71.2281424' />
+  <node id='3698000114' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8305356' lon='-71.2281621' />
+  <node id='3698000115' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8305601' lon='-71.2282479' />
+  <node id='3698000116' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8305788' lon='-71.2282017' />
+  <node id='3698000117' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8306209' lon='-71.2283022' />
+  <node id='3698000118' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.830634' lon='-71.2282659' />
+  <node id='3698000119' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8306651' lon='-71.2282938' />
+  <node id='3698000120' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8306785' lon='-71.2282621' />
+  <node id='3698000121' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8310857' lon='-71.2275729' />
+  <node id='3698000122' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561' lat='46.8311306' lon='-71.2274678' />
+  <node id='3707413845' timestamp='2015-08-21T02:15:00Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33474209' lat='46.8297734' lon='-71.2265642'>
+    <tag k='access' v='yes' />
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='3712325545' action='delete' visible='true' version='1' changeset='33552437' lat='46.83030772931' lon='-71.22735977822' />
+  <node id='3712325546' action='delete' visible='true' version='1' changeset='33552437' lat='46.83032205233' lon='-71.22732368313' />
+  <node id='3712325547' action='delete' visible='true' version='1' changeset='33552437' lat='46.83034822888' lon='-71.22726015576' />
+  <node id='3712325548' action='delete' visible='true' version='1' changeset='33552437' lat='46.83035810682' lon='-71.22727098429' />
+  <node id='3712325549' action='delete' visible='true' version='1' changeset='33552437' lat='46.83040453311' lon='-71.22716558662' />
+  <node id='3712325550' action='delete' visible='true' version='1' changeset='33552437' lat='46.83044108144' lon='-71.22719951601' />
+  <node id='3712325551' action='delete' visible='true' version='1' changeset='33552437' lat='46.83046083729' lon='-71.22715331429' />
+  <node id='3712325552' action='delete' visible='true' version='1' changeset='33552437' lat='46.83058233556' lon='-71.22760594675' />
+  <node id='3712325553' action='delete' visible='true' version='1' changeset='33552437' lat='46.83068753507' lon='-71.22735689061' />
+  <way id='-12347' action='modify' visible='true'>
+    <nd ref='-12345' />
+    <nd ref='-12346' />
+    <nd ref='-12348' />
+    <nd ref='-12350' />
+    <nd ref='-12352' />
+    <nd ref='-12354' />
+    <nd ref='-12356' />
+    <nd ref='-12358' />
+    <nd ref='-12360' />
+    <nd ref='-12362' />
+    <nd ref='-12364' />
+    <nd ref='-12366' />
+    <nd ref='-12368' />
+    <nd ref='-12370' />
+    <nd ref='-12372' />
+    <nd ref='-12374' />
+    <nd ref='-12345' />
+    <tag k='building:part' v='corridor' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Corridor 2100' />
+  </way>
+  <way id='-12254' action='modify' visible='true'>
+    <nd ref='-12252' />
+    <nd ref='-12253' />
+    <nd ref='-12255' />
+    <nd ref='-12257' />
+    <nd ref='-12252' />
+    <tag k='building:part' v='room' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Local 2122' />
+    <tag k='ref' v='2122' />
+    <tag k='room' v='yes' />
+  </way>
+  <way id='-11530' action='modify' visible='true'>
+    <nd ref='-11528' />
+    <nd ref='-11521' />
+    <nd ref='-11523' />
+    <nd ref='-11524' />
+    <nd ref='-11525' />
+    <nd ref='-11526' />
+    <nd ref='-11527' />
+    <nd ref='-11529' />
+    <nd ref='-11522' />
+    <nd ref='-11528' />
+    <tag k='building:part' v='room' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='-11452' action='modify' visible='true'>
+    <nd ref='-11450' />
+    <nd ref='-11451' />
+    <nd ref='-11453' />
+    <nd ref='-11455' />
+    <nd ref='-11450' />
+    <tag k='building:part' v='room' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Local 2135' />
+    <tag k='ref' v='2135' />
+  </way>
+  <way id='-11412' action='modify' visible='true'>
+    <nd ref='-11378' />
+    <nd ref='-11411' />
+    <nd ref='-11413' />
+    <nd ref='-11376' />
+    <nd ref='-11378' />
+    <tag k='buildingpart' v='room' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Local 2303' />
+    <tag k='ref' v='2303' />
+  </way>
+  <way id='-11375' action='modify' visible='true'>
+    <nd ref='-11373' />
+    <nd ref='-11374' />
+    <nd ref='-11376' />
+    <nd ref='-11378' />
+    <nd ref='-11373' />
+    <tag k='buildingpart' v='room' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Local 2304' />
+    <tag k='ref' v='2304' />
+  </way>
+  <way id='-11332' action='modify' visible='true'>
+    <nd ref='-11330' />
+    <nd ref='-11331' />
+    <nd ref='-11333' />
+    <nd ref='-11335' />
+    <nd ref='-11337' />
+    <nd ref='-11339' />
+    <nd ref='-11330' />
+    <tag k='building:part' v='room' />
+    <tag k='buildingpart' v='room' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Local 2412' />
+    <tag k='ref' v='2412' />
+    <tag k='room' v='class' />
+  </way>
+  <way id='-11267' action='modify' visible='true'>
+    <nd ref='-11270' />
+    <nd ref='-11265' />
+    <nd ref='-11266' />
+    <nd ref='-11268' />
+    <nd ref='-11270' />
+    <tag k='building:part' v='room' />
+    <tag k='buildingpart' v='room' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Local 2069' />
+    <tag k='ref' v='2069' />
+  </way>
+  <way id='-11229' action='modify' visible='true'>
+    <nd ref='-11194' />
+    <nd ref='-11228' />
+    <nd ref='-11230' />
+    <nd ref='-11192' />
+    <nd ref='-11194' />
+    <tag k='building:part' v='room' />
+    <tag k='name' v='Local 2102' />
+  </way>
+  <way id='-11191' action='modify' visible='true'>
+    <nd ref='-11189' />
+    <nd ref='-11190' />
+    <nd ref='-11192' />
+    <nd ref='-11194' />
+    <nd ref='-11189' />
+    <tag k='building:part' v='room' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Local 2106' />
+    <tag k='ref' v='2106' />
+    <tag k='room' v='class' />
+  </way>
+  <way id='16223993' timestamp='2015-04-23T01:26:37Z' uid='595246' user='BrunoRemy' visible='true' version='10' changeset='30418873'>
+    <nd ref='164784759' />
+    <nd ref='3472412164' />
+    <nd ref='164784761' />
+    <tag k='cycleway' v='lane' />
+    <tag k='highway' v='residential' />
+    <tag k='lcn' v='yes' />
+    <tag k='name' v='12e Rue' />
+    <tag k='oneway' v='yes' />
+    <tag k='oneway:bicycle' v='no' />
+  </way>
+  <way id='16232458' timestamp='2014-09-20T18:19:21Z' uid='1679' user='andrewpmk' visible='true' version='10' changeset='25565206'>
+    <nd ref='164976538' />
+    <nd ref='2548204786' />
+    <nd ref='2535131639' />
+    <nd ref='164978022' />
+    <nd ref='164978023' />
+    <nd ref='164978024' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='name' v='Boulevard des Capucins' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='16232676' timestamp='2014-02-18T04:43:26Z' uid='595246' user='BrunoRemy' visible='true' version='10' changeset='20629118'>
+    <nd ref='164784759' />
+    <nd ref='2548204799' />
+    <nd ref='2548204797' />
+    <nd ref='164794360' />
+    <nd ref='2678288374' />
+    <nd ref='2535131615' />
+    <tag k='cycleway' v='lane' />
+    <tag k='highway' v='residential' />
+    <tag k='lcn' v='yes' />
+    <tag k='name' v='8e Avenue' />
+  </way>
+  <way id='16234041' timestamp='2015-06-05T00:33:49Z' uid='595246' user='BrunoRemy' visible='true' version='11' changeset='31734587'>
+    <nd ref='165016621' />
+    <nd ref='3557275089' />
+    <nd ref='164997458' />
+    <nd ref='2408071635' />
+    <tag k='cycleway' v='shared' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='14e Rue' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='24411811' timestamp='2015-05-30T02:11:37Z' uid='595246' user='BrunoRemy' visible='true' version='11' changeset='31575656'>
+    <nd ref='164784761' />
+    <nd ref='164808926' />
+    <nd ref='3557275092' />
+    <nd ref='2548204813' />
+    <nd ref='165016621' />
+    <nd ref='2548204817' />
+    <nd ref='2535123255' />
+    <nd ref='2548204819' />
+    <nd ref='2514473619' />
+    <nd ref='2514473620' />
+    <nd ref='3474298719' />
+    <nd ref='165041334' />
+    <nd ref='3474298720' />
+    <nd ref='2514473637' />
+    <nd ref='165042095' />
+    <nd ref='3557278298' />
+    <nd ref='165042672' />
+    <nd ref='3557275069' />
+    <nd ref='165044132' />
+    <tag k='cycleway' v='track' />
+    <tag k='highway' v='residential' />
+    <tag k='lcn' v='yes' />
+    <tag k='name' v='8e Avenue' />
+  </way>
+  <way id='25775277' timestamp='2015-05-30T02:11:36Z' uid='595246' user='BrunoRemy' visible='true' version='5' changeset='31575656'>
+    <nd ref='164976541' />
+    <nd ref='366067138' />
+    <nd ref='3557275067' />
+    <nd ref='2697020497' />
+    <nd ref='3557275088' />
+    <nd ref='3557275087' />
+    <nd ref='281143781' />
+    <nd ref='2795584921' />
+    <nd ref='2795584922' />
+    <nd ref='281143783' />
+    <nd ref='281143784' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Avenue Conway' />
+  </way>
+  <way id='27924747' timestamp='2014-12-31T20:49:16Z' uid='204929' user='Sebastien Duthil' visible='true' version='9' changeset='27830759'>
+    <nd ref='164976538' />
+    <nd ref='2548204792' />
+    <nd ref='1198901363' />
+    <nd ref='366067223' />
+    <nd ref='164976539' />
+    <nd ref='164976541' />
+    <nd ref='366067967' />
+    <nd ref='164976543' />
+    <nd ref='164976545' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='Chemin de la Canardière' />
+  </way>
+  <way id='32550421' timestamp='2014-06-24T23:43:04Z' uid='204929' user='Sebastien Duthil' visible='true' version='6' changeset='23133201'>
+    <nd ref='2535131639' />
+    <nd ref='2548204786' />
+    <nd ref='164976538' />
+    <nd ref='2548204792' />
+    <nd ref='1198901363' />
+    <nd ref='366067223' />
+    <nd ref='291659850' />
+    <nd ref='366068047' />
+    <nd ref='164978026' />
+    <nd ref='165000383' />
+    <nd ref='164978024' />
+    <nd ref='164978023' />
+    <nd ref='164978022' />
+    <nd ref='2535131639' />
+    <tag k='landuse' v='industrial' />
+  </way>
+  <way id='50499350' timestamp='2015-06-05T01:22:07Z' uid='2821814' user='Leon Talbot' visible='true' version='14' changeset='31734882'>
+    <nd ref='164784761' />
+    <nd ref='3472412142' />
+    <nd ref='3127768210' />
+    <nd ref='2407810984' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='1' />
+    <tag k='name' v='12e Rue' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='103856141' timestamp='2011-03-12T19:02:39Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198693380' />
+    <nd ref='1198889849' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103856737' timestamp='2011-03-12T19:04:16Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198744114' />
+    <nd ref='1198898250' />
+    <tag k='railway' v='rail' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103857655' timestamp='2011-03-12T19:06:04Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198693653' />
+    <nd ref='1198744114' />
+    <tag k='railway' v='rail' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103858473' timestamp='2011-03-12T19:08:15Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198716682' />
+    <nd ref='1198686967' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103860721' timestamp='2013-11-02T02:44:26Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='18669246'>
+    <nd ref='2517015314' />
+    <nd ref='1198801782' />
+    <nd ref='2517015311' />
+    <nd ref='2517015316' />
+    <nd ref='2517015329' />
+    <nd ref='2517015324' />
+    <nd ref='2517015328' />
+    <nd ref='2517015333' />
+    <nd ref='2517015334' />
+    <nd ref='2517015342' />
+    <nd ref='2517015336' />
+    <nd ref='2517015352' />
+    <nd ref='2517015353' />
+    <nd ref='2517015355' />
+    <nd ref='2517015354' />
+    <nd ref='1198817503' />
+    <nd ref='1198867610' />
+    <nd ref='2517015344' />
+    <nd ref='2517015341' />
+    <nd ref='2517015335' />
+    <nd ref='2517015339' />
+    <nd ref='2517015331' />
+    <nd ref='2517015327' />
+    <nd ref='2517015323' />
+    <nd ref='2517015332' />
+    <nd ref='2517015317' />
+    <nd ref='2517015309' />
+    <nd ref='2517015303' />
+    <nd ref='2517015314' />
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103861707' timestamp='2011-03-12T19:15:48Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198758990' />
+    <nd ref='1198729129' />
+    <tag k='addr:interpolation' v='even' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103861882' timestamp='2011-03-12T19:16:31Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198866840' />
+    <nd ref='1198787309' />
+    <nd ref='1198928105' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103862151' timestamp='2011-03-12T19:17:18Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198744114' />
+    <nd ref='1198847919' />
+    <tag k='railway' v='rail' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103862919' timestamp='2011-03-12T19:18:59Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198898605' />
+    <nd ref='1198721628' />
+    <nd ref='1198740980' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103863099' timestamp='2011-03-12T19:19:25Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198743108' />
+    <nd ref='1198762848' />
+    <nd ref='1198759743' />
+    <tag k='addr:interpolation' v='even' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103863402' timestamp='2011-03-12T19:20:17Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198782993' />
+    <nd ref='1198850164' />
+    <nd ref='1198910173' />
+    <tag k='addr:interpolation' v='even' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103864393' timestamp='2011-03-12T19:22:16Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198894036' />
+    <nd ref='1198873469' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103864614' timestamp='2011-03-12T19:22:47Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198705324' />
+    <nd ref='1198702738' />
+    <tag k='addr:interpolation' v='even' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103864719' timestamp='2015-01-20T01:47:05Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159'>
+    <nd ref='1198773557' />
+    <nd ref='1198749769' />
+    <tag k='railway' v='rail' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103864870' timestamp='2011-03-12T19:23:26Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198825106' />
+    <nd ref='1198861321' />
+    <tag k='addr:interpolation' v='even' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103865629' timestamp='2011-03-12T19:26:17Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198707515' />
+    <nd ref='1198694992' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103865884' timestamp='2015-01-20T01:47:05Z' uid='204929' user='Sebastien Duthil' visible='true' version='3' changeset='28267159'>
+    <nd ref='1198749769' />
+    <nd ref='1198916410' />
+    <tag k='bridge' v='yes' />
+    <tag k='layer' v='1' />
+    <tag k='railway' v='rail' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103866346' timestamp='2011-03-12T19:28:13Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198759268' />
+    <nd ref='1198779909' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103866477' timestamp='2011-03-12T19:28:30Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198762413' />
+    <nd ref='1198679294' />
+    <nd ref='1198859200' />
+    <tag k='addr:interpolation' v='even' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103866899' timestamp='2011-03-12T19:29:28Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198857516' />
+    <nd ref='1198826915' />
+    <nd ref='1198781623' />
+    <nd ref='1198885501' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103867050' timestamp='2011-03-12T19:29:44Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198744369' />
+    <nd ref='1198917162' />
+    <tag k='addr:interpolation' v='even' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103867846' timestamp='2015-01-20T01:47:08Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159'>
+    <nd ref='1198693653' />
+    <nd ref='3299600789' />
+    <nd ref='3299600783' />
+    <nd ref='1198684010' />
+    <nd ref='1198896991' />
+    <tag k='railway' v='rail' />
+    <tag k='source' v='NRCan-CanVec-7.0; Bing' />
+  </way>
+  <way id='103868234' timestamp='2011-03-12T19:31:44Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198698040' />
+    <nd ref='1198920008' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103869179' timestamp='2011-03-12T19:33:25Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198782491' />
+    <nd ref='1198869598' />
+    <tag k='addr:interpolation' v='even' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103870122' timestamp='2011-03-12T19:34:58Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198718779' />
+    <nd ref='1198751747' />
+    <tag k='addr:interpolation' v='even' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103870791' timestamp='2011-03-12T19:36:28Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198770347' />
+    <nd ref='1198808399' />
+    <nd ref='1198879224' />
+    <tag k='addr:interpolation' v='even' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103870806' timestamp='2014-12-31T20:49:17Z' uid='204929' user='Sebastien Duthil' visible='true' version='3' changeset='27830759'>
+    <nd ref='1198773557' />
+    <nd ref='1198817844' />
+    <tag k='railway' v='rail' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103870920' timestamp='2015-01-20T01:47:06Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159'>
+    <nd ref='1198916410' />
+    <nd ref='1198714342' />
+    <tag k='railway' v='rail' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103871968' timestamp='2015-01-20T01:47:08Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159'>
+    <nd ref='1198842114' />
+    <nd ref='3299600802' />
+    <nd ref='1198710030' />
+    <nd ref='1198773557' />
+    <tag k='railway' v='rail' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103872073' timestamp='2015-01-20T01:47:07Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159'>
+    <nd ref='1198898250' />
+    <nd ref='3299600787' />
+    <nd ref='1198740290' />
+    <tag k='railway' v='rail' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103872084' timestamp='2011-03-12T19:40:52Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198705627' />
+    <nd ref='1198764122' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103872124' timestamp='2015-01-20T01:47:07Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28267159'>
+    <nd ref='1198898250' />
+    <nd ref='3299600786' />
+    <nd ref='1198758976' />
+    <tag k='railway' v='rail' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103872819' timestamp='2011-03-12T19:44:06Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198717544' />
+    <nd ref='1198915414' />
+    <tag k='addr:interpolation' v='odd' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='103872893' timestamp='2015-08-21T02:15:01Z' uid='3146494' user='Étienne Loiselle' visible='true' version='9' changeset='33474209'>
+    <nd ref='2548204818' />
+    <nd ref='1198901139' />
+    <nd ref='3698000122' />
+    <nd ref='3698000121' />
+    <nd ref='2548204821' />
+    <nd ref='2548204820' />
+    <nd ref='2548204816' />
+    <nd ref='2548204815' />
+    <nd ref='1198788228' />
+    <nd ref='3698000112' />
+    <nd ref='2535113881' />
+    <nd ref='2535113879' />
+    <nd ref='1198803947' />
+    <nd ref='2535113863' />
+    <nd ref='2548204812' />
+    <nd ref='3698000081' />
+    <nd ref='3698000074' />
+    <nd ref='3698000061' />
+    <nd ref='3698000057' />
+    <nd ref='3698000056' />
+    <nd ref='1198835127' />
+    <nd ref='3698000055' />
+    <nd ref='3698000054' />
+    <nd ref='2535113865' />
+    <nd ref='3698000053' />
+    <nd ref='2535113861' />
+    <nd ref='2535113859' />
+    <nd ref='1198715181' />
+    <nd ref='2535113867' />
+    <nd ref='3698000049' />
+    <nd ref='3698000048' />
+    <nd ref='3698000047' />
+    <nd ref='2535113857' />
+    <nd ref='2535113858' />
+    <nd ref='3698000046' />
+    <nd ref='2535113856' />
+    <nd ref='2535113869' />
+    <nd ref='1198838303' />
+    <nd ref='2535113871' />
+    <nd ref='3698000051' />
+    <nd ref='3698000052' />
+    <nd ref='2535113872' />
+    <nd ref='2535113873' />
+    <nd ref='3698000064' />
+    <nd ref='3698000060' />
+    <nd ref='3698000062' />
+    <nd ref='3698000066' />
+    <nd ref='3698000067' />
+    <nd ref='3698000069' />
+    <nd ref='2256328128' />
+    <nd ref='2535113874' />
+    <nd ref='3707413845' />
+    <nd ref='2535113875' />
+    <nd ref='3698000065' />
+    <nd ref='3113755166' />
+    <nd ref='2535113877' />
+    <nd ref='2256328125' />
+    <nd ref='3113755165' />
+    <nd ref='3113755164' />
+    <nd ref='2256328119' />
+    <nd ref='2256328118' />
+    <nd ref='2256328121' />
+    <nd ref='3698000044' />
+    <nd ref='2548204784' />
+    <nd ref='2535113842' />
+    <nd ref='2256328120' />
+    <nd ref='3698000050' />
+    <nd ref='2256328122' />
+    <nd ref='3698000063' />
+    <nd ref='2256328124' />
+    <nd ref='3698000070' />
+    <nd ref='2548204804' />
+    <nd ref='3698000072' />
+    <nd ref='3698000071' />
+    <nd ref='2256328123' />
+    <nd ref='2535113844' />
+    <nd ref='2535113845' />
+    <nd ref='1198830359' />
+    <nd ref='2535113846' />
+    <nd ref='2535113847' />
+    <nd ref='2535113849' />
+    <nd ref='2535113850' />
+    <nd ref='1198807827' />
+    <nd ref='1198845959' />
+    <nd ref='2535113852' />
+    <nd ref='2535113854' />
+    <nd ref='2548204818' />
+    <tag k='addr:city' v='Québec' />
+    <tag k='addr:housenumber' v='1300' />
+    <tag k='addr:postcode' v='G1J 5L5' />
+    <tag k='addr:street' v='8e Avenue' />
+    <tag k='building' v='school' />
+    <tag k='building:levels' v='5' />
+    <tag k='building:max_level' v='5' />
+    <tag k='building:min_level' v='-1' />
+    <tag k='name' v='Cégep Limoilou, campus de Québec' />
+    <tag k='source' v='Bing Maps' />
+    <tag k='type' v='building' />
+  </way>
+  <way id='103874863' timestamp='2011-03-12T19:49:59Z' uid='404518' user='canvec_fsteggink' visible='true' version='1' changeset='7536743'>
+    <nd ref='1198839037' />
+    <nd ref='1198842908' />
+    <nd ref='1198838812' />
+    <nd ref='1198756084' />
+    <tag k='addr:interpolation' v='even' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='162157029' timestamp='2015-07-31T02:27:07Z' uid='204929' user='Sebastien Duthil' visible='true' version='4' changeset='32997385'>
+    <nd ref='1740939711' />
+    <nd ref='1740948492' />
+    <nd ref='1740948503' />
+    <nd ref='1740939706' />
+    <nd ref='1740939722' />
+    <nd ref='2514473666' />
+    <nd ref='1198749626' />
+    <nd ref='1198789106' />
+    <nd ref='1198697837' />
+    <nd ref='1198841436' />
+    <nd ref='2514473687' />
+    <nd ref='1198726755' />
+    <nd ref='1198702697' />
+    <nd ref='1198683339' />
+    <nd ref='1198696859' />
+    <nd ref='2514473709' />
+    <nd ref='1740939711' />
+  </way>
+  <way id='175794804' timestamp='2014-10-05T23:14:08Z' uid='595246' user='BrunoRemy' visible='true' version='9' changeset='25886897'>
+    <nd ref='277487804' />
+    <nd ref='164802407' />
+    <nd ref='164801044' />
+    <nd ref='2535131615' />
+    <nd ref='3113755159' />
+    <nd ref='2548204783' />
+    <nd ref='2535131622' />
+    <nd ref='2535131626' />
+    <nd ref='164976538' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Chemin de la Canardière' />
+  </way>
+  <way id='216277616' timestamp='2013-11-24T04:21:27Z' uid='1712401' user='Géoludic' visible='true' version='3' changeset='19085341'>
+    <nd ref='2256328129' />
+    <nd ref='2256328130' />
+    <nd ref='2548204809' />
+    <nd ref='2256328131' />
+    <nd ref='2256328132' />
+    <nd ref='2535113894' />
+    <nd ref='2535113891' />
+    <nd ref='2548204805' />
+    <nd ref='2535113887' />
+    <nd ref='2535113889' />
+    <nd ref='2548204801' />
+    <nd ref='2535113885' />
+    <nd ref='2535113883' />
+    <nd ref='2256328133' />
+    <nd ref='2256328134' />
+    <nd ref='2256328135' />
+    <nd ref='2256328136' />
+    <nd ref='2256328129' />
+    <tag k='amenity' v='parking' />
+  </way>
+  <way id='244096856' timestamp='2013-10-30T21:56:55Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719'>
+    <nd ref='2514473620' />
+    <nd ref='2514473622' />
+    <nd ref='2514473623' />
+    <nd ref='2514473624' />
+    <nd ref='2514473626' />
+    <nd ref='2514473628' />
+    <nd ref='2514473631' />
+    <nd ref='2514473635' />
+    <nd ref='2514473644' />
+    <nd ref='2514473651' />
+    <nd ref='2514473653' />
+    <nd ref='2514473661' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='244096863' timestamp='2013-10-30T21:56:55Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='18625719'>
+    <nd ref='2514473624' />
+    <nd ref='2514473646' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='244096885' timestamp='2013-11-05T01:17:59Z' uid='1712401' user='Géoludic' visible='true' version='2' changeset='18722280'>
+    <nd ref='2514473633' />
+    <nd ref='2514473625' />
+    <nd ref='2514473621' />
+    <nd ref='2514473630' />
+    <nd ref='2514473633' />
+    <tag k='leisure' v='ice_rink' />
+    <tag k='source' v='Bing Maps' />
+    <tag k='sport' v='hockey' />
+  </way>
+  <way id='244847757' timestamp='2014-10-05T23:14:06Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='25886897'>
+    <nd ref='2535131622' />
+    <nd ref='3113755162' />
+    <nd ref='2521174440' />
+    <nd ref='164794360' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='11e Rue' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='246474941' timestamp='2013-11-24T04:21:27Z' uid='1712401' user='Géoludic' visible='true' version='3' changeset='19085341'>
+    <nd ref='2535131626' />
+    <nd ref='2535123238' />
+    <nd ref='2535123240' />
+    <nd ref='2535123242' />
+    <nd ref='2535123244' />
+    <nd ref='2548204800' />
+    <nd ref='2535123246' />
+    <nd ref='2535123248' />
+    <nd ref='2548204806' />
+    <nd ref='2535123249' />
+    <nd ref='2535123251' />
+    <nd ref='2548204810' />
+    <nd ref='2535123253' />
+    <nd ref='2535123257' />
+    <nd ref='2535123260' />
+    <nd ref='2535123258' />
+    <nd ref='2535123262' />
+    <nd ref='2535123264' />
+    <nd ref='2535123255' />
+    <tag k='highway' v='service' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='247972111' timestamp='2015-08-15T02:24:39Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33345561'>
+    <nd ref='1198788228' />
+    <nd ref='2548204815' />
+    <nd ref='2548204816' />
+    <nd ref='2548204820' />
+    <nd ref='1198846305' />
+    <nd ref='3698000120' />
+    <nd ref='3698000119' />
+    <nd ref='3698000118' />
+    <nd ref='3698000117' />
+    <nd ref='3698000115' />
+    <nd ref='3698000116' />
+    <nd ref='2548204814' />
+    <nd ref='3698000114' />
+    <nd ref='3698000113' />
+    <nd ref='1198788228' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='247972120' action='modify' timestamp='2015-08-21T02:15:03Z' uid='3146494' user='Étienne Loiselle' visible='true' version='4' changeset='33474209'>
+    <nd ref='2548204804' />
+    <nd ref='2548204808' />
+    <nd ref='2548204807' />
+    <nd ref='2548204802' />
+    <nd ref='2548204798' />
+    <nd ref='2548204788' />
+    <nd ref='3113755163' />
+    <nd ref='2521174440' />
+    <nd ref='2548204782' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='1' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='247972121' action='modify' timestamp='2015-08-21T02:15:03Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33474209'>
+    <nd ref='2548204813' />
+    <nd ref='2548204814' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='1' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='247972122' timestamp='2013-11-24T04:21:24Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341'>
+    <nd ref='2548204819' />
+    <nd ref='2548204823' />
+    <tag k='highway' v='service' />
+    <tag k='service' v='parking_aisle' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='247972123' timestamp='2013-11-24T04:21:24Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341'>
+    <nd ref='2548204798' />
+    <nd ref='2548204801' />
+    <nd ref='2548204800' />
+    <tag k='highway' v='service' />
+    <tag k='service' v='parking_aisle' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='247972124' timestamp='2013-11-24T04:21:24Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341'>
+    <nd ref='2548204807' />
+    <nd ref='2548204809' />
+    <nd ref='2548204810' />
+    <tag k='highway' v='service' />
+    <tag k='service' v='parking_aisle' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='247972125' action='modify' timestamp='2015-08-21T02:15:03Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33474209'>
+    <nd ref='164808926' />
+    <nd ref='2548204811' />
+    <nd ref='2548204812' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='1' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='247972126' timestamp='2013-11-24T04:21:24Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341'>
+    <nd ref='2548204817' />
+    <nd ref='2548204822' />
+    <nd ref='2548204821' />
+    <tag k='highway' v='footway' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='247972127' timestamp='2013-11-24T04:21:24Z' uid='1712401' user='Géoludic' visible='true' version='1' changeset='19085341'>
+    <nd ref='2548204802' />
+    <nd ref='2548204805' />
+    <nd ref='2548204806' />
+    <tag k='highway' v='service' />
+    <tag k='service' v='parking_aisle' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='247972128' action='modify' timestamp='2015-08-21T02:15:03Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33474209'>
+    <nd ref='3707413845' />
+    <nd ref='3698000058' />
+    <nd ref='2548204795' />
+    <nd ref='2548204794' />
+    <nd ref='2548204796' />
+    <nd ref='2548204811' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='247972129' timestamp='2015-08-21T02:15:03Z' uid='3146494' user='Étienne Loiselle' visible='true' version='3' changeset='33474209'>
+    <nd ref='2548204784' />
+    <nd ref='2548204788' />
+    <nd ref='2548204790' />
+    <nd ref='2535123238' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='level' v='1' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='247972130' timestamp='2015-05-30T02:11:33Z' uid='595246' user='BrunoRemy' visible='true' version='4' changeset='31575656'>
+    <nd ref='2514473619' />
+    <nd ref='2548204819' />
+    <nd ref='2535123255' />
+    <nd ref='2548204817' />
+    <nd ref='165016621' />
+    <nd ref='2548204813' />
+    <nd ref='3557275092' />
+    <nd ref='164808926' />
+    <nd ref='164784761' />
+    <nd ref='3472412164' />
+    <nd ref='164784759' />
+    <nd ref='2548204799' />
+    <nd ref='2548204797' />
+    <nd ref='164794360' />
+    <nd ref='2521174440' />
+    <nd ref='3113755162' />
+    <nd ref='2535131622' />
+    <nd ref='2535131626' />
+    <nd ref='164976538' />
+    <nd ref='2548204792' />
+    <nd ref='1198901363' />
+    <nd ref='1198749769' />
+    <nd ref='1198773557' />
+    <nd ref='366067187' />
+    <nd ref='1740939706' />
+    <nd ref='1740939722' />
+    <nd ref='2514473619' />
+    <tag k='amenity' v='school' />
+    <tag k='source' v='Bing Maps' />
+  </way>
+  <way id='262162665' timestamp='2014-10-05T23:14:09Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897'>
+    <nd ref='2535131622' />
+    <nd ref='3113755162' />
+    <nd ref='2521174440' />
+    <nd ref='164794360' />
+    <nd ref='2678288374' />
+    <nd ref='2535131615' />
+    <nd ref='2535131622' />
+    <tag k='landuse' v='commercial' />
+  </way>
+  <way id='262162667' timestamp='2014-10-05T23:14:09Z' uid='595246' user='BrunoRemy' visible='true' version='3' changeset='25886897'>
+    <nd ref='2535131622' />
+    <nd ref='164976538' />
+    <nd ref='2548204786' />
+    <nd ref='2535131639' />
+    <nd ref='164984547' />
+    <nd ref='2535131615' />
+    <nd ref='3113755159' />
+    <nd ref='2548204783' />
+    <nd ref='2535131622' />
+    <tag k='landuse' v='brownfield' />
+    <tag k='note' v='Terrain inoccupé depuis quelques années. Tout a été détruit. Usage future condo et/ou commercial probablement? (16 nov 2013)-Note2: innocupé+rasé=Brownfield.' />
+    <tag k='source' v='survey' />
+  </way>
+  <way id='262162668' timestamp='2014-10-05T23:14:09Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='25886897'>
+    <nd ref='2678288380' />
+    <nd ref='2678288377' />
+    <nd ref='2678288376' />
+    <nd ref='2678288375' />
+    <nd ref='3113755161' />
+    <nd ref='2678288379' />
+    <nd ref='2678288380' />
+    <tag k='building' v='commercial' />
+  </way>
+  <way id='274893406' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549'>
+    <nd ref='2795580633' />
+    <nd ref='2795580637' />
+    <nd ref='2795580634' />
+    <nd ref='2795580632' />
+    <nd ref='2795580633' />
+    <tag k='building' v='industrial' />
+  </way>
+  <way id='274893407' timestamp='2014-04-17T00:14:28Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549'>
+    <nd ref='2795580634' />
+    <nd ref='2795580635' />
+    <nd ref='2795580636' />
+    <nd ref='2795580638' />
+    <nd ref='2795580642' />
+    <nd ref='2795580639' />
+    <nd ref='2795580641' />
+    <nd ref='2795580637' />
+    <nd ref='2795580634' />
+    <tag k='building' v='industrial' />
+  </way>
+  <way id='274893408' timestamp='2014-04-17T00:14:29Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740549'>
+    <nd ref='164976539' />
+    <nd ref='2795580630' />
+    <nd ref='2795580631' />
+    <nd ref='2795580640' />
+    <nd ref='366067967' />
+    <nd ref='164976541' />
+    <nd ref='164976539' />
+    <tag k='power' v='substation' />
+  </way>
+  <way id='274893721' timestamp='2015-06-05T01:58:39Z' uid='2821814' user='Leon Talbot' visible='true' version='4' changeset='31735093'>
+    <nd ref='1740939715' />
+    <nd ref='3557275091' />
+    <nd ref='1740939714' />
+    <nd ref='2697020497' />
+    <nd ref='3557275067' />
+    <nd ref='366067138' />
+    <nd ref='366067140' />
+    <nd ref='3573469195' />
+    <nd ref='164976543' />
+    <nd ref='265662824' />
+    <nd ref='265024182' />
+    <nd ref='265024183' />
+    <nd ref='265024184' />
+    <nd ref='265685883' />
+    <nd ref='265024185' />
+    <nd ref='265024186' />
+    <nd ref='275474109' />
+    <nd ref='503672080' />
+    <nd ref='3255456459' />
+    <nd ref='265203593' />
+    <nd ref='265203599' />
+    <nd ref='503672084' />
+    <nd ref='265203613' />
+    <nd ref='291659850' />
+    <nd ref='366067223' />
+    <nd ref='366067187' />
+    <nd ref='2795580643' />
+    <nd ref='2795580648' />
+    <nd ref='2795580649' />
+    <nd ref='2795580647' />
+    <nd ref='2795580646' />
+    <nd ref='2795584924' />
+    <nd ref='2795580644' />
+    <nd ref='2795584923' />
+    <nd ref='281143783' />
+    <nd ref='2795584922' />
+    <nd ref='2795584921' />
+    <nd ref='281143781' />
+    <nd ref='1740939712' />
+    <nd ref='1740939715' />
+    <tag k='landuse' v='industrial' />
+    <tag k='name' v='Zone industrielle de la Canardière' />
+  </way>
+  <way id='274894023' timestamp='2014-04-17T00:25:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740589'>
+    <nd ref='2795588920' />
+    <nd ref='2795588921' />
+    <nd ref='2795588923' />
+    <nd ref='2795588922' />
+    <nd ref='2795588920' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='274894024' timestamp='2014-04-17T00:25:02Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='21740589'>
+    <nd ref='2795588929' />
+    <nd ref='2795588925' />
+    <nd ref='2795588924' />
+    <nd ref='2795588926' />
+    <nd ref='2795588929' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='292619499' timestamp='2015-06-05T01:40:36Z' uid='2821814' user='Leon Talbot' visible='true' version='16' changeset='31734979'>
+    <nd ref='281143859' />
+    <nd ref='366068224' />
+    <nd ref='281143863' />
+    <nd ref='277487835' />
+    <nd ref='277487846' />
+    <nd ref='277487844' />
+    <nd ref='281143918' />
+    <nd ref='281143919' />
+    <nd ref='281143917' />
+    <nd ref='281143916' />
+    <nd ref='366067156' />
+    <nd ref='366067236' />
+    <nd ref='366067237' />
+    <nd ref='366067238' />
+    <nd ref='2487038793' />
+    <nd ref='366067239' />
+    <nd ref='366067159' />
+    <nd ref='1919577954' />
+    <nd ref='281143928' />
+    <nd ref='281143933' />
+    <nd ref='3074302963' />
+    <nd ref='281143907' />
+    <nd ref='366067157' />
+    <nd ref='366067240' />
+    <nd ref='366067241' />
+    <nd ref='366067242' />
+    <nd ref='366067153' />
+    <nd ref='177112247' />
+    <nd ref='177112248' />
+    <nd ref='3074302968' />
+    <nd ref='177102846' />
+    <nd ref='281143903' />
+    <nd ref='281143892' />
+    <nd ref='3074302981' />
+    <nd ref='3074302984' />
+    <nd ref='3074302985' />
+    <nd ref='3074302990' />
+    <nd ref='281143893' />
+    <nd ref='281143897' />
+    <nd ref='3573455398' />
+    <nd ref='310337825' />
+    <nd ref='281143898' />
+    <nd ref='3074280108' />
+    <nd ref='3074280109' />
+    <nd ref='2531625991' />
+    <nd ref='3074323123' />
+    <nd ref='281144002' />
+    <nd ref='366067145' />
+    <nd ref='366067243' />
+    <nd ref='366067244' />
+    <nd ref='366067245' />
+    <nd ref='2515561249' />
+    <nd ref='251405334' />
+    <nd ref='281144008' />
+    <nd ref='2515561449' />
+    <nd ref='2515561468' />
+    <nd ref='2515561482' />
+    <nd ref='265685843' />
+    <nd ref='2521283014' />
+    <nd ref='366067147' />
+    <nd ref='291659747' />
+    <nd ref='291660727' />
+    <nd ref='366067197' />
+    <nd ref='291660542' />
+    <nd ref='291659854' />
+    <nd ref='291659742' />
+    <nd ref='291659741' />
+    <nd ref='2697003463' />
+    <nd ref='3068254686' />
+    <nd ref='288360405' />
+    <nd ref='288360414' />
+    <nd ref='288360428' />
+    <nd ref='3068254692' />
+    <nd ref='281143774' />
+    <nd ref='3149291550' />
+    <nd ref='288360413' />
+    <nd ref='3149273092' />
+    <nd ref='3149309711' />
+    <nd ref='288360411' />
+    <nd ref='3149273093' />
+    <nd ref='3149273089' />
+    <nd ref='288360409' />
+    <nd ref='3557275072' />
+    <nd ref='165044132' />
+    <nd ref='3557275069' />
+    <nd ref='165042672' />
+    <nd ref='165042095' />
+    <nd ref='2514473637' />
+    <nd ref='3474298720' />
+    <nd ref='165041334' />
+    <nd ref='3474298719' />
+    <nd ref='2514473620' />
+    <nd ref='2514473619' />
+    <nd ref='2548204819' />
+    <nd ref='2535123255' />
+    <nd ref='2548204817' />
+    <nd ref='165016621' />
+    <nd ref='2548204813' />
+    <nd ref='3557275092' />
+    <nd ref='164808926' />
+    <nd ref='164784761' />
+    <nd ref='3472412164' />
+    <nd ref='164784759' />
+    <nd ref='2548204799' />
+    <nd ref='2548204797' />
+    <nd ref='164794360' />
+    <nd ref='2678288374' />
+    <nd ref='2678288373' />
+    <nd ref='2408293707' />
+    <nd ref='164801044' />
+    <nd ref='2535131615' />
+    <nd ref='164984547' />
+    <nd ref='2535131639' />
+    <nd ref='164978022' />
+    <nd ref='164978023' />
+    <nd ref='164978024' />
+    <nd ref='265662889' />
+    <nd ref='3087943823' />
+    <nd ref='165000382' />
+    <nd ref='385038237' />
+    <nd ref='277487791' />
+    <nd ref='265662890' />
+    <nd ref='164984563' />
+    <nd ref='366067158' />
+    <nd ref='366067224' />
+    <nd ref='2361976524' />
+    <nd ref='2360989219' />
+    <nd ref='366067225' />
+    <nd ref='2302033712' />
+  </way>
+  <way id='319781790' timestamp='2014-12-31T20:49:16Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='27830759'>
+    <nd ref='1198817844' />
+    <nd ref='1198693653' />
+    <tag k='bridge' v='yes' />
+    <tag k='layer' v='1' />
+    <tag k='railway' v='rail' />
+    <tag k='source' v='NRCan-CanVec-7.0' />
+  </way>
+  <way id='323166575' timestamp='2015-01-20T01:47:01Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159'>
+    <nd ref='3299600792' />
+    <nd ref='3299600790' />
+    <tag k='bridge' v='yes' />
+    <tag k='layer' v='1' />
+    <tag k='railway' v='rail' />
+  </way>
+  <way id='323166589' timestamp='2015-01-21T00:22:25Z' uid='204929' user='Sebastien Duthil' visible='true' version='2' changeset='28297270'>
+    <nd ref='3299600790' />
+    <nd ref='3299599952' />
+    <nd ref='3299599940' />
+    <nd ref='3299599939' />
+    <nd ref='3299599938' />
+    <tag k='railway' v='rail' />
+  </way>
+  <way id='323166591' timestamp='2015-01-20T01:47:02Z' uid='204929' user='Sebastien Duthil' visible='true' version='1' changeset='28267159'>
+    <nd ref='3299600805' />
+    <nd ref='3299600801' />
+    <nd ref='3299600795' />
+    <nd ref='3299600793' />
+    <nd ref='3299600792' />
+    <tag k='railway' v='rail' />
+  </way>
+  <way id='340033771' timestamp='2015-04-23T01:26:35Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='30418873'>
+    <nd ref='3472412164' />
+    <nd ref='3472412138' />
+    <nd ref='3472412155' />
+    <tag k='highway' v='service' />
+    <tag k='service' v='alley' />
+  </way>
+  <way id='340215315' timestamp='2015-06-05T00:43:56Z' uid='595246' user='BrunoRemy' visible='true' version='2' changeset='31734648'>
+    <nd ref='3474298719' />
+    <nd ref='3474298725' />
+    <nd ref='3474298731' />
+    <tag k='highway' v='service' />
+    <tag k='service' v='alley' />
+  </way>
+  <way id='349942092' timestamp='2015-05-30T02:11:31Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31575656'>
+    <nd ref='3557275073' />
+    <nd ref='3557278293' />
+    <nd ref='3557275089' />
+    <tag k='highway' v='service' />
+    <tag k='service' v='alley' />
+  </way>
+  <way id='349942094' timestamp='2015-05-30T02:11:32Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31575656'>
+    <nd ref='3557278293' />
+    <nd ref='3557275092' />
+    <tag k='highway' v='service' />
+    <tag k='service' v='alley' />
+  </way>
+  <way id='351534951' timestamp='2015-06-05T00:33:47Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31734587'>
+    <nd ref='2408071622' />
+    <nd ref='164808925' />
+    <nd ref='3557275073' />
+    <nd ref='164808926' />
+    <tag k='cycleway' v='shared' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='1' />
+    <tag k='name' v='13e Rue' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='351535208' timestamp='2015-06-05T00:43:55Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31734648'>
+    <nd ref='3474298731' />
+    <nd ref='165041334' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='15e Rue' />
+  </way>
+  <way id='351536145' timestamp='2015-06-05T01:01:25Z' uid='595246' user='BrunoRemy' visible='true' version='1' changeset='31734760'>
+    <nd ref='3472412166' />
+    <nd ref='164794360' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='11e Rue' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='365788334' action='modify' timestamp='2015-08-21T02:15:01Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33474209'>
+    <nd ref='3698000091' />
+    <nd ref='3698000086' />
+    <nd ref='3698000095' />
+    <nd ref='3698000096' />
+    <nd ref='3698000101' />
+    <nd ref='3698000091' />
+    <tag k='building:part' v='room' />
+    <tag k='name' v='Local 1112' />
+  </way>
+  <way id='365788335' action='modify' timestamp='2015-08-21T02:15:01Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33474209'>
+    <nd ref='3698000085' />
+    <nd ref='3698000088' />
+    <nd ref='3698000083' />
+    <nd ref='3698000079' />
+    <nd ref='3698000080' />
+    <nd ref='3698000085' />
+    <tag k='building:part' v='room' />
+    <tag k='indoor' v='yes' />
+    <tag k='name' v='Local 2107' />
+  </way>
+  <way id='365788336' action='modify' timestamp='2015-08-15T02:24:37Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33345561'>
+    <nd ref='3698000102' />
+    <nd ref='3698000104' />
+    <nd ref='3698000100' />
+    <nd ref='3698000094' />
+    <nd ref='3698000102' />
+    <tag k='building:part' v='room' />
+    <tag k='buildingpart' v='room' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Local 1232' />
+    <tag k='ref' v='1232' />
+    <tag k='room' v='yes' />
+  </way>
+  <way id='365788337' action='modify' timestamp='2015-08-21T02:15:01Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33474209'>
+    <nd ref='3698000093' />
+    <nd ref='3698000099' />
+    <nd ref='3698000089' />
+    <nd ref='3698000082' />
+    <nd ref='3698000093' />
+    <tag k='building:part' v='room' />
+    <tag k='buildingpart' v='room' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Local 1233' />
+    <tag k='ref' v='1233' />
+  </way>
+  <way id='365788338' action='modify' timestamp='2015-08-21T02:15:01Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33474209'>
+    <nd ref='3698000090' />
+    <nd ref='3698000098' />
+    <nd ref='3698000087' />
+    <nd ref='3698000078' />
+    <nd ref='3698000090' />
+  </way>
+  <way id='365788339' action='delete' timestamp='2015-08-21T02:15:03Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33474209'>
+    <tag k='highway' v='pedestrian' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='365788340' action='delete' timestamp='2015-08-15T03:29:32Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33345883'>
+    <tag k='highway' v='pedestrian' />
+  </way>
+  <way id='365788341' action='delete' timestamp='2015-08-15T03:29:32Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33345883'>
+    <tag k='highway' v='pedestrian' />
+  </way>
+  <way id='365788342' action='delete' timestamp='2015-08-15T03:29:33Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33345883'>
+    <tag k='highway' v='pedestrian' />
+    <tag k='level' v='1' />
+  </way>
+  <way id='365788343' action='delete' timestamp='2015-08-15T03:29:32Z' uid='3146494' user='Étienne Loiselle' visible='true' version='2' changeset='33345883'>
+    <tag k='highway' v='pedestrian' />
+  </way>
+  <way id='367290685' action='delete' visible='true' version='1' changeset='33552437'>
+    <tag k='buildingpart' v='room' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Cafétéria' />
+    <tag k='rel' v='1121' />
+  </way>
+  <relation id='-12407' action='modify' visible='true'>
+    <member type='way' ref='-12347' role='outer' />
+    <tag k='building:part' v='corridor' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Corridor 2100' />
+    <tag k='ref' v='2100' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-12217' action='modify' visible='true'>
+    <member type='way' ref='365788338' role='outer' />
+    <tag k='building:part' v='room' />
+    <tag k='buildingpart' v='room' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Local 1249' />
+    <tag k='ref' v='1249' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-12071' action='modify' visible='true'>
+    <member type='way' ref='-11452' role='outer' />
+    <tag k='level' v='2' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-11999' action='modify' visible='true'>
+    <member type='way' ref='-11412' role='outer' />
+    <tag k='buildingpart' v='room' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Local 2303' />
+    <tag k='ref' v='2303' />
+    <tag k='room' v='class' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-11979' action='modify' visible='true'>
+    <member type='way' ref='-11375' role='outer' />
+    <tag k='buildingpart' v='room' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Local 2304' />
+    <tag k='ref' v='2304' />
+    <tag k='room' v='class' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-11923' action='modify' visible='true'>
+    <member type='way' ref='-11530' role='outer' />
+    <tag k='buildingpart' v='room' />
+    <tag k='height' v='3' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Cafétéria' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-11630' action='modify' visible='true'>
+    <member type='way' ref='-11229' role='buildingpart' />
+    <tag k='buildingpart' v='room' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Local 2102' />
+    <tag k='ref' v='2102' />
+    <tag k='room' v='class' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-11572' action='modify' visible='true'>
+    <member type='way' ref='-11332' role='outer' />
+    <tag k='buildingpart' v='room' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Local 2412' />
+    <tag k='ref' v='2412' />
+    <tag k='room' v='class' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='38943' timestamp='2015-08-23T10:56:44Z' uid='1725852' user='Christouf0676' visible='true' version='64' changeset='33522160'>
+    <member type='way' ref='156833907' role='forward' />
+    <member type='way' ref='156833425' role='forward' />
+    <member type='way' ref='156833420' role='' />
+    <member type='way' ref='338563592' role='' />
+    <member type='way' ref='156810825' role='' />
+    <member type='way' ref='24371397' role='' />
+    <member type='way' ref='16229066' role='forward' />
+    <member type='way' ref='16230214' role='forward' />
+    <member type='way' ref='16232458' role='' />
+    <member type='way' ref='304261093' role='' />
+    <member type='way' ref='16965306' role='' />
+    <member type='way' ref='17471648' role='backward' />
+    <member type='way' ref='102222885' role='backward' />
+    <member type='way' ref='102222884' role='backward' />
+    <member type='way' ref='24411813' role='' />
+    <member type='way' ref='50249012' role='' />
+    <member type='way' ref='24411817' role='' />
+    <member type='way' ref='24419289' role='' />
+    <member type='way' ref='247208010' role='forward' />
+    <member type='way' ref='24419309' role='' />
+    <member type='way' ref='24419310' role='' />
+    <member type='way' ref='24444082' role='backward' />
+    <member type='way' ref='24444083' role='forward' />
+    <member type='way' ref='24444084' role='' />
+    <member type='way' ref='25313531' role='backward' />
+    <member type='way' ref='25366440' role='forward' />
+    <member type='way' ref='25366441' role='forward' />
+    <member type='way' ref='25366442' role='backward' />
+    <member type='way' ref='25465242' role='forward' />
+    <member type='way' ref='25482090' role='' />
+    <member type='way' ref='27760218' role='forward' />
+    <member type='way' ref='27760323' role='' />
+    <member type='way' ref='27760339' role='backward' />
+    <member type='way' ref='367076324' role='backward' />
+    <member type='way' ref='27760378' role='forward' />
+    <member type='way' ref='27760382' role='forward' />
+    <member type='way' ref='27760477' role='forward' />
+    <member type='way' ref='50243982' role='forward' />
+    <member type='way' ref='27760491' role='backward' />
+    <member type='way' ref='27924727' role='backward' />
+    <member type='way' ref='27924730' role='backward' />
+    <member type='way' ref='27924747' role='' />
+    <member type='way' ref='27924838' role='' />
+    <member type='way' ref='27924847' role='' />
+    <member type='way' ref='34436914' role='' />
+    <member type='way' ref='246132943' role='' />
+    <member type='way' ref='27924855' role='' />
+    <member type='way' ref='25290935' role='' />
+    <member type='way' ref='25290936' role='' />
+    <member type='way' ref='26488968' role='' />
+    <member type='way' ref='143152955' role='' />
+    <member type='way' ref='286341611' role='' />
+    <member type='way' ref='143152965' role='' />
+    <tag k='name' v='Métrobus Sainte-Foy - Beauport' />
+    <tag k='network' v='RTC' />
+    <tag k='operator' v='Réseau de Transport de la Capitale' />
+    <tag k='ref' v='800' />
+    <tag k='route' v='bus' />
+    <tag k='type' v='route' />
+  </relation>
+  <relation id='273715' timestamp='2009-10-04T02:40:16Z' uid='69716' user='Circeus' visible='true' version='5' changeset='2730938'>
+    <member type='relation' ref='37640' role='' />
+    <member type='relation' ref='37415' role='' />
+    <member type='relation' ref='37534' role='' />
+    <member type='relation' ref='38197' role='' />
+    <member type='relation' ref='58455' role='' />
+    <member type='relation' ref='38943' role='' />
+    <member type='relation' ref='73880' role='' />
+    <member type='relation' ref='273821' role='' />
+    <member type='relation' ref='273840' role='' />
+    <member type='relation' ref='273888' role='' />
+    <member type='relation' ref='273889' role='' />
+    <member type='relation' ref='279879' role='' />
+    <tag k='name' v='Réseau de Transport de la Capitale' />
+    <tag k='operator' v='Réseau de Transport de la Capitale' />
+    <tag k='ref' v='RTC' />
+    <tag k='type' v='network' />
+  </relation>
+  <relation id='2170779' timestamp='2013-11-03T09:05:48Z' uid='130472' user='fx99' visible='true' version='4' changeset='18688842'>
+    <member type='way' ref='162157029' role='outer' />
+    <member type='way' ref='103861100' role='inner' />
+    <tag k='landuse' v='recreation_ground' />
+    <tag k='name' v='Parc Ferland' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='3028343' timestamp='2014-11-30T01:12:04Z' uid='204929' user='Sebastien Duthil' visible='true' version='11' changeset='27123375'>
+    <member type='way' ref='227522186' role='outer' />
+    <member type='way' ref='292619499' role='outer' />
+    <member type='way' ref='264448528' role='outer' />
+    <member type='way' ref='232392526' role='inner' />
+    <member type='way' ref='244375448' role='inner' />
+    <member type='way' ref='227511535' role='inner' />
+    <tag k='landuse' v='residential' />
+    <tag k='source' v='Bing Maps' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5453850' timestamp='2015-08-21T02:15:00Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33474209'>
+    <member type='way' ref='365788334' role='buildingpart' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Local 1112' />
+    <tag k='ref' v='1112' />
+    <tag k='room' v='class' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5453851' timestamp='2015-08-21T02:15:01Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33474209'>
+    <member type='way' ref='365788335' role='buildingpart' />
+    <tag k='buildingpart' v='room' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Local 1113' />
+    <tag k='ref' v='1113' />
+    <tag k='room' v='yes' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5453852' action='modify' timestamp='2015-08-21T02:15:01Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33474209'>
+    <tag k='buildingpart' v='room' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Local 1233' />
+    <tag k='ref' v='1233' />
+    <tag k='room' v='yes' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5453853' action='modify' timestamp='2015-08-21T02:15:01Z' uid='3146494' user='Étienne Loiselle' visible='true' version='1' changeset='33474209'>
+    <tag k='buildingpart' v='room' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Local 1249' />
+    <tag k='ref' v='1249' />
+    <tag k='room' v='yes' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+</osm>

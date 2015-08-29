@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Dis moi où</title>
+    <!-- Sets initial viewport load and disables zooming  -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+  <!-- Makes your prototype chrome-less once bookmarked to your phone's home screen -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
+    <link href="css/app.css" rel="stylesheet">
+    <link rel="stylesheet" href="leaflet.css" />
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="//rawgithub.com/domoritz/leaflet-locatecontrol/gh-pages/dist/L.Control.Locate.min.css" />
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="//rawgithub.com/domoritz/leaflet-locatecontrol/gh-pages/dist/L.Control.Locate.ie.min.css"/>
+<![endif]-->
+
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+    <script src="http://rawgithub.com/domoritz/leaflet-locatecontrol/gh-pages/dist/L.Control.Locate.min.js" ></script>
+
+    <!--[if lte IE 8]><link rel="stylesheet" href="libs/leaflet.ie.css" /><![endif]-->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <style type="text/css">
+        html, body {
+            width: 100%;
+            height: 100%;
+          padding: 0;
+          margin: 0;
+        }
+
+       #map {
+          height: 1000px;
+          width: 100%;
+        }
+
+        .info {
+            width: 150px;
+            padding: 6px 8px;
+            font: 14px/16px Arial, Helvetica, sans-serif;
+            background: white;
+            background: rgba(255,255,255,1);
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            border-radius: 5px;
+        }
+
+        .leaflet-clickable
+        {
+            cursor: help;
+        }
+
+        .list {
+  font-family:sans-serif;
+  margin:0;
+  padding:20px 0 0;
+}
+.list > li {
+  display:block;
+  background-color: #eee;
+  padding:10px;
+  box-shadow: inset 0 1px 0 #fff;
+}
+
+.list li a
+{
+    text-decoration: none;
+}
+
+.avatar {
+  max-width: 150px;
+}
+img {
+  max-width: 100%;
+}
+h3 {
+  font-size: 16px;
+  margin:0 0 0.3rem;
+  font-weight: normal;
+  font-weight:bold;
+}
+p {
+  margin:0;
+}
+
+input {
+  border:solid 1px #ccc;
+  padding:7px 14px;
+}
+input:focus {
+  outline:none;
+  border-color:#aaa;
+}
+
+
+.list h1, .list h2, .list h3, .list h4, .list h5, .list h6
+{
+    display: inline-block;
+}
+
+    </style>
+</head>
+<body>
+
+  <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
+  <div class="container-fluid">
+
+  <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Dis moi où</a>
+      <input id="inputRechercherHeader" class="search form-inline" placeholder="Local 2106, Cafétéria, Porte principale" />
+    </div>
+  </div>
+</nav>
+
+<div class="row">
+    <div class="col-xs-12">
+        <div id="map"></div>
+    </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="modalRechercher" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title text-center" id="myModalLabel">Rechercher</h4>
+      </div>
+      <div class="modal-body">
+        <div id="listeLocals">
+
+            <input class="search form-control" placeholder="Local 2106, Cafétéria, Porte principale" autofocus tabindex="1" />
+            <ul class="list">
+                <li><a href="javascript:afficherMarqueur('[46.8300395,-71.2269699]', '1')"><h3 class="nomLocal">Local 1</h3> - <h4 class="numeroLocal">1100</h4> - <h6 class="etage">1er étage</h6></a></li>
+                <li><a href="javascript:afficherMarqueur('[46.8303395,-71.2266699]', '2')"><h3 class="nomLocal">Local 2102</h3> - <h4 class="numeroLocal">2102</h4> - <h6 class="etage">2e étage</h6></a></li>
+                <li><a href="javascript:afficherMarqueur('[46.8303395,-71.2266699]', '2')"><h3 class="nomLocal">Local 2135</h3> - <h4 class="numeroLocal">2135</h4> - <h6 class="etage">2e étage</h6></a></li>
+                <li><a href="javascript:afficherMarqueur('[46.8303395,-71.2266699]', '2')"><h3 class="nomLocal">Local 2303</h3> - <h4 class="numeroLocal">2303</h4> - <h6 class="etage">2e étage</h6></a></li>
+                <li><a href="javascript:afficherMarqueur('[46.8303395,-71.2266699]', '2')"><h3 class="nomLocal">Local 2412</h3> - <h4 class="numeroLocal">2412</h4> - <h6 class="etage">2e étage</h6></a></li>
+                <li><a href="javascript:afficherMarqueur('[46.83071,-71.22798]', '1')"><h3 class="nomLocal">Salle Sylvain-Lelièvre</h3> - <h4 class="numeroLocal">1600</h4> - <h6 class="etage">1er étage</h6></a></li>
+                <li><a href="javascript:afficherMarqueur('[46.83049,-71.22737]', '1')"><h3 class="nomLocal">Cafétéria</h3> - <h4 class="numeroLocal">1110</h4> - <h6 class="etage">1er étage</h6></a></li>
+            </ul>
+        </div> <!--------  listeLocals  -------->
+      </div> <!--------  .modal-body  -------->
+    </div>
+  </div>
+</div> <!--------  .modal  -------->
+
+</div> <!--------  .container-fluid  -------->
+
+
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="js/leaflet-indoor.js"></script>
+    <script src="js/list.min.js"></script>
+    <script type="text/JavaScript">
+
+        // Create the map
+        var osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+            osm = new L.TileLayer(osmUrl, {
+                maxZoom: 20
+            });
+
+        var map = new L.Map('map', {
+            layers: [osm],
+            center: new L.LatLng(46.8302871, -71.227337),
+            zoom: 19
+        });
+
+        // This example uses a GeoJSON FeatureCollection saved to a file
+        // (data.json), see the other example (live/index.html) for details on
+        // fetching data using the OverpassAPI (this is also how the data in
+        // data.json was generated)
+
+        var indoorLayer;
+        $.getJSON("data.json", function(geoJSON) {
+
+            indoorLayer = new L.Indoor(geoJSON, {
+                getLevel: function(feature) { 
+                    if (feature.properties.relations.length === 0)
+                        return null;
+
+                    return feature.properties.relations[0].reltags.level;
+                },
+                onEachFeature: function(feature, layer) {
+                    layer.bindPopup(JSON.stringify(feature.properties, null, 4));
+                },
+                style: function(feature) {
+                    var fill = 'white';
+
+                    if (feature.properties.tags.buildingpart === 'corridor') {
+                        fill = '#169EC6';
+                    } else if (feature.properties.tags.buildingpart === 'verticalpassage') {
+                        fill = '#0A485B';
+                    } else if (feature.properties.tags.class === 'rouge') {
+                        fill = '#0A485B';
+                    }
+
+                    return {
+                        fillColor: fill,
+                        weight: 1,
+                        color: '#666',
+                        fillOpacity: 1
+                    };
+                }
+            });
+
+            indoorLayer.setLevel("1");
+
+            indoorLayer.addTo(map);
+
+            var levelControl = new L.Control.Level({
+                level: "1",
+                levels: indoorLayer.getLevels()
+            });
+
+            // Connect the level control to the indoor layer
+            levelControl.addEventListener("levelchange", indoorLayer.setLevel, indoorLayer);
+
+            levelControl.addTo(map);
+        });
+
+        var legend = L.control({position: 'topright'});
+
+        legend.onAdd = function(map) {
+            var d = "This Leaflet plugin makes it easier to create indoor " +
+                    "maps. This example pulls in the data for a particular " +
+                    "building, and then displays it on the map, you can " +
+                    "change the level displayed by using the selector at " +
+                    "the bottom right of the map."
+
+            var div = L.DomUtil.create('div', 'info legend');
+
+            div.appendChild(document.createTextNode(d));
+
+            return div;
+        };
+
+
+        //legend.addTo(map);
+
+
+
+            // Geolocalisation de l'utilisateur
+            
+
+
+            var marqueur = "";
+            var positionMarqueur = "";
+            function afficherMarqueur(position, etage){
+                console.log("variable position:" + position);
+                // Suprime le claque "marqueur" qui contient le / les marqueurs
+                map.removeLayer(marqueur);
+
+                positionMarqueur = JSON.parse(position);
+
+
+                map.panTo(new L.LatLng(46.8302871, -71.227337));
+                // Zoom la carte
+                map.setZoom(19);
+
+
+                // Affiche le bon étage selon l'étage du local rechercher
+                indoorLayer.setLevel(etage);
+
+                // Crée un marqueur
+                marqueur = L.marker(positionMarqueur);
+
+                // Créé un nouveau calque et ajoute le marqueur
+                map.addLayer(marqueur);
+
+                $('#modalRechercher').modal('hide')
+            };
+
+            $(function(){
+
+                    var lc = L.control.locate({
+    position: 'topleft',  // set the location of the control
+    drawCircle: false,  // controls whether a circle is drawn that shows the uncertainty about the location
+    follow: false,  // follow the user's location
+    setView: true, // automatically sets the map view to the user's location, enabled if `follow` is true
+    keepCurrentZoomLevel: true, // keep the current map zoom level when displaying the user's location. (if `false`, use maxZoom)
+    stopFollowingOnDrag: false, // stop following when the map is dragged if `follow` is true (deprecated, see below)
+    remainActive: false, // if true locate control remains active on click even if the user's location is in view.
+    markerClass: L.circleMarker, // L.circleMarker or L.marker
+    circleStyle: {},  // change the style of the circle around the user's location
+    markerStyle: {},
+    followCircleStyle: {},  // set difference for the style of the circle around the user's location while following
+    followMarkerStyle: {},
+    icon: 'fa fa-map-marker',  // class for icon, fa-location-arrow or fa-map-marker
+    iconLoading: 'fa fa-spinner fa-spin',  // class for loading icon
+    circlePadding: [0, 0], // padding around accuracy circle, value is passed to setBounds
+    metric: true,  // use metric or imperial units
+    onLocationError: function(err) {alert(err.message)},  // define an error callback function
+    onLocationOutsideMapBounds:  function(context) { // called when outside map boundaries
+            alert(context.options.strings.outsideMapBoundsMsg);
+    },
+    showPopup: true, // display a popup when the user click on the inner marker
+    strings: {
+        title: "Show me where I am",  // title of the locate control
+        metersUnit: "meters", // string for metric units
+        feetUnit: "feet", // string for imperial units
+        popup: "You are within {distance} {unit} from this point",  // text to appear if user clicks on circle
+        outsideMapBoundsMsg: "You seem located outside the boundaries of the map" // default message for onLocationOutsideMapBounds
+    },
+    locateOptions: {
+      enableHighAccuracy: true
+    }  // define location options e.g enableHighAccuracy: true or maxZoom: 10
+}).addTo(map);
+
+                    // request location update and set location
+                    lc.start();
+
+
+                    // Ouvre la fenetre modal
+                    $("#inputRechercherHeader").click(function(){
+                        $('#modalRechercher').modal('show')
+                    });
+
+                    // Liste de recerche des locaux
+                    var optionsListeLocals = {
+                                    valueNames: [ 'etage', 'nomLocal', 'numeroLocal' ]
+                                    };
+
+                    var listeLocals = new List('listeLocals', optionsListeLocals).sort('nomLocal', { order: "asc" });
+            }); // Document ready function
+    </script>
+</body>
+</html>
