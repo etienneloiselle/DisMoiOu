@@ -275,6 +275,7 @@ input:focus {
             var imageBounds = "";
             var planEtage = "";
             var lc = "";
+            var marqueurs = "";
 
 
             // Icone pour les marqueurs des portes, escaliers, ascenseurs, etc.
@@ -292,13 +293,8 @@ input:focus {
                                 popupAnchor:  [2, -13] // point from which the popup should open relative to the iconAnchor
                                 });
 
-            porte1Icone = L.marker([46.8300549, -71.2277955], {icon: iconePortes}).bindPopup("Entrée principale");
-            porte2Icone = L.marker([46.8297739, -71.2265661], {icon: iconePortes}).bindPopup("Entrée principale");
-            porte3Icone = L.marker([46.8298144, -71.2264637], {icon: iconePortes}).bindPopup("Entrée principale");
 
-            escalier1Icone = L.marker([46.8303292, -71.2271596], {icon: iconeEscalier}).bindPopup("Grand escalier");
-
-            var marqueurs = L.layerGroup([porte1Icone, porte2Icone, porte3Icone, escalier1Icone]);
+            
 
 
             // Geolocalisation de l'utilisateur
@@ -344,22 +340,33 @@ input:focus {
 
                 if(etage == 1){
                     map.removeLayer(planEtage);
+                    map.removeLayer(marqueurs);
                     imageUrl = 'images/etage1.svg';
-                    imageBounds = [[46.8291920, -71.2288570],[46.8312300, -71.2255300]];
+                    imageBounds = [[46.8291960, -71.229300],[46.8312300, -71.2251100]];
 
                     planEtage = L.imageOverlay(imageUrl, imageBounds)
                     map.addLayer(planEtage);
+
+                    porte1Icone = L.marker([46.8300549, -71.2277955], {icon: iconePortes}).bindPopup("Entrée principale");
+                    porte2Icone = L.marker([46.8297739, -71.2265661], {icon: iconePortes}).bindPopup("Entrée principale");
+                    porte3Icone = L.marker([46.8298144, -71.2264637], {icon: iconePortes}).bindPopup("Entrée principale");
+
+                    escalier1Icone = L.marker([46.8303292, -71.2271596], {icon: iconeEscalier}).bindPopup("Grand escalier");
+                    escalier2Icone = L.marker([46.8306716, -71.2274705], {icon: iconeEscalier}).bindPopup("Escalier 1E02");
+                    escalier3Icone = L.marker([46.8309851, -71.2277563], {icon: iconeEscalier}).bindPopup("Escalier 1E01");
+                    escalier5Icone = L.marker([46.8300009, -71.2268951], {icon: iconeEscalier}).bindPopup("Escalier 1E05");
+
+                    marqueurs = L.layerGroup([porte1Icone, porte2Icone, porte3Icone, escalier1Icone, escalier2Icone, escalier3Icone, escalier4Icone, escalier5Icone]);
+
                     planEtage.bringToBack();
+
+
 
                 }
 
-
-
-
-
-
                 else if (etage == 2){
                     map.removeLayer(planEtage);
+                    map.removeLayer(marqueurs);
                     imageUrl = 'images/etage2.svg';
                     imageBounds = [[46.8291920, -71.2288570],[46.8312300, -71.2255300]];
 
@@ -370,8 +377,9 @@ input:focus {
 
                 else if (etage == 3){
                     map.removeLayer(planEtage);
+                    map.removeLayer(marqueurs);
                     imageUrl = 'images/etage3.svg';
-                    imageBounds = [[46.8292062, -71.2284637],[46.8312251, -71.2257573]];
+                    imageBounds = [[46.8291920, -71.2288570],[46.8312300, -71.2255300]];
 
                     planEtage = L.imageOverlay(imageUrl, imageBounds)
                     map.addLayer(planEtage);
@@ -408,10 +416,8 @@ input:focus {
 
             $(function(){
 
-                        viewportHeight = $(window).height();
-                        mapHeight = viewportHeight - $(".navbar-header").height();
-
-                        changerEtage(1);
+                        var viewportHeight = $(window).height();
+                        var mapHeight = viewportHeight - $(".navbar-header").height();
 
                         $("#map").height(mapHeight);
 
@@ -419,6 +425,17 @@ input:focus {
                     // request location update and set location
                     lc.start();
 
+                    porte1Icone = L.marker([46.8300549, -71.2277955], {icon: iconePortes}).bindPopup("Entrée principale");
+                    porte2Icone = L.marker([46.8297739, -71.2265661], {icon: iconePortes}).bindPopup("Entrée principale");
+                    porte3Icone = L.marker([46.8298144, -71.2264637], {icon: iconePortes}).bindPopup("Entrée principale");
+
+                    escalier1Icone = L.marker([46.8303292, -71.2271596], {icon: iconeEscalier}).bindPopup("Grand escalier");
+                    escalier2Icone = L.marker([46.8306716, -71.2274705], {icon: iconeEscalier}).bindPopup("Escalier 1E02");
+                    escalier3Icone = L.marker([46.8309851, -71.2277563], {icon: iconeEscalier}).bindPopup("Escalier 1E01");
+                    escalier4Icone = L.marker([46.8301899, -71.2277011], {icon: iconeEscalier}).bindPopup("Escalier 1E07");
+                    escalier5Icone = L.marker([46.8300009, -71.2268951], {icon: iconeEscalier}).bindPopup("Escalier 1E05");
+
+                    marqueurs = L.layerGroup([porte1Icone, porte2Icone, porte3Icone, escalier1Icone, escalier2Icone, escalier3Icone, escalier4Icone, escalier5Icone]);
 
                     // Affiche seulement les marqueurs des porte si la carte est asser zoomer (Level 19)
                     map.on('zoomend', function() {
@@ -428,6 +445,8 @@ input:focus {
                         map.removeLayer(marqueurs);
                     }
                     });
+
+                    changerEtage(1);
 
                     // Ouvre la fenetre modal
                     $("#inputRechercherHeader").click(function(){
