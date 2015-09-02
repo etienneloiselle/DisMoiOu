@@ -8,7 +8,7 @@
 
     <!-- Makes your prototype chrome-less once bookmarked to your phone's home screen -->
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="white">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     
     <link href="css/app.css" rel="stylesheet">
     <link rel="stylesheet" href="leaflet.css" />
@@ -51,6 +51,38 @@
             </ul>
         </div> <!-- #controlleEtage -->
 
+    <!-- La barre de navigation dans le bas de l'écran, contient trois boutons -->
+<footer class="footer">
+      <div class="container-fluid">
+          <div class="row">
+            <ul id="navigationFooter">
+
+                <div class="col-xs-4">
+                    <!-- Apelle la fonction lc.start().....Geolocalisation de l'utilisateur -->
+                    <li>
+                    <a href="javascript:lc.start()"><i class="material-icons">location_searching</i></a>
+                    </li>
+                </div> <!-- .col-xs-4 -->
+                
+
+                <div class="col-xs-4">
+                    <!-- Ouvre la fenêtre modale de recherche de locaux -->
+                    <li>
+                        <a id="boutonRechercher" href="javascript:"><i class="material-icons">search</i></a>
+                    </li>
+                </div> <!-- .col-xs-4 -->
+
+                <div class="col-xs-4">
+                    <!-- Ouvre la fenetre d'information sur le projet -->
+                    <li>
+                        <a href="javascript:"><i class="material-icons">info_outline</i></a>
+                    </li>
+                </div> <!-- .col-xs-4 -->
+            </ul>
+        </div> <!-- .row -->
+      </div> <!-- .container-fluid -->
+    </footer>
+
     </div>
 </div>
 
@@ -87,28 +119,7 @@
 </div> <!--------  .container-fluid  -------->
 
 
-<!-- La barre de navigation dans le bas de l'écran, contient trois boutons -->
-<footer class="footer">
-      <div class="container-fluid">
-        <ul id="navigationFooter">
 
-            <!-- Apelle la fonction lc.start().....Geolocalisation de l'utilisateur -->
-            <li>
-                <a href="javascript:lc.start()"><i class="material-icons">location_searching</i></a>
-            </li>
-
-            <!-- Ouvre la fenêtre modale de recherche de locaux -->
-            <li>
-                <a id="boutonRechercher" href="javascript:"><i class="material-icons">search</i></a>
-            </li>
-
-            <!-- Ouvre la fenetre d'information sur le projet -->
-            <li>
-                <a href="javascript:"><i class="material-icons">info_outline</i></a>
-            </li>
-        </ul>
-      </div>
-    </footer>
 
 
 

@@ -3,6 +3,9 @@
             height: 100%;
             padding: 0;
             margin: 0;
+
+            /* Pour test */
+            /* overflow: hidden; */
         }
 
         #map {
@@ -102,7 +105,7 @@ input:focus {
 #controlleEtage
 {
     position: absolute;
-    bottom: 10px;
+    bottom: 80px;
     right: 30px;
 }
 
@@ -134,8 +137,12 @@ input:focus {
 
 footer
 {
-    background-color: #000;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+    background-color: rgba(0,0,0,0.7);
 }
+
 #navigationFooter
 {
 	margin: 0;
@@ -148,9 +155,8 @@ footer
 	margin: 0;
 	padding: 0;
     display: inline-block;
-    width: 33%;
-    height: 50px;
-    border: 2px solid #fff;
+    width: 100%;
+    height: 75px;
     border-radius: 10px;
 }
 
@@ -160,13 +166,20 @@ footer
     display: block;
     width: 100%;
     height: 100%;
+    padding-top: 15px;
     text-decoration: none;
     color: #fff;
+    text-align: center;
+}
+
+#navigationFooter li a:hover
+{
+	background-color: rgba(0,0,0,0.9);
 }
 
 #navigationFooter li a i
 {
-    font-size: 40px; 
+    font-size: 50px; 
 }
 
 /* Cache le controle de localisation (Normalement en haut à gauche) */

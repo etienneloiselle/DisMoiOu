@@ -11,13 +11,28 @@
             bounds = L.latLngBounds(southWest, northEast);
 
         // Affiche la carte
-        var map = new L.Map('map', {
+        map = new L.Map('map', {
             layers: [osm],
             center: new L.LatLng(46.8302871, -71.227337),
             zoom: 19,
+            minZoom: 4,
             //maxBounds: bounds,
             zoomControl:false
         });
+
+        // S'assure que la carte prend tout l'espace restant dans la fenêtre du navigateur
+        function redimensionnerCarte(){
+
+            // La taille de la zone d'affichage du navigateur
+            var viewportHeight = $(window).height();
+
+            // Soustrait la hauteur du footer
+            var mapHeight = viewportHeight - $("footer").height();
+
+            // Redimensionne la carte
+            //$("#map").height(mapHeight);
+        }
+                        
             
 
             // Initialisation de quelque variable, pour régler certain problème en rapport avec leur scope
@@ -194,10 +209,7 @@
             // Document ready function
             $(function(){
 
-                        // S'assure que la carte prend tout l'espace restant dans la fenêtre du navigateur
-                        var viewportHeight = $(window).height();
-                        var mapHeight = viewportHeight - $("footer").height();
-                        $("#map").height(mapHeight);
+                        redimensionnerCarte();
 
                         // Cache tout les élément de la liste avec la classe "cacher"
                         $(".cacher").hide();
@@ -207,6 +219,12 @@
 
                         // Démare le service de géolcalisation
                         lc.start();
+
+                        // Appellé lorsque la fenêtre est redimensionner
+                        $( window ).resize(function() {
+                            redimensionnerCarte();
+                        });
+
 
                         // Affiche les marqueurs du premier étage lors du chargemment du site
                         porte1Icone = L.marker([46.8300549, -71.2277955], {icon: iconePortes}).bindPopup("Entrée principale");
