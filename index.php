@@ -15,7 +15,7 @@
 
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/L.Control.Locate.css" />
-<!--[if lt IE 9]>
+    <!--[if lt IE 9]>
     <link rel="stylesheet" href="//rawgithub.com/domoritz/leaflet-locatecontrol/gh-pages/dist/L.Control.Locate.ie.min.css"/>
     <![endif]-->
 
@@ -28,7 +28,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <!-- Notre feuille de styles -->
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/app.css">
 
     
 </head>
@@ -89,7 +89,7 @@
 
 <!-- La barre de navigation dans le bas de l'écran, contient trois boutons -->
 <footer class="footer">
-      <div class="container">
+      <div class="container-fluid">
         <ul id="navigationFooter">
 
             <!-- Apelle la fonction lc.start().....Geolocalisation de l'utilisateur -->

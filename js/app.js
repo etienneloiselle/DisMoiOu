@@ -116,10 +116,10 @@
                     escalier1Icone = L.marker([46.8303292, -71.2271596], {icon: iconeEscalier}).bindPopup("Grand escalier");
                     escalier2Icone = L.marker([46.8306716, -71.2274705], {icon: iconeEscalier}).bindPopup("Escalier 1E02");
                     escalier3Icone = L.marker([46.8309851, -71.2277563], {icon: iconeEscalier}).bindPopup("Escalier 1E01");
-                    escalier5Icone = L.marker([46.8300009, -71.2268951], {icon: iconeEscalier}).bindPopup("Escalier 1E05");
+                    escalier4Icone = L.marker([46.8300009, -71.2268951], {icon: iconeEscalier}).bindPopup("Escalier 1E05");
 
                     // Créé un "Layer Group" avec tout les marqueurs et les affiches sur la carte
-                    marqueurs = L.layerGroup([porte1Icone, porte2Icone, porte3Icone, escalier1Icone, escalier2Icone, escalier3Icone, escalier4Icone, escalier5Icone]);
+                    marqueurs = L.layerGroup([porte1Icone, porte2Icone, porte3Icone, escalier1Icone, escalier2Icone, escalier3Icone, escalier4Icone]);
 
                     // Affiche la carte en arrière-plan de tout les autres calque. Nécésaire pour voir le point de géolocalisation après avoir changer d'étage
                     planEtage.bringToBack();
@@ -234,6 +234,7 @@
 
                         // Ouvre la fenêtre modale avec le bouton dans le menu de navigation
                         $("#boutonRechercher").click(function(event){
+                            console.log("Ovrir modale");
                             event.preventDefault();
                             $("#modalRechercher").modal('show')
                             $('#modalRechercher').on('shown.bs.modal', function () {
