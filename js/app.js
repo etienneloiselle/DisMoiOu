@@ -113,7 +113,7 @@
                     // Efface le calque qui contient tout les marqueurs (portes, escalier, etc.) de l'étage 1
                     map.removeLayer(marqueurs);
 
-                    imageUrl = 'images/etage1.svg';
+                    imageUrl = 'images/etages/etage1.svg';
                     imageBounds = [[46.8291960, -71.229300],[46.8312200, -71.2250600]];
 
                     planEtage = L.imageOverlay(imageUrl, imageBounds);
@@ -146,7 +146,7 @@
                 else if (etage == 2){
                     map.removeLayer(planEtage);
                     map.removeLayer(marqueurs);
-                    imageUrl = 'images/etage2.svg';
+                    imageUrl = 'images/etages/etage2.svg';
                     imageBounds = [[46.8291920, -71.2288570],[46.8312300, -71.2255300]];
 
                     planEtage = L.imageOverlay(imageUrl, imageBounds)
@@ -159,7 +159,7 @@
                 else if (etage == 3){
                     map.removeLayer(planEtage);
                     map.removeLayer(marqueurs);
-                    imageUrl = 'images/etage3.svg';
+                    imageUrl = 'images/etages/etage3.svg';
                     imageBounds = [[46.8291920, -71.2288570],[46.8312300, -71.2255300]];
 
                     planEtage = L.imageOverlay(imageUrl, imageBounds)

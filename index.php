@@ -30,6 +30,11 @@
     <!-- Notre feuille de styles -->
     <link rel="stylesheet" href="css/app.css">
 
+    <!-- Met en cache les images de toutes les étages -->
+    <link rel="prefetch" href="images/etages/etage1.svg">
+    <link rel="prefetch" href="images/etages/etage2.svg">
+    <link rel="prefetch" href="images/etages/etage3.svg">
+    <link rel="prefetch" href="images/etages/etage4.svg">
     
 </head>
 <body>
