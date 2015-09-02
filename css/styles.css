@@ -1,0 +1,166 @@
+        html, body {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+
+        #map {
+            position: relative;
+            height: 1000px;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+      }
+
+      .container-fluid
+      {
+        margin: 0;
+        padding: 0;
+      }
+
+      .info {
+        width: 150px;
+        padding: 6px 8px;
+        font: 14px/16px Arial, Helvetica, sans-serif;
+        background: white;
+        background: rgba(255,255,255,1);
+        box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        border-radius: 5px;
+    }
+
+    .leaflet-clickable
+    {
+        cursor: help;
+    }
+
+    #listeRechercheLocal {
+      font-family:sans-serif;
+      margin:0;
+      padding:20px 0 0;
+  }
+
+  #listeRechercheLocal > li {
+      display:block;
+      background-color: #eee;
+      padding:10px;
+      box-shadow: inset 0 1px 0 #fff;
+  }
+
+  #listeRechercheLocal li a
+  {
+    text-decoration: none;
+}
+
+.avatar {
+  max-width: 150px;
+}
+img {
+  max-width: 100%;
+}
+h3 {
+  font-size: 16px;
+  margin:0 0 0.3rem;
+  font-weight: normal;
+  font-weight:bold;
+}
+p {
+  margin:0;
+}
+
+input {
+  border:solid 1px #ccc;
+  padding:7px 14px;
+}
+
+input:focus {
+  border-color:#aaa;
+}
+
+
+#listeRechercheLocal h1, #listeRechercheLocal h2, #listeRechercheLocal h3, #listeRechercheLocal h4, #listeRechercheLocal h5, #listeRechercheLocal h6
+{
+    display: inline-block;
+}
+
+.navbar
+{
+    margin: 0;
+}
+
+#modalRechercher
+{
+    height: vh;
+}
+
+#controlleEtage
+{
+    position: absolute;
+    bottom: 10px;
+    right: 30px;
+}
+
+#controlleEtage ul li
+{
+    display: block;
+    height: 30px;
+    width: 30px;
+    background-color: #ed865b;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    padding: 4px 0 0 10px;
+
+}
+
+#controlleEtage ul li:hover
+{
+    background-color: #c96339;
+}
+
+#controlleEtage ul li a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    font-weight: bold;
+}
+
+footer
+{
+    background-color: #000;
+}
+#navigationFooter
+{
+    list-style-type: none;
+}
+
+#navigationFooter li
+{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+
+
+#navigationFooter li a
+{
+    display: block;
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+    color: #fff;
+}
+
+#navigationFooter li a i
+{
+    font-size: 40px; 
+}
+
+/* Cache le controle de localisation (Normalement en haut à gauche) */
+.leaflet-control
+{
+    display: none;
+}
