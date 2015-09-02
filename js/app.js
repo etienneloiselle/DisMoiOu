@@ -15,27 +15,20 @@
             layers: [osm],
             center: new L.LatLng(46.8302871, -71.227337),
             zoom: 19,
-            minZoom: 4,
+            minZoom: 17,
             //maxBounds: bounds,
             zoomControl:false
         });
 
         // S'assure que la carte prend tout l'espace restant dans la fenêtre du navigateur
         function redimensionnerCarte(){
-
-            // La taille de la zone d'affichage du navigateur
-            var viewportHeight = $(window).height();
-
-            // Soustrait la hauteur du footer
-            var mapHeight = viewportHeight - $("footer").height();
-
             // Redimensionne la carte
-            //$("#map").height(mapHeight);
+            $("#map").height($(window).height());
         }
                         
             
 
-            // Initialisation de quelque variable, pour régler certain problème en rapport avec leur scope
+            // Initialisation de quelques variables, pour régler certains problèmes en rapport avec leurs scope dans les fonctions
             var imageUrl = "";
             var imageBounds = "";
             var planEtage = "";
@@ -103,7 +96,12 @@
                                 lc.addTo(map);
                                 lc.start();
 
+            $("#controlleEtage ul li").click(function(event){
+                    $("#controlleEtage ul li").removeClass("etageActif")
+                    $(this).addClass("etageActif");
+            });
 
+            
             // Fonction pour changer les plans des étages selon le besoin.
             function changerEtage(etage){
 
@@ -116,7 +114,7 @@
                     map.removeLayer(marqueurs);
 
                     imageUrl = 'images/etage1.svg';
-                    imageBounds = [[46.8291960, -71.229300],[46.8312300, -71.2251100]];
+                    imageBounds = [[46.8291960, -71.229300],[46.8312200, -71.2250600]];
 
                     planEtage = L.imageOverlay(imageUrl, imageBounds);
 
@@ -259,6 +257,29 @@
                                 $('#inputRechercherModal').focus()
                             })
                         });
+
+
+
+                        // Ajoute via AJAX chaque locaux dans la liste de recherche (via le fichier listelocaux.json)
+                        /* $.ajax({
+                                url: "data/listelocaux.json",
+                                context: document.body,
+                                dataType: "json"
+                                }).success(function(data) {
+                                    console.dir("Nombre de locaux à ajouter: " + data.length);
+                                    for (i=0; i < data.length; i++)
+                                    {
+                                        var nomLocal = data[i].nom;
+                                        var numeroLocal = data[i].local;
+                                        var positionLocal = data[i].position;
+                                        var etageLocal = data[i].etage;
+
+                                        var element = '<li><a href=\"javascript:afficherMarqueur(\'' + positionLocal  +'\'' + ', \'' + etageLocal + '\', ' + '\'' + nomLocal + '\')">' + nomLocal + '</h3> <h6 class="etage">1er étage</h6></a></li>';  
+                                        console.log(element);
+                                        $("#listeRechercheLocal").append(element);
+                                    }
+
+                            }); */
 
 
                         // Recherche d'un local

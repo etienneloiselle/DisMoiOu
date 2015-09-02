@@ -11,7 +11,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     
     <link href="css/app.css" rel="stylesheet">
-    <link rel="stylesheet" href="leaflet.css" />
+    <link rel="stylesheet" href="css/leaflet.css" />
 
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/L.Control.Locate.css" />
