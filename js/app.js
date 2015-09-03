@@ -1,4 +1,4 @@
-        // Créé la carte avec les données de Open Street Map
+﻿        // Créé la carte avec les données de Open Street Map
         var osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
         osm = new L.TileLayer(osmUrl, {
             maxZoom: 22,
@@ -212,6 +212,7 @@
                             var text = "[" + e.latlng.lat + "," + e.latlng.lng + "]";
                             window.prompt("Position: ", text);
                         });
+
 
                         redimensionnerCarte();
 
