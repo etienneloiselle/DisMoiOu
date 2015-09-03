@@ -153,24 +153,24 @@ footer
 	width: 100%;
 	position: absolute;
 	bottom: 0;
-    background-color: rgba(0,0,0,0.7);
+  background-color: rgba(0,0,0,0.7);
 }
 
 #navigationFooter
 {
 	margin: 0;
 	padding: 0;
-    list-style-type: none;
+  list-style-type: none;
 }
 
 #navigationFooter li
 {
 	margin: 0;
 	padding: 0;
-    display: inline-block;
-    width: 100%;
-    height: 75px;
-    border-radius: 10px;
+  display: inline-block;
+  width: 100%;
+  height: 50px;
+  border-radius: 10px;
 }
 
 
@@ -179,7 +179,7 @@ footer
     display: block;
     width: 100%;
     height: 100%;
-    padding-top: 15px;
+    padding-top: 10px;
     text-decoration: none;
     color: #fff;
     text-align: center;

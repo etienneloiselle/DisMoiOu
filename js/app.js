@@ -1,59 +1,38 @@
-        // Créé la carte avec les données de Open Street Map
-        var osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-        osm = new L.TileLayer(osmUrl, {
-            maxZoom: 22,
-            reuseTiles: true, 
-        });
-
+        // Initialisation de quelques variables, pour régler certains problèmes en rapport avec leurs scope dans les fonctions
+        var imageUrl = "";
+        var imageBounds = "";
+        var planEtage = "";
+        var lc = "";
+        var marqueurs = "";
+        var libelleEtage = "";
+        var iconesEtage = "";
+        var numeroLocauxEtage = "";
         // Limite de la carte
-        var southWest = L.latLng(46.828064, -71.230556),
-            northEast = L.latLng(46.832086, -71.224612),
-            bounds = L.latLngBounds(southWest, northEast);
+        var southWest = L.latLng(46.828064, -71.230556);
+        var northEast = L.latLng(46.832086, -71.224612);
+        var bounds = L.latLngBounds(southWest, northEast);
+
 
         // Affiche la carte
         map = new L.Map('map', {
-            layers: [osm],
             center: new L.LatLng(46.8302871, -71.227337),
-            zoom: 19,
+            zoom: 18,
             minZoom: 17,
+            maxZoom: 25,
             //maxBounds: bounds,
-            zoomControl:false
+            zoomControl:false,
+            scrollWheelZoom:'center'
         });
+        
+
+
+
 
         // S'assure que la carte prend tout l'espace restant dans la fenêtre du navigateur
         function redimensionnerCarte(){
             // Redimensionne la carte
             $("#map").height($(window).height());
         }
-                        
-            
-
-            // Initialisation de quelques variables, pour régler certains problèmes en rapport avec leurs scope dans les fonctions
-            var imageUrl = "";
-            var imageBounds = "";
-            var planEtage = "";
-            var lc = "";
-            var marqueurs = "";
-
-
-            // Icone pour les marqueurs des portes, escaliers, ascenseurs, etc.
-
-            // Icônes pour les portes
-            var iconePortes = L.icon({
-                                iconUrl: 'images/markers/portes.png',
-                                iconSize:     [32, 29], // size of the icon
-                                iconAnchor:   [16, 15], // point of the icon which will correspond to marker's location
-                                popupAnchor:  [2, -13] // point from which the popup should open relative to the iconAnchor
-                                });
-
-            // Icône pour les escalier
-            var iconeEscalier = L.icon({
-                                iconUrl: 'images/markers/escaliers.png',
-                                iconSize:     [32, 32], // size of the icon
-                                iconAnchor:   [16, 16], // point of the icon which will correspond to marker's location
-                                popupAnchor:  [2, -13] // point from which the popup should open relative to the iconAnchor
-                                });
-
 
             
 
@@ -105,34 +84,34 @@
             // Fonction pour changer les plans des étages selon le besoin.
             function changerEtage(etage){
 
-                // Efface la calque qui contient l'image du plan de l'étage
+                // Efface la calque qui contient l'image du plan de l'étage et
                 map.removeLayer(planEtage);
+                map.removeLayer(numeroLocauxEtage);
+                map.removeLayer(libelleEtage);
+                map.removeLayer(marqueurs);
+                map.removeLayer(iconesEtage);
 
                 if(etage == 1){
+                    
 
-                    // Efface le calque qui contient tout les marqueurs (portes, escalier, etc.) de l'étage 1
-                    map.removeLayer(marqueurs);
-
-                    imageUrl = 'images/etages/etage1.svg';
-                    imageBounds = [[46.8291860, -71.229350],[46.8312250, -71.2250300]];
-
+                    // Le plan de base de l'étage 1
+                    imageUrl = 'images/etages/etage1_locaux.svg';
+                    imageBounds = [[46.8290877, -71.2286963],[46.8313316, -71.2254845]];
                     planEtage = L.imageOverlay(imageUrl, imageBounds);
+
+                    // Calque des numéros des locaux sur l'étage (est seulement ajouter lorsque beacoup zoomer dans la carte)
+                    imageLocauxUrl = 'images/etages/etage1_numero.svg'
+                    numeroLocauxEtage = L.imageOverlay(imageLocauxUrl, imageBounds);
+
+                    iconesEtageUrl = 'images/etages/etage1_icones.svg';
+                    iconesEtage = L.imageOverlay(iconesEtageUrl, imageBounds);
+                    map.addLayer(iconesEtage);
+
+                    libelleEtageUrl = 'images/etages/etage1_libelle.svg';
+                    libelleEtage = L.imageOverlay(libelleEtageUrl, imageBounds);
 
                     // Ajoute et affiche l'image du plan de l'étage 1
                     map.addLayer(planEtage);
-
-                    // Défini tous les marqueur sur l'étage 1
-                    porte1Icone = L.marker([46.8300549, -71.2277955], {icon: iconePortes}).bindPopup("Entrée principale");
-                    porte2Icone = L.marker([46.8297739, -71.2265661], {icon: iconePortes}).bindPopup("Entrée principale");
-                    porte3Icone = L.marker([46.8298144, -71.2264637], {icon: iconePortes}).bindPopup("Entrée principale");
-
-                    escalier1Icone = L.marker([46.8303292, -71.2271596], {icon: iconeEscalier}).bindPopup("Grand escalier");
-                    escalier2Icone = L.marker([46.8306716, -71.2274705], {icon: iconeEscalier}).bindPopup("Escalier 1E02");
-                    escalier3Icone = L.marker([46.8309851, -71.2277563], {icon: iconeEscalier}).bindPopup("Escalier 1E01");
-                    escalier4Icone = L.marker([46.8300009, -71.2268951], {icon: iconeEscalier}).bindPopup("Escalier 1E05");
-
-                    // Créé un "Layer Group" avec tout les marqueurs et les affiches sur la carte
-                    marqueurs = L.layerGroup([porte1Icone, porte2Icone, porte3Icone, escalier1Icone, escalier2Icone, escalier3Icone, escalier4Icone]);
 
                     // Affiche la carte en arrière-plan de tout les autres calque. Nécésaire pour voir le point de géolocalisation après avoir changer d'étage
                     planEtage.bringToBack();
@@ -144,13 +123,24 @@
 
                 // Change pour le 2e étage
                 else if (etage == 2){
-                    map.removeLayer(planEtage);
-                    map.removeLayer(marqueurs);
-                    imageUrl = 'images/etages/etage2.svg';
-                    imageBounds = [[46.8291920, -71.2288570],[46.8312300, -71.2255300]];
+
+                    imageUrl = 'images/etages/etage2_locaux.svg';
+                    imageBounds = [[46.8291226, -71.2286392],[46.8313158, -71.225786]];
+
+                    iconesEtageUrl = 'images/etages/etage2_icones.svg';
+                    iconesEtage = L.imageOverlay(iconesEtageUrl, imageBounds);
+                    map.addLayer(iconesEtage);
+
+                    // Calque des numéros des locaux sur l'étage (est seulement ajouter lorsque beacoup zoomer dans la carte)
+                    imageLocauxUrl = 'images/etages/etage2_numero.svg'
+                    numeroLocauxEtage = L.imageOverlay(imageLocauxUrl, imageBounds);
+
+                    libelleEtageUrl = '';
+                    libelleEtage = L.imageOverlay(libelleEtageUrl, imageBounds);
 
                     planEtage = L.imageOverlay(imageUrl, imageBounds)
                     map.addLayer(planEtage);
+
                     planEtage.bringToBack();
                 }
 
@@ -158,6 +148,8 @@
                 // Change pour le 3e étage
                 else if (etage == 3){
                     map.removeLayer(planEtage);
+                    map.removeLayer(libelleEtage);
+                    map.removeLayer(iconesEtage);
                     map.removeLayer(marqueurs);
                     imageUrl = 'images/etages/etage3.svg';
                     imageBounds = [[46.8291920, -71.2288570],[46.8312300, -71.2255300]];
@@ -184,11 +176,7 @@
                 // Transforme le string "postition" en objet pour être capable de l'afficher
                 positionMarqueur = JSON.parse(position);
 
-
-                map.panTo(new L.LatLng(46.8302871, -71.227337));
-
-                // Zoom la carte pour afficher tout le cégep
-                map.setZoom(19);
+                
 
                 // Crée un marqueur et le fait rebondir selon les paramètres "duration" et "height"
                 marqueur = L.marker(positionMarqueur, {bounceOnAdd: true, bounceOnAddOptions: {duration: 500, height: 200}}).bindPopup(message)
@@ -201,6 +189,10 @@
 
                 // Ferme la fênetre modale
                 $('#modalRechercher').modal('hide')
+
+                // Centre le marqueur dans l'écran
+                map.setView(positionMarqueur);
+                
             };
 
 
@@ -229,26 +221,20 @@
                             redimensionnerCarte();
                         });
 
-
-                        // Affiche les marqueurs du premier étage lors du chargemment du site
-                        porte1Icone = L.marker([46.8300549, -71.2277955], {icon: iconePortes}).bindPopup("Entrée principale");
-                        porte2Icone = L.marker([46.8297739, -71.2265661], {icon: iconePortes}).bindPopup("Entrée principale");
-                        porte3Icone = L.marker([46.8298144, -71.2264637], {icon: iconePortes}).bindPopup("Entrée principale");
-
-                        escalier1Icone = L.marker([46.8303292, -71.2271596], {icon: iconeEscalier}).bindPopup("Grand escalier");
-                        escalier2Icone = L.marker([46.8306716, -71.2274705], {icon: iconeEscalier}).bindPopup("Escalier 1E02");
-                        escalier3Icone = L.marker([46.8309851, -71.2277563], {icon: iconeEscalier}).bindPopup("Escalier 1E01");
-                        escalier4Icone = L.marker([46.8301899, -71.2277011], {icon: iconeEscalier}).bindPopup("Escalier 1E07");
-                        escalier5Icone = L.marker([46.8300009, -71.2268951], {icon: iconeEscalier}).bindPopup("Escalier 1E05");
-
-                        marqueurs = L.layerGroup([porte1Icone, porte2Icone, porte3Icone, escalier1Icone, escalier2Icone, escalier3Icone, escalier4Icone, escalier5Icone]);
-
                         // Affiche seulement les marqueurs des portes si la carte est asser zoomer (Level 19)
                         map.on('zoomend', function() {
-                        if (map.getZoom() > 19) {
-                            map.addLayer(marqueurs);
+                        if (map.getZoom() >= 19) {
+                            map.addLayer(libelleEtage);
+                        }
+
+                        if (map.getZoom() < 19) {
+                            map.removeLayer(libelleEtage);
+                        }
+
+                        if (map.getZoom() >= 20) {
+                            map.addLayer(numeroLocauxEtage);
                         } else if (map.getZoom() < 20){
-                            map.removeLayer(marqueurs);
+                            map.removeLayer(numeroLocauxEtage);
                         }
                         });
 
@@ -256,18 +242,22 @@
 
                         // Ouvre la fenêtre modale avec le bouton dans le menu de navigation
                         $("#boutonRechercher").click(function(event){
-                            console.log("Ovrir modale");
                             event.preventDefault();
                             $("#modalRechercher").modal('show')
                             $('#modalRechercher').on('shown.bs.modal', function () {
                                 $('#inputRechercherModal').focus()
+                                // Recherche d'un local
+                                // Filtre la liste dynamiquement selon la vauleur du champ de texte
+                                $('#listeRechercheLocal').liveFilter('#inputRechercherModal', 'li', {
+                                filterChildSelector: 'a h3',
+                                });
                             })
                         });
 
 
 
                         // Ajoute via AJAX chaque locaux dans la liste de recherche (via le fichier listelocaux.json)
-                        /* $.ajax({
+                        $.ajax({
                                 url: "data/listelocaux.json",
                                 context: document.body,
                                 dataType: "json"
@@ -281,18 +271,16 @@
                                         var etageLocal = data[i].etage;
 
                                         var element = '<li><a href=\"javascript:afficherMarqueur(\'' + positionLocal  +'\'' + ', \'' + etageLocal + '\', ' + '\'' + nomLocal + '\')">' + nomLocal + '</h3> <h6 class="etage">1er étage</h6></a></li>';  
-                                        console.log(element);
                                         $("#listeRechercheLocal").append(element);
                                     }
 
-                            }); */
+                            });
 
 
-                        // Recherche d'un local
-                        // Filtre la liste dynamiquement selon la vauleur du champ de texte
-                        $('#listeRechercheLocal').liveFilter('#inputRechercherModal', 'li', {
-                            filterChildSelector: 'a',
-                        });
 
+                                // Calque avec les routes
+                                var routesUrl = 'images/etages/routes.svg';
+                                var routesBounds = [[46.8274718,-71.2311092],[46.8333687,-71.2232114]];
+                                var routes = L.imageOverlay(routesUrl, routesBounds).addTo(map);
 
             }); // Document ready function
