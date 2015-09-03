@@ -207,6 +207,12 @@
             // Document ready function
             $(function(){
 
+                        // Copie la position GPS lors du clic
+                        map.on('click', function(e) {
+                            var text = "[" + e.latlng.lat + "," + e.latlng.lng + "]";
+                            window.prompt("Position: ", text);
+                        });
+
                         redimensionnerCarte();
 
                         // Cache tout les élément de la liste avec la classe "cacher"

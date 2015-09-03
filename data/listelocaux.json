@@ -3,13 +3,15 @@
 		"nom": "Local 1117",
 		"local": "1117",
 		"position": "[46.8302136,-71.2269999]",
-		"etage": 1
+		"etage": 1,
+		"message": "Local 1117"
 	},
 	{
 		"nom": "Local 1116",
 		"local": "1116",
 		"position": "[46.8301459,-71.2269359]",
-		"etage": 1
+		"etage": 1,
+		"message": "Local 1116"
 	}
 
 ]

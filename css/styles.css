@@ -158,9 +158,3 @@ footer
 {
     font-size: 40px; 
 }
-
-/* Cache le controle de localisation (Normalement en haut à gauche) */
-.leaflet-control
-{
-    display: none;
-}
