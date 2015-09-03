@@ -207,6 +207,7 @@
             // Document ready function
             $(function(){
 
+<<<<<<< HEAD
                         // Copie la position GPS lors du clic ---- À ENLEVER !!!
                         map.on('click', function(e) {
                             // alert("Lat, Lon : " + e.latlng.lat + ", " + e.latlng.lng);
@@ -218,6 +219,8 @@
                             $temp.remove();
                         });
 
+=======
+>>>>>>> origin/master
                         redimensionnerCarte();
 
                         // Cache tout les élément de la liste avec la classe "cacher"
