@@ -162,9 +162,12 @@
 .leaflet-clickable {
 	cursor: pointer;
 	}
+
+/* A été modifié */
 .leaflet-container {
-	cursor: -webkit-grab;
-	cursor:    -moz-grab;
+	cursor: crosshair;
+	/* cursor: -webkit-grab;
+	cursor:    -moz-grab; */
 	}
 .leaflet-popup-pane,
 .leaflet-control {
@@ -181,7 +184,7 @@
 /* visual tweaks */
 
 .leaflet-container {
-	background: #ddd;
+	background: transparent;
 	outline: 0;
 	}
 .leaflet-container a {

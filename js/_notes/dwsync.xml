@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="l.control.locate.js" server="etienneloiselle.com/www/dismoiou/" local="130852795520000000" remote="130855240200000000" Dst="2" />
-<file name="jquery.min.js" server="etienneloiselle.com/www/dismoiou/" local="130852795520000000" remote="130855240200000000" Dst="2" />
-<file name="L.Control.Locate.min.js" server="etienneloiselle.com/www/dismoiou/" local="130852795520000000" remote="130855240200000000" Dst="2" />
-<file name="leaflet-indoor.js" server="etienneloiselle.com/www/dismoiou/" local="130852795520000000" remote="130855240200000000" Dst="2" />
-<file name="list.min.js" server="etienneloiselle.com/www/dismoiou/" local="130852795520000000" remote="130855240200000000" Dst="2" />
-<file name="osmtogeojson.js" server="etienneloiselle.com/www/dismoiou/" local="130852795520000000" remote="130855240200000000" Dst="2" />
-<file name="ratchet.js" server="etienneloiselle.com/www/dismoiou/" local="130852795520000000" remote="130855240200000000" Dst="2" />
-<file name="ratchet.min.js" server="etienneloiselle.com/www/dismoiou/" local="130852795520000000" remote="130855240200000000" Dst="2" />
-<file name="leaflet-src.js" server="etienneloiselle.com/www/dismoiou/" local="130852795520000000" remote="130855240200000000" Dst="2" />
+<file name="l.control.locate.js" server="etienneloiselle.com/www/dismoiou/" local="130855670740000000" remote="130856005200000000" Dst="2" />
+<file name="jquery.min.js" server="etienneloiselle.com/www/dismoiou/" local="130855670740000000" remote="130856005200000000" Dst="2" />
+<file name="L.Control.Locate.min.js" server="etienneloiselle.com/www/dismoiou/" local="130855978100000000" remote="130856787600000000" Dst="2" />
+<file name="leaflet-indoor.js" server="etienneloiselle.com/www/dismoiou/" local="130855670740000000" remote="130856005200000000" Dst="2" />
+<file name="osmtogeojson.js" server="etienneloiselle.com/www/dismoiou/" local="130855670740000000" remote="130856005200000000" Dst="2" />
+<file name="ratchet.js" server="etienneloiselle.com/www/dismoiou/" local="130855670740000000" remote="130856005200000000" Dst="2" />
+<file name="ratchet.min.js" server="etienneloiselle.com/www/dismoiou/" local="130855670740000000" remote="130856005200000000" Dst="2" />
+<file name="leaflet-src.js" server="etienneloiselle.com/www/dismoiou/" local="130855670740000000" remote="130856005200000000" Dst="2" />
+<file name="bouncemarker.js" server="etienneloiselle.com/www/dismoiou/" local="130855951060000000" remote="130856787600000000" Dst="2" />
+<file name="app.js" server="etienneloiselle.com/www/dismoiou/" local="130856915799322119" remote="130856916600000000" Dst="2" />
+<file name="jquery.liveFilter.js" server="etienneloiselle.com/www/dismoiou/" local="130856072300000000" remote="130856787600000000" Dst="2" />
 </dwsync>
