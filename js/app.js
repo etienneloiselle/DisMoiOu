@@ -1,4 +1,4 @@
-﻿        // Créé la carte avec les données de Open Street Map
+        // Créé la carte avec les données de Open Street Map
         var osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
         osm = new L.TileLayer(osmUrl, {
             maxZoom: 22,
@@ -114,7 +114,7 @@
                     map.removeLayer(marqueurs);
 
                     imageUrl = 'images/etages/etage1.svg';
-                    imageBounds = [[46.8291960, -71.229300],[46.8312200, -71.2250600]];
+                    imageBounds = [[46.8291860, -71.229350],[46.8312250, -71.2250300]];
 
                     planEtage = L.imageOverlay(imageUrl, imageBounds);
 
@@ -213,7 +213,6 @@
                             window.prompt("Position: ", text);
                         });
 
-
                         redimensionnerCarte();
 
                         // Cache tout les élément de la liste avec la classe "cacher"
@@ -222,7 +221,7 @@
                         // Affiche le plan du 1er étage par defaut
                         changerEtage(1);
 
-                        // Démare le service de géolcalisation
+                        // Démare le service de géolocalisation
                         lc.start();
 
                         // Appellé lorsque la fenêtre est redimensionner
