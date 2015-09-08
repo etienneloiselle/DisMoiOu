@@ -1,15 +1,885 @@
-[
+ [
 	{
 		"nom": "Local 1117",
 		"local": "1117",
 		"position": "[46.8302136,-71.2269999]",
-		"etage": 1
+		"etage": 1,
+		"message": "Local 1117"
 	},
 	{
 		"nom": "Local 1116",
 		"local": "1116",
 		"position": "[46.8301459,-71.2269359]",
-		"etage": 1
-	}
+		"etage": 1,
+		"message": "Local 1116"
+	},
+    {
+		"nom": "Entrée Principale",
+		"local": " ",
+		"position": "[46.83004830963211,-71.22780114412308]",
+		"etage": 1,
+		"message": "8e Avenue - 13e Rue"
+	},
+	{
+		"nom": "Local 1401",
+		"local": "1401",
+		"position": "[46.83015061484073,-71.22778840363026]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1405",
+		"local": "1405",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+	{
+		"nom": "Local 1406",
+		"local": "1406",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1407",
+		"local": "1407",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1408",
+		"local": "1408",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1409",
+		"local": "1409",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1412",
+		"local": "1412",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1413",
+		"local": "1413",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1414",
+		"local": "1414",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1415",
+		"local": "1415",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1404",
+		"local": "1404",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1448",
+		"local": "1448",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1446",
+		"local": "1446",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1447",
+		"local": "1447",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1441",
+		"local": "1441",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1448",
+		"local": "1448",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1443",
+		"local": "1443",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1449",
+		"local": "1449",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1443",
+		"local": "1443",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1435",
+		"local": "1435",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1436",
+		"local": "1436",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1445",
+		"local": "1445",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1442",
+		"local": "1442",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1437",
+		"local": "1437",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1434",
+		"local": "1434",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1433",
+		"local": "1433",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1432",
+		"local": "1432",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1423",
+		"local": "1423",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1424",
+		"local": "1424",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1425",
+		"local": "1425",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1422",
+		"local": "1422",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1421",
+		"local": "1421",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1419",
+		"local": "1419",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1430",
+		"local": "1430",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1417", 
+		"local": "1417",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1416", 
+		"local": "1416",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+	{
+		"nom": "Local 1452",
+		"local": "1452",
+		"position": "[46.830242826991956,-71.22759863734245]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1458",
+		"local": "1458",
+		"position": "[46.8302598013508,-71.22753493487834]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1457",
+		"local": "1457",
+		"position": "[46.83026805914506,-71.2275429815054]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1456",
+		"local": "1456",
+		"position": "[46.83030659550151,-71.22757785022259]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1455",
+		"local": "1455",
+		"position": "[46.8303171471181,-71.22758589684963]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1454",
+		"local": "1454",
+		"position": "[46.830352013314695,-71.2276167422533]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1453",
+		"local": "1453",
+		"position": "[46.83036302368788,-71.22762881219387]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1461",
+		"local": "1461",
+		"position": "[46.83036531751534,-71.22771061956882]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1467",
+		"local": "1467",
+		"position": "[46.83038642072338,-71.22772805392742]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1465",
+		"local": "1465",
+		"position": "[46.83042541575993,-71.22771263122559]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {  
+		"nom": "Local 1477",
+		"local": "1477",
+		"position": "[46.830464869532825,-71.22774884104729]",
+		"etage": 1,
+		"message": "Accès via le 1471"
+	},
+    {
+		"nom": "Local 1471",
+		"local": "1471",
+		"position": "[46.83046532829746,-71.22780181467533]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1466",
+		"local": "1466",
+		"position": "[46.83038642072338,-71.22764825820923]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1462",
+		"local": "1462",
+		"position": "[46.830424956994975,-71.22768312692642]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1463",
+		"local": "1463",
+		"position": "[46.8304446838852,-71.22769720852374]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1476",
+		"local": "1476",
+		"position": "[46.83046991594355,-71.22772470116615]",
+		"etage": 1,
+		"message": "Accès via le 1471"
+	},
+    {
+		"nom": "Local 1475",
+		"local": "1475",
+		"position": "[46.830506617098195,-71.22775755822657]",
+		"etage": 1,
+		"message": "Accès via le 1471"
+	},
+    {
+		"nom": "Local 1474",
+		"local": "1474",
+		"position": "[46.8305171686755,-71.22776828706264]",
+		"etage": 1,
+		"message": "Accès via le 1471"
+	},
+    {
+		"nom": "Local 1473",
+		"local": "1473",
+		"position": "[46.8305410244079,-71.22778974473476]",
+		"etage": 1,
+		"message": "Accès via le 1471"
+	},
+    {
+		"nom": "Local 1141", 
+		"local": "1141",
+		"position": "[46.83030843056541,-71.22738406062125]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1142",
+		"local": "1142",
+		"position": "[46.83037999800876,-71.22744910418987]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1143",
+		"local": "1143",
+		"position": "[46.83041761675488,-71.22747726738453]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1144",
+		"local": "1144",
+		"position": "[46.8304570705335,-71.22751615941525]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1146",
+		"local": "1146",
+		"position": "[46.83052450890198,-71.2275791913271]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Toilettes - Hommes",
+		"local": "1352",
+		"position": "[46.830614426595,-71.22767306864262]",
+		"etage": 1,
+		"message": "Toilettes - Hommes"
+	},
+    {
+		"nom": "Toilettes - Femmes",
+		"local": "1351",
+		"position": "[46.830580936859576,-71.22774951159954]",
+		"etage": 1,
+		"message": "Toilettes - Femmes"
+	},
+    {
+		"nom": "Local 1324",
+		"local": "1324",
+		"position": "[46.83065571528118,-71.22818738222122]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1323",
+		"local": "1323",
+		"position": "[46.83067544208673,-71.22820414602757]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Entrée Salle Sylvain-Lelièvre",
+		"local": " ",
+		"position": "[46.830550199686776,-71.22816994786261]",
+		"etage": 1,
+		"message": "8e Avenue - 14e Rue"
+	},
+    {
+		"nom": "Local 1322",
+		"local": "1322",
+		"position": "[46.830771782195804,-71.22822426259518]",
+		"etage": 1,
+		"message": "Accès via le Gymnase D"
+	},
+    {
+		"nom": "Local 1325",
+		"local": "1325",
+		"position": "[46.83067085445817,-71.22822493314743]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Gymanase D",
+		"local": "1321",
+		"position": "[46.83080022543308,-71.22824840247631]",
+		"etage": 1,
+		"message": "Gymanase D"
+	},
+    {
+		"nom": "Foyer Desjardins",
+		"local": "1333",
+		"position": "[46.83057680798664,-71.22811295092106]",
+		"etage": 1,
+		"message": "Foyer Desjardins"
+	},
+    {
+		"nom": "Salle Sylvain-Lelièvre",
+		"local": "1327",
+		"position": "[46.830615344121696,-71.22801639139652]",
+		"etage": 1,
+		"message": "Accès via le Foyer Desjardins"
+	},
+    {
+		"nom": "Salle Sylvain-Lelièvre",
+		"local": "1328",
+		"position": "[46.830615344121696,-71.22801639139652]",
+		"etage": 1,
+		"message": "Accès via le Foyer Desjardins"
+	},
+    {
+		"nom": "Entrée Centre Sportif",   
+		"local": " ",
+		"position": "[46.830975013383295,-71.22790910303593]",
+		"etage": 1,
+		"message": "À l'entrée du stationnement sous-terrain"
+	},
+    {
+		"nom": "Local 1317",
+		"local": "1317",
+		"position": "[46.83099244627105,-71.22770592570303]",
+		"etage": 1,
+		"message": "Local 1317"
+	},
+    {
+		"nom": "Local 1316",
+		"local": "1316",
+		"position": "[46.83102960582868,-71.22761741280556]",
+		"etage": 1,
+		"message": "Local 1316"
+	},
+    {
+		"nom": "Local 1315",
+		"local": "1315",
+		"position": "[46.83097134330094,-71.22759729623795]",
+		"etage": 1,
+		"message": "Local 1315"
+	},
+    {
+		"nom": "Local 1314",
+		"local": "1314",
+		"position": "[46.83095528668772,-71.22758388519287]",
+		"etage": 1,
+		"message": "Local 1314"
+	},
+    {
+		"nom": "Local 1313",
+		"local": "1313",
+		"position": "[46.83093510122428,-71.22752018272877]",
+		"etage": 1,
+		"message": "Accès via les Gymnases A, B et C"
+	},
+    {
+		"nom": "Local 1311", 
+		"local": "1311",
+		"position": "[46.83088968390383,-71.22755169868469]",
+		"etage": 1,  
+		"message": "Local 1311"
+	},
+    {
+		"nom": "Local 1312",
+		"local": "1312",
+		"position": "[46.830845184067755,-71.22743837535381]",
+		"etage": 1,
+		"message": "Accès via les Gymnases A, B et C"
+	},
+    {
+		"nom": "Toilettes - Hommes",
+		"local": "1306",
+		"position": "[46.830799307909516,-71.22744239866734]",
+		"etage": 1,
+		"message": "Toilettes - Hommes"
+	},
+    {
+		"nom": "Local 1305",
+		"local": "1305",
+		"position": "[46.830777746101646,-71.22742027044296]",
+		"etage": 1,
+		"message": "Local 1305"
+	},
+    {
+		"nom": "Vestiaire - Femmes",
+		"local": "1318",
+		"position": "[46.83090252921045,-71.22765094041824]",
+		"etage": 1,
+		"message": "Vestiaire - Femmes"
+	},
+    {
+		"nom": "Vestiaire - Femmes",
+		"local": "1331",
+		"position": "[46.83090252921045,-71.22765094041824]",
+		"etage": 1,
+		"message": "Vestiaire - Femmes"
+	},
+    {
+		"nom": "Vestiaire - Femmes",
+		"local": "1319",
+		"position": "[46.83090252921045,-71.22765094041824]",
+		"etage": 1,
+		"message": "Vestiaire - Femmes"
+	},
+    {
+		"nom": "Vestiaire - Hommes",
+		"local": "1307",
+		"position": "[46.830783710006806,-71.2275356054306]",
+		"etage": 1,
+		"message": "Vestiaire - Hommes"
+	},
+    {
+		"nom": "Vestiaire - Hommes",
+		"local": "1332",
+		"position": "[46.830783710006806,-71.2275356054306]",
+		"etage": 1,
+		"message": "Vestiaire - Hommes"
+	},
+    {
+		"nom": "Vestiaire - Hommes",
+		"local": "1309",
+		"position": "[46.830783710006806,-71.2275356054306]",
+		"etage": 1,
+		"message": "Vestiaire - Hommes"
+	},
+    {
+		"nom": "Local 1304",
+		"local": "1304",
+		"position": "[46.83073141112349,-71.22739009559155]",
+		"etage": 1,
+		"message": "Local 1304"
+	},
+    {
+		"nom": "Local 1303",
+		"local": "1303",
+		"position": "[46.830723612162856,-71.22741088271141]",
+		"etage": 1,
+		"message": "1303"
+	},
+    {
+		"nom": "Gymnases A, B et C",
+		"local": "1302",
+		"position": " ",
+		"etage": 1,
+		"message": "Gymnases A, B et C"
+	},
+    {
+		"nom": "Local 1361",
+		"local": "1361",
+		"position": "[46.83062589567768,-71.22756578028202]",
+		"etage": 1,
+		"message": "Local 1361"
+	},
+    {
+		"nom": "Local 1308",
+		"local": "1308",
+		"position": "[46.8303763278858,-71.22721575200558]",
+		"etage": 1,
+		"message": "Accès via la cafétéria"
+	},
+    {
+		"nom": "Local 1334",
+		"local": "1334",
+		"position": "[46.8303763278858,-71.22721575200558]",
+		"etage": 1,
+		"message": "Accès via la cafétéria"
+	},
+    {
+		"nom": "Local 1124",
+		"local": "1124",
+		"position": "[46.8303763278858,-71.22721575200558]",
+		"etage": 1,
+		"message": "Accès via la cafétéria"
+	},
+    {
+		"nom": "Cafétéria",
+		"local": "1122",
+		"position": "[46.8303763278858,-71.22721575200558]",
+		"etage": 1,
+		"message": ""
+	},
+    {
+		"nom": "Cafétéria",
+		"local": "1121",
+		"position": "[46.8303763278858,-71.22721575200558]",
+		"etage": 1,
+		"message": "Cafétéria: tables"
+	},
+    {
+		"nom": "Cafétéria",
+		"local": "1296",
+		"position": "[46.8303763278858,-71.22721575200558]",
+		"etage": 1,
+		"message": "Cafétéria: cuisine"
+	},
+    {
+		"nom": "COOP",
+		"local": "1203",
+		"position": "[46.83039743108951,-71.22702732682228]",
+		"etage": 1,
+		"message": "COOP Zone"
+	},
+    {
+		"nom": "COOP",
+		"local": "1201",
+		"position": "[46.83039743108951,-71.22702732682228]",
+		"etage": 1,
+		"message": "COOP Zone"
+	},
+    {
+		"nom": "COOP",
+		"local": "1299",
+		"position": "[46.83039743108951,-71.22702732682228]",
+		"etage": 1,
+		"message": "COOP Zone"
+	},
+    {
+		"nom": "COOP",
+		"local": "1216",
+		"position": "[46.83039743108951,-71.22702732682228]",
+		"etage": 1,
+		"message": "COOP Zone"
+	},
 
+    {
+		"nom": "Local 1266",
+		"local": "1266",
+		"position": "[46.83033458021924,-71.22695557773113]",
+		"etage": 1,
+		"message": "Local 1266"
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local ",
+		"local": " ",
+		"position": " ",
+		"etage": 1,
+		"message": " "
+	}  
 ]

@@ -21,6 +21,7 @@
 
     <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
     <script src="js/L.Control.Locate.min.js"></script>
+    <script src="js/list.js"></script>
 
     <!--[if lte IE 8]><link rel="stylesheet" href="libs/leaflet.ie.css" /><![endif]-->
     <!-- Latest compiled and minified CSS -->
@@ -31,10 +32,20 @@
     <link rel="stylesheet" href="css/app.css">
 
     <!-- Met en cache les images de toutes les étages -->
-    <link rel="prefetch" href="images/etages/etage1.svg">
-    <link rel="prefetch" href="images/etages/etage2.svg">
-    <link rel="prefetch" href="images/etages/etage3.svg">
-    <link rel="prefetch" href="images/etages/etage4.svg">
+    <link rel="prefetch" href="images/etages/etage1_locaux.svg">
+    <link rel="prefetch" href="images/etages/etage1_numero.svg">
+    <link rel="prefetch" href="images/etages/etage1_libelle.svg">
+    <link rel="prefetch" href="images/etages/etage1_icones.svg">
+
+    <link rel="prefetch" href="images/etages/etage2_locaux.svg">
+    <link rel="prefetch" href="images/etages/etage2_numero.svg">
+    <link rel="prefetch" href="images/etages/etage2_libelle.svg">
+    <link rel="prefetch" href="images/etages/etage2_icones.svg">
+
+    <link rel="prefetch" href="images/etages/etage3_locaux.svg">
+    <link rel="prefetch" href="images/etages/etage3_numero.svg">
+    <link rel="prefetch" href="images/etages/etage3_libelle.svg">
+    <link rel="prefetch" href="images/etages/etage3_icones.svg">
     
 </head>
 <body>
@@ -45,7 +56,7 @@
     <div class="col-xs-12">
         <div id="map"></div>
 
-        <!-- Contrôle pour changer d'étage -->
+        <!-- Contrôle pour changer d'étage (Version 1)
         <div id="controlleEtage">
             <ul>
                 <li><a href="javascript:changerEtage(5)">5</a></li>
@@ -54,7 +65,15 @@
                 <li><a href="javascript:changerEtage(2)">2</a></li>
                 <li><a href="javascript:changerEtage(1)">1</a></li>
             </ul>
-        </div> <!-- #controlleEtage -->
+        </div> #controlleEtage -->
+
+        <div id="controlleEtage">
+            <ul>
+                <li><a href="javascript:controlleurEtage('monter')"><i class="material-icons">keyboard_arrow_up</i></a></li>
+                <li id="indicateurEtage">1</li>
+                <li><a href="javascript:controlleurEtage('descendre')"><i class="material-icons">keyboard_arrow_down</i></a></li>
+            </ul>
+        </div>
 
     <!-- La barre de navigation dans le bas de l'écran, contient trois boutons -->
 <footer class="footer">
@@ -65,7 +84,7 @@
                 <div class="col-xs-4">
                     <!-- Apelle la fonction lc.start().....Geolocalisation de l'utilisateur -->
                     <li>
-                    <a href="javascript:lc.start()"><i class="material-icons">location_searching</i></a>
+                    <a href="javascript:lc.start()"><i class="material-icons">my_location</i></a>
                     </li>
                 </div> <!-- .col-xs-4 -->
                 
@@ -80,7 +99,7 @@
                 <div class="col-xs-4">
                     <!-- Ouvre la fenetre d'information sur le projet -->
                     <li>
-                        <a href="javascript:"><i class="material-icons">info_outline</i></a>
+                        <a id="boutonInformations" href="javascript:"><i class="material-icons">info_outline</i></a>
                     </li>
                 </div> <!-- .col-xs-4 -->
             </ul>
@@ -93,32 +112,63 @@
 
 
 <!-- Fenêtre modal pour rechercher un local, contient le champ de recherche et la longue liste de tout les locaux. Affiché via un bouton dans le menu de navigation et la fonction  $("#modalRechercher").modal('show') dans le fichier app.js-->
-<div class="modal fade" id="modalRechercher" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal fade" id="modalRechercher" tabindex="-1" role="dialog" aria-labelledby="labelRechercher">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title text-center" id="myModalLabel">Rechercher</h4>
+        <h4 class="modal-title text-center" id="labelRechercher">Rechercher</h4>
     </div>
     <div class="modal-body">
         <div id="listeLocaux">
 
             <!-- Le champ de recherche, filtre dynamiquement la liste via le plugin jQuery LiveFilter-->
-            <input id="inputRechercherModal" class="search form-control" placeholder="Local 2106, Cafétéria, Porte principale" autofocus tabindex="1" />
+            <input id="inputRechercherModal" class="search form-control search" placeholder="Local 2106, Cafétéria, Porte principale" autofocus tabindex="1" />
 
-            <!-- La longue liste qui liste tout les locaux du cégep -->
-            <ul id="listeRechercheLocal">
-            
-                <?php
-                    include "listelocaux.html"
-                ?>
+            <div class="panel-group" id="accordion">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Collapsible Group Item #1</a>
+            </h4>
+        </div>
+        <div id="collapseOne" class="panel-collapse collapse">
+            <div class="panel-body">
                 
+                <!-- La longue liste qui liste tout les locaux du cégep -->
+            <ul class="list" id="listeRechercheLocal">
+               <!--------  Contient la liste de tous les locaux  --------> 
             </ul>
+
+
+            </div> <!--------  .panel-body  -------->
+        </div>
+    </div>
+            
         </div> <!--------  listeLocaux  -------->
     </div> <!--------  .modal-body  -------->
 </div>
 </div>
 </div> <!--------  .modal  -------->
+
+
+
+<!-- Fenêtre modal pour rechercher un local, contient le champ de recherche et la longue liste de tout les locaux. Affiché via un bouton dans le menu de navigation et la fonction  $("#modalRechercher").modal('show') dans le fichier app.js-->
+<div class="modal fade" id="modalInformations" tabindex="-1" role="dialog" aria-labelledby="labelInformations">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title text-center" id="labelInformations">Dis moi où</h4>
+    </div>
+    <div class="modal-body">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat rerum pariatur aut ad iure ipsa soluta, fugit voluptatem et. Cupiditate explicabo provident odit doloribus cumque harum sit, ullam, recusandae ut.
+    </div> <!--------  .modal-body  -------->
+</div>
+</div>
+</div> <!--------  .modal  -------->
+
+
 
 
 </div> <!--------  .container-fluid  -------->
