@@ -1,0 +1,4049 @@
+ [
+    {
+		"nom": "Entrée Principale",
+		"local": " ",
+		"position": "[46.83004830963211,-71.22780114412308]",
+		"etage": 1,
+		"message": "8e Avenue, 13e Rue"
+	},
+    {
+		"nom": "Entrée 12e Rue",   
+		"local": " ",
+		"position": "[46.82978405850607,-71.22657269239426]",
+		"etage": 1,
+		"message": "8e Avenue - 12e Rue"
+	},
+    {
+		"nom": "Entrée Stationnement Extérieur",   
+		"local": " ",
+		"position": "[46.82981341980646,-71.22649356722832]",
+		"etage": 1,
+		"message": " "
+	},
+	{
+		"nom": "Local 1208",
+		"local": "1208",
+		"position": "[46.830488266524,-71.22672155499458]",
+		"etage": 1,
+		"message": "Salle de réunion"
+	},
+	{
+		"nom": "Local 1540",
+		"local": "1540",
+		"position": "[46.82932482732999,-71.22610464692116]",
+		"etage": 1,
+		"message": "Salle de conférence"
+	},
+	{
+		"nom": "Local 1401",
+		"local": "1401",
+		"position": "[46.83015061484073,-71.22778840363026]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1405",
+		"local": "1405",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+	{
+		"nom": "Local 1406",
+		"local": "1406",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1407",
+		"local": "1407",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1408",
+		"local": "1408",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1409",
+		"local": "1409",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1412",
+		"local": "1412",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1413",
+		"local": "1413",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1414",
+		"local": "1414",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1415",
+		"local": "1415",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1404",
+		"local": "1404",
+		"position": "[46.830290538689674,-71.22796341776848]",
+		"etage": 1,
+		"message": "Pédagogie et international"
+	},
+    {
+		"nom": "Local 1448",
+		"local": "1448",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1446",
+		"local": "1446",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1447",
+		"local": "1447",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1449",
+		"local": "1449",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1443",
+		"local": "1443",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1435",
+		"local": "1435",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1436",
+		"local": "1436",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1445",
+		"local": "1445",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1442",
+		"local": "1442",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1437",
+		"local": "1437",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1434",
+		"local": "1434",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1433",
+		"local": "1433",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1432",
+		"local": "1432",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1423",
+		"local": "1423",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1424",
+		"local": "1424",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1425",
+		"local": "1425",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1422",
+		"local": "1422",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1421",
+		"local": "1421",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1419",
+		"local": "1419",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1430",
+		"local": "1430",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1417", 
+		"local": "1417",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+    {
+		"nom": "Local 1416", 
+		"local": "1416",
+		"position": "[46.83034926072105,-71.22783333063126]",
+		"etage": 1,
+		"message": "Animation et consultation"
+	},
+	{
+		"nom": "Local 1452",
+		"local": "1452",
+		"position": "[46.830242826991956,-71.22759863734245]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1458",
+		"local": "1458",
+		"position": "[46.8302598013508,-71.22753493487834]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1457",
+		"local": "1457",
+		"position": "[46.83026805914506,-71.2275429815054]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1456",
+		"local": "1456",
+		"position": "[46.83030659550151,-71.22757785022259]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1455",
+		"local": "1455",
+		"position": "[46.8303171471181,-71.22758589684963]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1454",
+		"local": "1454",
+		"position": "[46.830352013314695,-71.2276167422533]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1453",
+		"local": "1453",
+		"position": "[46.83036302368788,-71.22762881219387]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1461",
+		"local": "1461",
+		"position": "[46.83036531751534,-71.22771061956882]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1467",
+		"local": "1467",
+		"position": "[46.83038642072338,-71.22772805392742]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1465",
+		"local": "1465",
+		"position": "[46.83042541575993,-71.22771263122559]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {  
+		"nom": "Local 1477",
+		"local": "1477",
+		"position": "[46.830464869532825,-71.22774884104729]",
+		"etage": 1,
+		"message": "Accès via le 1471"
+	},
+    {
+		"nom": "Local 1471",
+		"local": "1471",
+		"position": "[46.83046532829746,-71.22780181467533]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1466",
+		"local": "1466",
+		"position": "[46.83038642072338,-71.22764825820923]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1462",
+		"local": "1462",
+		"position": "[46.830424956994975,-71.22768312692642]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1463",
+		"local": "1463",
+		"position": "[46.8304446838852,-71.22769720852374]",
+		"etage": 1,
+		"message": "Accès via le 1452"
+	},
+    {
+		"nom": "Local 1476",
+		"local": "1476",
+		"position": "[46.83046991594355,-71.22772470116615]",
+		"etage": 1,
+		"message": "Accès via le 1471"
+	},
+    {
+		"nom": "Local 1475",
+		"local": "1475",
+		"position": "[46.830506617098195,-71.22775755822657]",
+		"etage": 1,
+		"message": "Accès via le 1471"
+	},
+    {
+		"nom": "Local 1474",
+		"local": "1474",
+		"position": "[46.8305171686755,-71.22776828706264]",
+		"etage": 1,
+		"message": "Accès via le 1471"
+	},
+    {
+		"nom": "Local 1473",
+		"local": "1473",
+		"position": "[46.8305410244079,-71.22778974473476]",
+		"etage": 1,
+		"message": "Accès via le 1471"
+	},
+    {
+		"nom": "Local 1141", 
+		"local": "1141",
+		"position": "[46.83030843056541,-71.22738406062125]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1142",
+		"local": "1142",
+		"position": "[46.83037999800876,-71.22744910418987]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1143",
+		"local": "1143",
+		"position": "[46.83041761675488,-71.22747726738453]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1144",
+		"local": "1144",
+		"position": "[46.8304570705335,-71.22751615941525]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1146",
+		"local": "1146",
+		"position": "[46.83052450890198,-71.2275791913271]",
+		"etage": 1,
+		"message": " "
+	}, 
+    {
+		"nom": "Local 1324",
+		"local": "1324",
+		"position": "[46.83065571528118,-71.22818738222122]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1323",
+		"local": "1323",
+		"position": "[46.83067544208673,-71.22820414602757]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Entrée Salle Sylvain-Lelièvre",
+		"local": " ",
+		"position": "[46.830550199686776,-71.22816994786261]",
+		"etage": 1,
+		"message": "8e Avenue, 14e Rue"
+	},
+    {
+		"nom": "Local 1322",
+		"local": "1322",
+		"position": "[46.830771782195804,-71.22822426259518]",
+		"etage": 1,
+		"message": "Accès via le Gymnase D"
+	},
+    {
+		"nom": "Local 1325", 
+		"local": "1325",
+		"position": "[46.83067085445817,-71.22822493314743]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Gymanase D",
+		"local": "1321",
+		"position": "[46.83080022543308,-71.22824840247631]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Foyer Desjardins",
+		"local": "1333",
+		"position": "[46.83057680798664,-71.22811295092106]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Salle Sylvain-Lelièvre",
+		"local": "1327",
+		"position": "[46.830615344121696,-71.22801639139652]",
+		"etage": 1,
+		"message": "Accès via le Foyer Desjardins"
+	},
+    {
+		"nom": "Entrée Centre Sportif",   
+		"local": " ",
+		"position": "[46.830975013383295,-71.22790910303593]",
+		"etage": 1,
+		"message": "À l’entrée du stationnement sous-terrain"
+	},
+	{
+		"nom": "Magasin Sportif",   
+		"local": "1320",
+		"position": "[46.83084013769227,-71.22769519686699]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1317",
+		"local": "1317",
+		"position": "[46.83099244627105,-71.22770592570303]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1316",
+		"local": "1316",
+		"position": "[46.83102960582868,-71.22761741280556]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1315",
+		"local": "1315",
+		"position": "[46.83097134330094,-71.22759729623795]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1314",
+		"local": "1314",
+		"position": "[46.83095528668772,-71.22758388519287]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1313",
+		"local": "1313",
+		"position": "[46.83093510122428,-71.22752018272877]",
+		"etage": 1,
+		"message": "Accès via les Gymnases A, B et C"
+	},
+    {
+		"nom": "Local 1311", 
+		"local": "1311",
+		"position": "[46.83088968390383,-71.22755169868469]",
+		"etage": 1,  
+		"message": " "
+	},
+    {
+		"nom": "Local 1312",
+		"local": "1312",
+		"position": "[46.830845184067755,-71.22743837535381]",
+		"etage": 1,
+		"message": "Accès via les Gymnases A, B et C"
+	},
+    {
+		"nom": "Local 1305",
+		"local": "1305",
+		"position": "[46.830777746101646,-71.22742027044296]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Vestiaire - Femmes - Gymnase",
+		"local": "1318",
+		"position": "[46.830957809870114,-71.22769922018051]",
+		"etage": 1,
+		"message": "Vestiaire - Femmes"
+	},
+    {
+		"nom": "Vestiaire - Hommes - Gymnase",
+		"local": "1307",
+		"position": "[46.83070778485689,-71.22752889990807]",
+		"etage": 1,
+		"message": "Vestiaire - Hommes"
+	},
+    {
+		"nom": "Local 1304",
+		"local": "1304",
+		"position": "[46.83073141112349,-71.22739009559155]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1303",
+		"local": "1303",
+		"position": "[46.830723612162856,-71.22741088271141]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Gymnases A, B et C",
+		"local": "1302",
+		"position": "[46.830871333460415,-71.22740015387535]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Cafétéria",
+		"local": "1121",
+		"position": "[46.8303763278858,-71.22721575200558]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "COOP",
+		"local": "1203",
+		"position": "[46.83039743108951,-71.22702732682228]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1266",
+		"local": "1266",
+		"position": "[46.83033458021924,-71.22695557773113]",
+		"etage": 1, 
+		"message": " "
+	},
+    {
+		"nom": "Local 1271",
+		"local": "1271",
+		"position": "[46.83031852341576,-71.22672088444233]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1267",
+		"local": "1267",
+		"position": "[46.83018135224204,-71.22683085501193]",
+		"etage": 1,
+		"message": "Studios audiovisuels"
+	},
+    {
+		"nom": "Local 1268",
+		"local": "1268",
+		"position": "[46.83016850676304,-71.22681945562361]",
+		"etage": 1,
+		"message": "Studios audiovisuels"
+	},
+    {
+		"nom": "Local 1269",
+		"local": "1269",
+		"position": "[46.83019924415412,-71.22674770653248]",
+		"etage": 1,
+		"message": "Accès via le 1268"
+	},
+    {
+		"nom": "Local 1254",
+		"local": "1254",
+		"position": "[46.8301001504124,-71.22660957276821]",
+		"etage": 1,
+		"message": "Studios audiovisuels"
+	},
+    {
+		"nom": "Local 1257", 
+		"local": "1257",
+		"position": "[46.830157496350004,-71.22662901878357]",
+		"etage": 1,
+		"message": "Studios audiovisuels" 
+	},
+    {
+		"nom": "Local 1256",
+		"local": "1256",
+		"position": "[46.830270811742885,-71.22667863965033]",
+		"etage": 1,
+		"message": "Studios audiovisuels"
+	},
+    {
+		"nom": "Local 1263",
+		"local": "1263",
+		"position": "[46.83030063154338,-71.2267054617405]",
+		"etage": 1,
+		"message": "Studios audiovisuels"
+	},
+    {
+		"nom": "Local 1255",
+		"local": "1255",
+		"position": "[46.830408900218494,-71.22675307095051]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1222",
+		"local": "1222",
+		"position": "[46.83048964281729,-71.2264908850193]",
+		"etage": 1,
+		"message": "Accès via le 1219"
+	},
+    {
+		"nom": "Local 1221",
+		"local": "1221",
+		"position": "[46.83045340041578,-71.22647747397421]",
+		"etage": 1,
+		"message": "Accès via le 1219"
+	},
+    {
+		"nom": "Local 1224",
+		"local": "1224",
+		"position": "[46.83032632243517,-71.22667595744133]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1225",
+		"local": "1225",
+		"position": "[46.83026530654712,-71.22662365436554]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1226",
+		"local": "1226",
+		"position": "[46.83019144511626,-71.22655525803566]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1229",
+		"local": "1229",
+		"position": "[46.83025291985462,-71.22636146843433]",
+		"etage": 1,
+		"message": "Accès via le 1219"
+	},
+    {
+		"nom": "Local 1231",
+		"local": "1231",
+		"position": "[46.83024603835756,-71.2262213230133]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1249",
+		"local": "1249",
+		"position": "[46.8300597788356,-71.22658610343933]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1248",
+		"local": "1248",
+		"position": "[46.83008592861039,-71.22650496661663]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1243",
+		"local": "1243",
+		"position": "[46.82991572546219,-71.22657537460327]",
+		"etage": 1,
+		"message": "Accès via le 1240"
+	},
+    {
+		"nom": "Local 1244",
+		"local": "1244",
+		"position": "[46.829939581461524,-71.22652038931847]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1240",
+		"local": "1240",
+		"position": "[46.8299060913056,-71.2265807390213]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1260",
+		"local": "1260",
+		"position": "[46.82991618423151,-71.22655659914017]",
+		"etage": 1,
+		"message": "Accès via le 1240"
+	},
+    {
+		"nom": "Local 1242",
+		"local": "1242",
+		"position": "[46.829882694061006,-71.22654721140862]",
+		"etage": 1,
+		"message": "Accès via le 1240"
+	},
+    {
+		"nom": "Local 1245",
+		"local": "1245",
+		"position": "[46.82992902977082,-71.22649289667606]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1251",
+		"local": "1251",
+		"position": "[46.82993866392328,-71.2264533340931]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1252",
+		"local": "1252",
+		"position": "[46.82996251991244,-71.22640036046505]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1237",
+		"local": "1237",
+		"position": "[46.82994049899975,-71.22641041874886]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1238",
+		"local": "1238",
+		"position": "[46.82993453500101,-71.22642382979393]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1239",
+		"local": "1239",
+		"position": "[46.829910678999404,-71.2264808267355]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1241",
+		"local": "1241",
+		"position": "[46.829905173766775,-71.22649356722832]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1232",
+		"local": "1232",
+		"position": "[46.83009739780583,-71.22647009789944]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1233",
+		"local": "1233",
+		"position": "[46.830029041364746,-71.22640639543533]",
+		"etage": 1,
+		"message": " "
+	},
+     {
+		"nom": "Local 1236",
+		"local": "1236",
+		"position": "[46.830182269776145,-71.22629575431347]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1234",
+		"local": "1234",
+		"position": "[46.830157955117286,-71.22635208070278]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1235",
+		"local": "1235",
+		"position": "[46.830082717235214,-71.22626088559628]",
+		"etage": 1,
+		"message": "Accès via le 1234"
+	},
+    {
+		"nom": "Local 1003",
+		"local": "1003",
+		"position": "[46.830006561710775,-71.22751750051975]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1004",
+		"local": "1004",
+		"position": "[46.830011608164526,-71.22753761708736]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1005",
+		"local": "1005",
+		"position": "[46.8299960100332,-71.22756779193878]",
+		"etage": 1,
+		"message": "Accès via le 1003"
+	},
+    {
+		"nom": "Local 1006",
+		"local": "1006",
+		"position": "[46.82998637589101,-71.22757114470005]",
+		"etage": 1,
+		"message": "Accès via la 1003"
+	},
+    {
+		"nom": "Local 1007",
+		"local": "1007",
+		"position": "[46.82996389621918,-71.22754901647568]",
+		"etage": 1,
+		"message": "Accès via la 1003"
+	},
+    {
+		"nom": "Local 1021",
+		"local": "1021",
+		"position": "[46.83004785086392,-71.22744441032408]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1022",
+		"local": "1022",
+		"position": "[46.83006895419663,-71.22739680111408]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1023",
+		"local": "1023",
+		"position": "[46.83007583571637,-71.22738137841225]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1024",
+		"local": "1024",
+		"position": "[46.830097856573616,-71.22732907533646]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1025",
+		"local": "1025",
+		"position": "[46.83011941865425,-71.22729018330574]",
+		"etage": 1,
+		"message": "Accès via le 1026"
+	},
+    {
+		"nom": "Local 1026",
+		"local": "1026",
+		"position": "[46.83011941865425,-71.22729018330574]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Café étudiant",
+		"local": "1106",
+		"position": "[46.83007675325225,-71.22719295322894]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1030",
+		"local": "1030",
+		"position": "[46.830034546584706,-71.2274356931448]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1029",
+		"local": "1029",
+		"position": "[46.83004968593667,-71.2274008244276]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1028",
+		"local": "1028",
+		"position": "[46.83005519115449,-71.22738741338253]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1027",
+		"local": "1027",
+		"position": "[46.830070789268646,-71.22730225324631]",
+		"etage": 1,
+		"message": "Accès via le Café étudiant"
+	},
+    {
+		"nom": "Local 1036",
+		"local": "1036",
+		"position": "[46.829958390992,-71.2274008244276]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1031",
+		"local": "1031",
+		"position": "[46.82997765928469,-71.22738339006901]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1044",
+		"local": "1044",
+		"position": "[46.82998499958485,-71.22736930847168]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1045",
+		"local": "1045",
+		"position": "[46.83000793801638,-71.22731566429138]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1032",
+		"local": "1032",
+		"position": "[46.830001974025116,-71.2273009121418]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1033",
+		"local": "1033",
+		"position": "[46.829992339884,-71.22729152441025]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1046",
+		"local": "1046",
+		"position": "[46.82997628297829,-71.2273109704256]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1047",
+		"local": "1047",
+		"position": "[46.829960226067776,-71.22734852135181]",
+		"etage": 1,
+		"message": " "
+	},     
+    {
+		"nom": "Local 1034",
+		"local": "1034",
+		"position": "[46.829901503611374,-71.22735120356083]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1035",
+		"local": "1035",
+		"position": "[46.82990746761378,-71.22728683054447]",
+		"etage": 1,
+		"message": "Accès via le 1034"
+	},
+    {
+		"nom": "Local 1037",
+		"local": "1037",
+		"position": "[46.82993866392328,-71.22724257409573]",
+		"etage": 1,
+		"message": "Accès via le 1034"
+	},
+    {
+		"nom": "Local 1039",
+		"local": "1039",
+		"position": "[46.82992031315518,-71.22723788022995]",
+		"etage": 1,
+		"message": "Accès via le 1034"
+	},
+    {
+		"nom": "Local 1038",
+		"local": "1038",
+		"position": "[46.82992948854,-71.22723586857319]",
+		"etage": 1,
+		"message": "Accès via le 1034"
+	},
+    {
+		"nom": "Local 1042",
+		"local": "1042",
+		"position": "[46.829969401445815,-71.22715339064598]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1041",
+		"local": "1041",
+		"position": "[46.829967566370335,-71.2271386384964]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1105",
+		"local": "1105",
+		"position": "[46.82998545835358,-71.22708633542061]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "DSEFC Formation continue",
+		"local": "1504",
+		"position": "[46.82972350077338,-71.22621729969978]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Comptabilité",
+		"local": "1527",
+		"position": "[46.82972350077338,-71.22621729969978]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Administration",
+		"local": "1549",
+		"position": "[46.829459248050426,-71.22639700770377]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1534",
+		"local": "1534",
+		"position": "[46.829387220607224,-71.22607514262198]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1535",
+		"local": "1535",
+		"position": " [46.82935533581651,-71.22607581317425]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Casiers",
+		"local": "1101",
+		"position": "[46.829811125955466,-71.22690863907337]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Garderie",
+		"local": "1070",
+		"position": "[46.82990425622797,-71.2274806201458]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1114",
+		"local": "1114",
+		"position": "[46.83012997030761,-71.22685298323631]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1116",
+		"local": "1116",
+		"position": "[46.83014832100411,-71.2268690764904]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1117",
+		"local": "1117",
+		"position": " [46.83021805359373,-71.22693344950676]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1113",
+		"local": "1113",
+		"position": "[46.829967107601455,-71.22698374092579]",
+		"etage": 1,
+		"message": " "
+	},
+	
+	{
+		"nom": "Local 1112",
+		"local": "1112",
+		"position": "[46.83003821673102,-71.22704610228539]",
+		"etage": 1,
+		"message": " "
+	},
+	{
+		"nom": "Local 1111",
+		"local": "1111",
+		"position": "[46.83011207837245,-71.22711651027203]",
+		"etage": 1,
+		"message": " "
+	},
+	{
+		"nom": "Local 1149",
+		"local": "1149",
+		"position": "[46.83015566128097,-71.22712455689907]",
+		"etage": 1,
+		"message": " "
+	},
+	{
+		"nom": "Local 1148",
+		"local": "1148",
+		"position": "[46.83016391909122,-71.22710511088371]",
+		"etage": 1,
+		"message": " "
+	},
+	{
+		"nom": "Local 1129",
+		"local": "1129",
+		"position": "[46.8301776821055,-71.22708030045033]",
+		"etage": 1,
+		"message": " "
+	},
+	{
+		"nom": "Local 1128",
+		"local": "1128",
+		"position": "[46.83018272854319,-71.22708767652512]",
+		"etage": 1,
+		"message": " "
+	},
+	{
+		"nom": "Local 1127",
+		"local": "1127",
+		"position": "[46.8301735532016,-71.22711516916752]",
+		"etage": 1,
+		"message": " "
+	},
+	{
+		"nom": "Local 1126",
+		"local": "1126",
+		"position": "[46.830165295392796,-71.22713461518288]",
+		"etage": 1,
+		"message": " "
+	},
+    {
+		"nom": "Local 1258",
+		"local": "1258",
+		"position": "[46.83014189826104,-71.226616948843]",
+		"etage": 1,
+		"message": " "
+	},
+	{
+		"nom": "Local 2511",
+		"local": "2511",
+		"position": "[46.82931519306751,-71.22613549232481]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2512",
+		"local": "2512",
+		"position": "[46.82932987384776,-71.2261475622654]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2516",
+		"local": "2516",
+		"position": "[46.829470258606506,-71.2262749671936]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2515",
+		"local": "2515",
+		"position": "[46.82945833050399,-71.22623205184937]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2517",
+		"local": "2517",
+		"position": "[46.829483104252375,-71.22628703713417]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2518",
+		"local": "2518",
+		"position": "[46.82951063062609,-71.22628033161163]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2519",
+		"local": "2519",
+		"position": "[46.82954457980091,-71.2263111770153]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2510",
+		"local": "2510",
+		"position": "[46.829352812558895,-71.22608318924904]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2509",
+		"local": "2509",
+		"position": "[46.82937758635591,-71.22610062360764]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2508",
+		"local": "2508",
+		"position": "[46.82948402179841,-71.22617170214653]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2507",
+		"local": "2507",
+		"position": "[46.82950787798937,-71.22618913650513]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2506",
+		"local": "2506",
+		"position": "[46.82961614826137,-71.22626155614853]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2505",
+		"local": "2505",
+		"position": "[46.82963816930696,-71.22627764940262]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2504",
+		"local": "2504",
+		"position": "[46.82969964467812,-71.22631788253784]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2503",
+		"local": "2503",
+		"position": "[46.82972212446048,-71.22637018561363]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2521",
+		"local": "2521",
+		"position": "[46.82962257106726,-71.22638158500195]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2522",
+		"local": "2522",
+		"position": "[46.82964688596835,-71.22640438377857]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2523",
+		"local": "2523",
+		"position": "[46.82967532980093,-71.22643053531647]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2524",
+		"local": "2524",
+		"position": "[46.82970698501625,-71.22645936906338]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2525",
+		"local": "2525",
+		"position": "[46.82972900602464,-71.22647948563099]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2253",
+		"local": "2253",
+		"position": "[46.82993591130847,-71.22657269239426]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2252",
+		"local": "2252",
+		"position": "[46.829950591919186,-71.22653983533382]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2251",
+		"local": "2251",
+		"position": "[46.82995747345409,-71.22652307152748]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2249",
+		"local": "2249",
+		"position": "[46.829973989134245,-71.22650228440762]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2248",
+		"local": "2248",
+		"position": "[46.82998637589101,-71.22651301324368]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2244",
+		"local": "2244",
+		"position": "[46.83007629448431,-71.22656062245369]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2254",
+		"local": "2254",
+		"position": "[46.82994692176688,-71.22658543288708]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2247",
+		"local": "2247",
+		"position": "[46.82999371618999,-71.2265445291996]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2246",
+		"local": "2246",
+		"position": "[46.830023536144246,-71.226572021842]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2245",
+		"local": "2245",
+		"position": "[46.830035922889614,-71.22658275067806]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2255",
+		"local": "2255",
+		"position": "[46.83003317027976,-71.22666321694851]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2242",
+		"local": "2242",
+		"position": "[46.83008455230677,-71.22654318809509]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2241",
+		"local": "2241",
+		"position": "[46.83009693903807,-71.22651234269142]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2239",
+		"local": "2239",
+		"position": "[46.83012721770256,-71.22644193470478]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2238",
+		"local": "2238",
+		"position": "[46.830133640447386,-71.22642651200294]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2237",
+		"local": "2237",
+		"position": "[46.83015015607343,-71.22638896107674]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2236",
+		"local": "2236",
+		"position": "[46.83016300155681,-71.22635878622532]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2235",
+		"local": "2235",
+		"position": "[46.83018685744641,-71.2263185530901]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2234",
+		"local": "2234",
+		"position": "[46.830212089625775,-71.22634202241898]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2299",
+		"local": "2299",
+		"position": "[46.83023502796041,-71.22632391750813]",
+		"etage": 2,
+		"message": "Accès via le 2234"
+	},
+	{
+		"nom": "Local 2233",
+		"local": "2233",
+		"position": "[46.83025704875244,-71.2263822555542]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2232",
+		"local": "2232",
+		"position": "[46.830311641927096,-71.22643321752548]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2227",
+		"local": "2227",
+		"position": "[46.83039146714148,-71.22650362551212]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2231",
+		"local": "2231",
+		"position": "[46.83038642072338,-71.22647814452648]",
+		"etage": 2,
+		"message": "Accès via le 2227"
+	},
+	{
+		"nom": "Local 2229",
+		"local": "2229",
+		"position": "[46.83040064244588,-71.22646607458591]",
+		"etage": 2,
+		"message": "Accès via le 2227"
+	},
+	{
+		"nom": "Local 2228",
+		"local": "2228",
+		"position": "[46.83041211157418,-71.22647680342197]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2226",
+		"local": "2226",
+		"position": "[46.83042174564005,-71.22653178870678]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2267",
+		"local": "2267",
+		"position": "[46.830264389014445,-71.22643522918224]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2299",
+		"local": "2299",
+		"position": "[46.83022952276101,-71.22659415006638]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2266",
+		"local": "2266",
+		"position": "[46.830396972324294,-71.22655726969242]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2263",
+		"local": "2263",
+		"position": "[46.83043046217435,-71.22658744454384]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2264",
+		"local": "2264",
+		"position": "[46.830385503192765,-71.2266893684864]",
+		"etage": 2,
+		"message": "Accès via le 2263"
+	},
+	{
+		"nom": "Local 2224",
+		"local": "2224",
+		"position": "[46.830505240805344,-71.22660890221596]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2223",
+		"local": "2223",
+		"position": "[46.8305479058672,-71.22664846479891]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2222",
+		"local": "2222",
+		"position": "[46.83061763793839,-71.22671216726303]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2209",
+		"local": "2209",
+		"position": "[46.83056258631075,-71.22682347893715]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2207",
+		"local": "2207",
+		"position": "[46.83059332347647,-71.22675105929375]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2208",
+		"local": "2208",
+		"position": "[46.83055249350625,-71.22674636542797]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2211",
+		"local": "2211",
+		"position": "[46.830535060475796,-71.22685097157954]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2206",
+		"local": "2206",
+		"position": "[46.83060571009052,-71.22676111757755]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2205",
+		"local": "2205",
+		"position": "[46.83057956056863,-71.22682146728039]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2204",
+		"local": "2204",
+		"position": "[46.83056304507454,-71.22686102986334]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2203",
+		"local": "2203",
+		"position": "[46.83054010687993,-71.2269140034914]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2202",
+		"local": "2202",
+		"position": "[46.83053230789152,-71.22693344950676]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2201",
+		"local": "2201",
+		"position": "[46.830501570690906,-71.2269864231348]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2212",
+		"local": "2212",
+		"position": "[46.830488266524,-71.22697435319424]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2272",
+		"local": "2272",
+		"position": "[46.83020704319085,-71.22664108872414]",
+		"etage": 2,
+		"message": "Accès via le 2273"
+	},
+	{
+		"nom": "Local 2274",
+		"local": "2274",
+		"position": "[46.83021575975999,-71.22664846479891]",
+		"etage": 2,
+		"message": "Accès via le 2273"
+	},
+	{
+		"nom": "Local 2270",
+		"local": "2270",
+		"position": "[46.830302925373516,-71.22671149671078]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2275",
+		"local": "2275",
+		"position": "[46.830250626022355,-71.226706802845]",
+		"etage": 2,
+		"message": "Accès via le 2270"
+	},
+	{
+		"nom": "Local 2260",
+		"local": "2260",
+		"position": "[46.83023502796041,-71.22675709426403]",
+		"etage": 2,
+		"message": "Accès via le 2270"
+	},
+	{
+		"nom": "Local 2257",
+		"local": "2257",
+		"position": "[46.83022172372753,-71.2267892807722]",
+		"etage": 2,
+		"message": "Accès via le 2270"
+	},
+	{
+		"nom": "Local 2295",
+		"local": "2295",
+		"position": "[46.8302075019577,-71.2268228083849]",
+		"etage": 2,
+		"message": "Accès via le 2270"
+	},
+	{
+		"nom": "Local 2278",
+		"local": "2278",
+		"position": "[46.83030430167153,-71.22674368321896]",
+		"etage": 2,
+		"message": "Accès via le 2270"
+	},
+	{
+		"nom": "Local 2281",
+		"local": "2281",
+		"position": "[46.830290538689674,-71.22677855193615]",
+		"etage": 2,
+		"message": "Accès via le 2270"
+	},
+	{
+		"nom": "Local 2284",
+		"local": "2284",
+		"position": "[46.8302767757043,-71.2268093973398]",
+		"etage": 2,
+		"message": "Accès via le 2270"
+	},
+	{
+		"nom": "Local 2287",
+		"local": "2287",
+		"position": "[46.83026209518266,-71.22684225440025]",
+		"etage": 2,
+		"message": "Accès via le 2270"
+	},
+	{
+		"nom": "Local 2290",
+		"local": "2290",
+		"position": "[46.83024741465703,-71.22687846422195]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2293",
+		"local": "2293",
+		"position": "[46.83040155997624,-71.22685834765434]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2294",
+		"local": "2294",
+		"position": "[46.83036118862584,-71.2269515544176]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2105",
+		"local": "2105",
+		"position": "[46.83007308310858,-71.2268154323101]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2104",
+		"local": "2104",
+		"position": "[46.83015061484073,-71.22686438262463]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2103",
+		"local": "2103",
+		"position": "[46.83021805359373,-71.22693881392479]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2111",
+		"local": "2111",
+		"position": "[46.83013226414499,-71.2271423265338]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2109",
+		"local": "2109",
+		"position": "[46.83005702622699,-71.22708633542061]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2108",
+		"local": "2108",
+		"position": "[46.829990963578,-71.22701324522495]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2107",
+		"local": "2107",
+		"position": "[46.82997628297829,-71.22699849307537]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2102",
+		"local": "2102",
+		"position": "[46.82997536544069,-71.22674837708473]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2101",
+		"local": "2101",
+		"position": "[46.82990242115026,-71.22668266296387]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2106",
+		"local": "2106",
+		"position": "[46.82990838515256,-71.22694417834282]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2052",
+		"local": "2052",
+		"position": "[46.82982764168056,-71.22689455747604]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2051",
+		"local": "2051",
+		"position": "[46.829810667185235,-71.22691869735718]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2049",
+		"local": "2049",
+		"position": "[46.82980195055041,-71.22693814337254]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2048",
+		"local": "2048",
+		"position": "[46.82977580063746,-71.22699849307537]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2047",
+		"local": "2047",
+		"position": "[46.829768001538156,-71.22701793909073]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2046",
+		"local": "2046",
+		"position": "[46.82974506300422,-71.22707158327103]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2045",
+		"local": "2045",
+		"position": "[46.82973588758789,-71.22709438204765]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2044",
+		"local": "2044",
+		"position": "[46.82971891306358,-71.22713327407837]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2043",
+		"local": "2043",
+		"position": "[46.82970377361846,-71.22717015445232]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2042",
+		"local": "2042",
+		"position": "[46.82969322188144,-71.22722178697586]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2041",
+		"local": "2041",
+		"position": "[46.829694139423886,-71.22727006673813]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2035",
+		"local": "2035",
+		"position": "[46.82969964467812,-71.22732102870941]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2034",
+		"local": "2034",
+		"position": "[46.82971065518494,-71.22736059129238]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2033",
+		"local": "2033",
+		"position": "[46.82973405250445,-71.22739747166634]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2032",
+		"local": "2032",
+		"position": "[46.82975377964825,-71.22741758823395]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2031",
+		"local": "2031",
+		"position": "[46.8297657076852,-71.22742764651775]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2029",
+		"local": "2029",
+		"position": "[46.82980286809097,-71.2274618446827]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2028",
+		"local": "2028",
+		"position": "[46.82981571365738,-71.22747391462326]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2027",
+		"local": "2027",
+		"position": "[46.82984415740062,-71.22750073671341]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2026",
+		"local": "2026",
+		"position": "[46.829863425734246,-71.22751750051975]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2069",
+		"local": "2069",
+		"position": "[46.829840946011,-71.22710242867468]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2061",
+		"local": "2061",
+		"position": "[46.829762037520254,-71.22709907591343]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2062",
+		"local": "2062",
+		"position": "[46.8297468980873,-71.22713461518288]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2063",
+		"local": "2063",
+		"position": "[46.82973405250445,-71.22716344892979]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2064",
+		"local": "2064",
+		"position": "[46.82972166568951,-71.2271922826767]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2065",
+		"local": "2065",
+		"position": "[46.82976754276757,-71.22725330293177]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2066",
+		"local": "2066",
+		"position": "[46.8297817646538,-71.22724793851376]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2017",
+		"local": "2017",
+		"position": "[46.82972350077338,-71.22731767594814]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2016",
+		"local": "2016",
+		"position": "[46.82975974366707,-71.227293536067]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2014",
+		"local": "2014",
+		"position": "[46.829796904076964,-71.22728146612644]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2013",
+		"local": "2013",
+		"position": "[46.82984048724104,-71.2273371219635]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2018",
+		"local": "2018",
+		"position": "[46.82975561473103,-71.22737735509872]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2021",
+		"local": "2021",
+		"position": "[46.82979736284732,-71.22741490602493]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2022",
+		"local": "2022",
+		"position": "[46.82985746172696,-71.22747056186199]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2023",
+		"local": "2023",
+		"position": "[46.829870307280316,-71.22748129069805]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2012",
+		"local": "2012",
+		"position": "[46.829870307280316,-71.22739881277084]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2025",
+		"local": "2025",
+		"position": "[46.82989783345572,-71.22753359377384]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2024",
+		"local": "2024",
+		"position": "[46.829905173766775,-71.22751481831072]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2008",
+		"local": "2008",
+		"position": "[46.829951509457224,-71.22747391462326]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2003",
+		"local": "2003",
+		"position": "[46.83001940722849,-71.22753627598286]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2002",
+		"local": "2002",
+		"position": "[46.830039134267565,-71.22755371034145]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2402",
+		"local": "2402",
+		"position": "[46.83020107922171,-71.22783467173576]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2404",
+		"local": "2404",
+		"position": "[46.83018410484429,-71.22789703309535]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2403",
+		"local": "2403",
+		"position": "[46.8302327341274,-71.22786350548267]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2405",
+		"local": "2405",
+		"position": "[46.83025016725589,-71.22787959873676]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2406",
+		"local": "2406",
+		"position": "[46.83030063154338,-71.22792452573776]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2408",
+		"local": "2408",
+		"position": "[46.83036898763906,-71.2279875576496]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2409",
+		"local": "2409",
+		"position": "[46.83044284882593,-71.22805461287498]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Carrefour de l’information (Bibliothèque)",
+		"local": "2117",
+		"position": "[46.83017676457132,-71.22741490602493]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2115",
+		"local": "2115",
+		"position": "[46.83014189826104,-71.2272211164236]",
+		"etage": 2,
+		"message": "Carrefour de l’information (Administration)"
+	},
+	{
+		"nom": "Local 2116",
+		"local": "2116",
+		"position": "[46.830100609180136,-71.22724927961826]",
+		"etage": 2,
+		"message": "Carrefour de l’information (Administration)"
+	},
+	{
+		"nom": "Local 2114",
+		"local": "2114",
+		"position": "[46.8301107020695,-71.22729688882828]",
+		"etage": 2,
+		"message": "Carrefour de l’information (Administration)"
+	},
+	{
+		"nom": "Local 2122",
+		"local": "2122",
+		"position": "[46.83003729919446,-71.22716680169106]",
+		"etage": 2,
+		"message": "Carrefour de l’information (Administration)"
+	},
+	{
+		"nom": "Local 2123",
+		"local": "2123",
+		"position": "[46.83003684042618,-71.22739680111408]",
+		"etage": 2,
+		"message": "Centre d’aide à la réussite (Accès via la bibliothèque)"
+	},
+	{
+		"nom": "Local 2113",
+		"local": "2113",
+		"position": "[46.830063448980184,-71.22736528515816]",
+		"etage": 2,
+		"message": "Centre d’aide à la réussite (Accès via le 2123)"
+	},
+	{
+		"nom": "Local 2119",
+		"local": "2119",
+		"position": "[46.8300487684003,-71.2273136526346]",
+		"etage": 2,
+		"message": "Centre d’aide à la réussite (Accès via le 2123)"
+	},
+	{
+		"nom": "Local 2129",
+		"local": "2129",
+		"position": "[46.83006253144408,-71.22745715081692]",
+		"etage": 2,
+		"message": "Centre d’aide à la réussite (Accès via la bibliothèque)"
+	},
+	{
+		"nom": "Local 2085",
+		"local": "2085",
+		"position": "[46.829982246972406,-71.22736193239689]",
+		"etage": 2,
+		"message": "Centre d’aide à la réussite (Accès via le 2123)"
+	},
+	{
+		"nom": "Local 2084",
+		"local": "2084",
+		"position": "[46.82994875684307,-71.22733108699322]",
+		"etage": 2,
+		"message": "Centre d’aide à la réussite (Accès via le 2123)"
+	},
+	{
+		"nom": "Local 2083",
+		"local": "2083",
+		"position": "[46.82993866392328,-71.22732169926167]",
+		"etage": 2,
+		"message": "Centre d’aide à la réussite (Accès via le 2123)"
+	},
+	{
+		"nom": "Local 2093",
+		"local": "2093",
+		"position": "[46.83006711912454,-71.2273820489645]",
+		"etage": 2,
+		"message": "Centre d’aide à la réussite (Accès via le 2123)"
+	},
+	{
+		"nom": "Local 2091",
+		"local": "2091",
+		"position": "[46.83019695031959,-71.22763685882092]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2422",
+		"local": "2422",
+		"position": "[46.83025016725589,-71.22783064842224]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2423",
+		"local": "2423",
+		"position": "[46.83023869809304,-71.22782059013844]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2424",
+		"local": "2424",
+		"position": "[46.830213007159365,-71.2277977913618]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2425",
+		"local": "2425",
+		"position": "[46.83019465648493,-71.22778035700321]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2421",
+		"local": "2421",
+		"position": "[46.830264389014445,-71.22784405946732]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2419",
+		"local": "2419",
+		"position": "[46.83027723447053,-71.22785612940788]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2418",
+		"local": "2418",
+		"position": "[46.83030476043754,-71.22788026928902]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2417",
+		"local": "2417",
+		"position": "[46.830322652308546,-71.22789703309535]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2413",
+		"local": "2413",
+		"position": "[46.83039100837622,-71.22795939445496]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2414",
+		"local": "2414",
+		"position": "[46.830378162947305,-71.22794732451437]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2415",
+		"local": "2415",
+		"position": "[46.8303529308459,-71.22792452573776]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2416",
+		"local": "2416",
+		"position": "[46.83033320392196,-71.22790709137915]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2412",
+		"local": "2412",
+		"position": "[46.83040614762775,-71.22797280550003]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2411",
+		"local": "2411",
+		"position": "[46.83041991058002,-71.2279862165451]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2130",
+		"local": "2130",
+		"position": "[46.83031347699082,-71.22757449746132]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2132",
+		"local": "2132",
+		"position": "[46.830382291835505,-71.22763819992542]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2134",
+		"local": "2134",
+		"position": "[46.83039651355908,-71.22765026986599]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2136",
+		"local": "2136",
+		"position": "[46.83052129755301,-71.22776426374912]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2138",
+		"local": "2138",
+		"position": "[46.830535060475796,-71.22777700424194]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2131",
+		"local": "2131",
+		"position": "[46.83033320392196,-71.22753091156483]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2133",
+		"local": "2133",
+		"position": "[46.83034559059598,-71.22754231095314]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2135",
+		"local": "2135",
+		"position": "[46.83047175100187,-71.22765764594078]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2137",
+		"local": "2137",
+		"position": "[46.83048505517288,-71.2276690453291]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2181",
+		"local": "2181",
+		"position": "[46.83039054961095,-71.22737869620323]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2182",
+		"local": "2182",
+		"position": "[46.830460740650985,-71.22745580971241]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2199",
+		"local": "2199",
+		"position": "[46.830479091234565,-71.2271748483181]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2198",
+		"local": "2198",
+		"position": "[46.83055478732562,-71.22723251581192]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2197",
+		"local": "2197",
+		"position": "[46.830569467767305,-71.22730493545532]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2192",
+		"local": "2192",
+		"position": "[46.830562127546955,-71.22732438147068]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2187",
+		"local": "2187",
+		"position": "[46.83052817901486,-71.22740283608437]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2185",
+		"local": "2185",
+		"position": "[46.830518086203874,-71.22742630541325]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2194",
+		"local": "2194",
+		"position": "[46.83057130282222,-71.22735857963562]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2186",
+		"local": "2186",
+		"position": "[46.830562127546955,-71.22738003730774]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2184",
+		"local": "2184",
+		"position": "[46.830536436767886,-71.22744105756283]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2183",
+		"local": "2183",
+		"position": "[46.83054377699172,-71.22752822935581]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2195",
+		"local": "2195",
+		"position": "[46.830639199810506,-71.22730761766434]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2303",
+		"local": "2303",
+		"position": "[46.83071764825101,-71.22762948274612]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2304",
+		"local": "2304",
+		"position": "[46.83073141112349,-71.22764222323895]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2305",
+		"local": "2305",
+		"position": "[46.830795179053375,-71.22767709195612]",
+		"etage": 2,
+		"message": "Accès via le 2306"
+	},
+	{
+		"nom": "Conditionnement physique",
+		"local": "2302",
+		"position": "[46.83075939562002,-71.22738808393478]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Salle de danse",
+		"local": "2308",
+		"position": "[46.83086169947512,-71.22776158154011]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Salle de cardiovélo",
+		"local": "2310",
+		"position": "[46.83095620420861,-71.22777566313744]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Gradins de la salle Sylvain-Lelièvre",
+		"local": "2323",
+		"position": "[46.83057267911337,-71.22813776135445]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 2325",
+		"local": "2325",
+		"position": "[46.83062268433476,-71.22818268835545]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Gradins du gymnase D",
+		"local": "2320",
+		"position": "[[46.82932987384776,-71.2261475622654]]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Espace Paul-Eugène-Jobin",
+		"local": "2324",
+		"position": "[46.8306015812195,-71.22821420431137]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Salon du personnel",
+		"local": "2196",
+		"position": "[46.83062360186133,-71.2272110581398]",
+		"etage": 2,
+		"message": ""
+	},
+	{
+		"nom": "Local 3511",
+		"local": "3511",
+		"position": "[46.82931473429306,-71.22613549232481]",
+		"etage": 3,
+		"message": ""
+	},
+	{
+		"nom": "Local 3512",
+		"local": "3512",
+		"position": "[46.829328497524784,-71.2261475622654]",
+		"etage": 3,
+		"message": ""
+	},
+	{
+		"nom": "Local 3515",
+		"local": "3515",
+		"position": "[46.82945649541106,-71.22623071074486]",
+		"etage": 3,
+		"message": ""
+	},
+    {
+        "nom": "Local 3516",
+		"local": "3516",
+		"position": "[46.82946750596769,-71.2262749671936]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3517",
+		"local": "3517",
+		"position": "[46.82948126916031,-71.22628837823868]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3518",
+		"local": "3518",
+		"position": "[46.82951934730814,-71.22628770768642]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3519",
+		"local": "3519",
+		"position": "[46.82952760521617,-71.22629575431347]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3521",
+		"local": "3521",
+		"position": "[46.829623488610906,-71.2263835966587]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3522",
+		"local": "3522",
+		"position": "[46.82964505088186,-71.22640304267406]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3523",
+		"local": "3523",
+		"position": "[46.8296702833156,-71.22642584145069]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3524",
+		"local": "3524",
+		"position": "[46.8297046911607,-71.22645668685436]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3525",
+		"local": "3525",
+		"position": "[46.829725335857205,-71.22647613286972]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3510",
+		"local": "3510",
+		"position": "[46.82936061171842,-71.22608922421932]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3509",
+		"local": "3509",
+		"position": "[46.829372539842616,-71.22609660029411]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3508",
+		"local": "3508",
+		"position": "[46.82949090339303,-71.22617773711681]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3507",
+		"local": "3507",
+		"position": "[46.82950237271547,-71.2261851131916]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3506",
+		"local": "3506",
+		"position": "[46.82962073597996,-71.22626759111881]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3505",
+		"local": "3505",
+		"position": "[46.82963358158988,-71.22627563774586]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3504",
+		"local": "3504",
+		"position": "[46.8296964332799,-71.22631721198559]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3526",
+		"local": "3526",
+		"position": "[46.82975469718966,-71.22631721198559]",
+		"etage": 3,
+		"message": "Accès via le 3504"
+    },
+    {
+        "nom": "Local 3503",
+		"local": "3503",
+		"position": "[46.82972028937656,-71.22637286782265]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3035",
+		"local": "3035",
+		"position": "[46.82995242699524,-71.22684359550476]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3034",
+		"local": "3034",
+		"position": "[46.82993086484762,-71.22689589858055]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3033",
+		"local": "3033",
+		"position": "[46.829799197928594,-71.22695825994015]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3032",
+		"local": "3032",
+		"position": "[46.82984828632984,-71.22704543173313]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3030",
+		"local": "3030",
+		"position": "[46.82974368669187,-71.22707962989807]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3024",
+		"local": "3024",
+		"position": "[46.82973680512959,-71.22709639370441]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3023",
+		"local": "3023",
+		"position": "[46.82970927887173,-71.22708566486835]",
+		"etage": 3,
+		"message": "Accès via le 3024"
+    },
+    {
+        "nom": "Local 3025",
+		"local": "3025",
+		"position": "[46.82972120691855,-71.22713327407837]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3018",
+		"local": "3018",
+		"position": "[46.8296881753978,-71.22723117470741]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3022",
+		"local": "3022",
+		"position": "[46.82967991751445,-71.22715339064598]",
+		"etage": 3,
+		"message": "Accès via le 3018"
+    },
+    {
+        "nom": "Local 3021",
+		"local": "3021",
+		"position": "[46.82967670611502,-71.22716277837752]",
+		"etage": 3,
+		"message": "Accès via le 3018"
+    },
+    {
+        "nom": "Local 3020",
+		"local": "3020",
+		"position": "[46.829656061399845,-71.22724659740925]",
+		"etage": 3,
+		"message": "Accès via le 3018"
+    },
+    {
+        "nom": "Local 3019",
+		"local": "3019",
+		"position": "[46.82967991751445,-71.2272546440363]",
+		"etage": 3,
+		"message": "Accès via le 3018"
+    },
+    {
+        "nom": "Local 3031",
+		"local": "3031",
+		"position": "[46.82971249026919,-71.2272284924984]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3039",
+		"local": "3039",
+		"position": "[46.82982672414041,-71.22720435261726]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3004",
+		"local": "3004",
+		"position": "[46.829833605691185,-71.22734047472477]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3011",
+		"local": "3011",
+		"position": "[46.829823971519865,-71.22749403119087]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3006",
+		"local": "3006",
+		"position": "[46.82983452323121,-71.22749537229538]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3007",
+		"local": "3007",
+		"position": "[46.82985792049678,-71.22744172811508]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3009",
+		"local": "3009",
+		"position": "[46.82984323986074,-71.22739277780056]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3012",
+		"local": "3012",
+		"position": "[46.82978451727653,-71.22741222381592]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3013",
+		"local": "3013",
+		"position": "[46.8297468980873,-71.22737266123295]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3015",
+		"local": "3015",
+		"position": "[46.829816172427535,-71.22728615999222]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3016",
+		"local": "3016",
+		"position": "[46.8297689190793,-71.22728951275349]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3017",
+		"local": "3017",
+		"position": "[46.829726253399066,-71.22730426490307]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3036",
+		"local": "3036",
+		"position": "[46.82991159653814,-71.22743837535381]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3003",
+		"local": "3003",
+		"position": "[46.82994279284525,-71.22746787965298]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3002",
+		"local": "3002",
+		"position": "[46.830011608164526,-71.22753091156483]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3001",
+		"local": "3001",
+		"position": "[46.8300831760031,-71.22759662568569]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Carrefour de l’information (Bibliothèque)",
+		"local": "3071",
+		"position": "[46.83006803666058,-71.22751280665398]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3046",
+		"local": "3046",
+		"position": "[46.82998683465972,-71.22737869620323]",
+		"etage": 3,
+		"message": "Carrefour de l’information (Bibliothèque)"
+    },
+    {
+        "nom": "Local 3049",
+		"local": "3049",
+		"position": "[46.82998637589101,-71.22738003730774]",
+		"etage": 3,
+		"message": "Accès via la Bibliothèque"
+    },
+    {
+        "nom": "Local 3051",
+		"local": "3051",
+		"position": "[46.82991756053942,-71.22737601399422]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3097",
+		"local": "3097",
+		"position": "[46.82995655591614,-71.22722379863262]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3054",
+		"local": "3054",
+		"position": "[46.82998362327864,-71.22724860906601]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3055",
+		"local": "3055",
+		"position": "[46.83000059771936,-71.22737936675549]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3044",
+		"local": "3044",
+		"position": "[46.8301281352376,-71.22729286551476]",
+		"etage": 3,
+		"message": "Carrefour de l’information (Bibliothèque)"
+    },
+    {
+        "nom": "Local 3043",
+		"local": "3043",
+		"position": "[46.83010473808964,-71.22727073729038]",
+		"etage": 3,
+		"message": "Carrefour de l’information (Bibliothèque)"
+    },
+    {
+        "nom": "Local 3042",
+		"local": "3042",
+		"position": "[46.830082717235214,-71.22725129127502]",
+		"etage": 3,
+		"message": "Carrefour de l’information (Bibliothèque)"
+    },
+    {
+        "nom": "Local 3041",
+		"local": "3041",
+		"position": "[46.83005748499508,-71.2272284924984]",
+		"etage": 3,
+		"message": "Carrefour de l’information (Bibliothèque)"
+    },
+    {
+        "nom": "Local 3052",
+		"local": "3052",
+		"position": "[46.83001252570153,-71.2272372096777]",
+		"etage": 3,
+		"message": "Accès via le 3053"
+    },
+    {
+        "nom": "Local 3053",
+		"local": "3053",
+		"position": "[46.82999279865268,-71.22722916305065]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3093",
+		"local": "3093",
+		"position": "[46.82997857682227,-71.2271326035261]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3096",
+		"local": "3096",
+		"position": "[46.829951050688194,-71.22716344892979]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3095",
+		"local": "3095",
+		"position": "[46.82997123652124,-71.22711583971977]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3094",
+		"local": "3094",
+		"position": "[46.82998362327864,-71.22708767652512]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3092",
+		"local": "3092",
+		"position": "[46.8300317939748,-71.22717283666132]",
+		"etage": 3,
+		"message": "Carrefour de l’information (Bibliothèque)"
+    },
+    {
+        "nom": "Local 3077",
+		"local": "3077",
+		"position": "[46.83005243854566,-71.22704207897185]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3078",
+		"local": "3078",
+		"position": "[46.830038675499296,-71.22704945504665]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3079",
+		"local": "3079",
+		"position": "[46.830001974025116,-71.22701190412043]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3080",
+		"local": "3080",
+		"position": "[46.8299960100332,-71.2270025163889]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3081",
+		"local": "3081",
+		"position": "[46.82997720051588,-71.2269850820303]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3082",
+		"local": "3082",
+		"position": "[46.82995747345409,-71.22696697711945]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3045",
+		"local": "3045",
+		"position": "[46.82996435498809,-71.2269039452076]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3090",
+		"local": "3090",
+		"position": "[46.83005381485009,-71.22709035873413]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3089",
+		"local": "3089",
+		"position": "[46.83004739209572,-71.22708432376385]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3088",
+		"local": "3088",
+		"position": "[46.83001665461779,-71.22705616056919]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3087",
+		"local": "3087",
+		"position": "[46.82999371618999,-71.22703470289707]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3084",
+		"local": "3084",
+		"position": "[46.829962061143505,-71.22700586915016]",
+		"etage": 3,
+		"message": ""
+    },
+    {
+        "nom": "Local 3083",
+		"local": "3083",
+		"position": "[46.829954720840234,-71.22699983417988]",
+		"etage": 3,
+		"message": ""
+    },
+	{
+		"nom": "Local 3203",
+		"local": "3203",
+		"position": "[46.83044284882593,-71.2265793979168]",
+		"etage": 3,
+		"message": " "
+	},
+    {
+		"nom": "Local 3302",
+		"local": "3302",
+		"position": "[46.83063828228422,-71.22752018272877]",
+		"etage": 3,
+		"message": " "
+	},
+    {
+		"nom": "Local 3303",
+		"local": "3303",
+		"position": "[46.83060341627332,-71.22760199010372]",
+		"etage": 3,
+		"message": " "
+	},
+    {
+		"nom": "Local 3412",
+		"local": "3412",
+		"position": "[46.83044284882593,-71.2265793979168]",
+		"etage": 3,
+		"message": " "
+	},
+    {
+		"nom": "Local 3414",
+		"local": "3414",
+		"position": "[46.83043321476384,-71.22786417603493]",
+		"etage": 3,
+		"message": "Accès via le 3411"
+	},
+    {
+		"nom": "Local 3411",
+		"local": "3411",
+		"position": "[46.83044284882593,-71.2265793979168]",
+		"etage": 3,
+		"message": " "
+	},
+    {
+		"nom": "Local 3410",
+		"local": "3410",
+		"position": "[46.830430920939285,-71.22804790735243]",
+		"etage": 3,
+		"message": " "
+	},
+    {
+		"nom": "Local 3409",
+		"local": "3409",
+		"position": "[46.830407982688264,-71.22802846133709]",
+		"etage": 3,
+		"message": " "
+	},
+    {
+		"nom": "Local 3408",
+		"local": "3408",
+		"position": "[46.83038733825396,-71.22800834476948]",
+		"etage": 3,
+		"message": " "
+	},
+    {
+		"nom": "Local 3407",
+		"local": "3407",
+		"position": "[46.830311641927096,-71.2279500067234]",
+		"etage": 3,
+		"message": " "
+	},
+    {
+		"nom": "Local 3406",
+		"local": "3406",
+		"position": "[46.830278152003004,-71.22792452573776]",
+		"etage": 3,
+		"message": " "
+	},
+    {
+		"nom": "Local 3415",
+		"local": "3415",
+		"position": "[46.830382291835505,-71.22795201838017]",
+		"etage": 3,
+		"message": " "
+	},
+    {
+		"nom": "Local 3417",
+		"local": "3417",
+		"position": "[46.830302007841475,-71.22779108583927]",
+		"etage": 3,
+		"message": "DSTI (Service informatique)"
+	},
+    {
+		"nom": "Local 3418",
+		"local": "3418",
+		"position": "[46.830302007841475,-71.22779108583927]",
+		"etage": 3,
+		"message": "DSTI (Service informatique)"
+	},
+    {
+		"nom": "Local 3419",
+		"local": "3419",
+		"position": "[46.830302007841475,-71.22779108583927]",
+		"etage": 3,
+		"message": "DSTI (Service informatique)"
+	},
+    {
+		"nom": "Local 3420",
+		"local": "3420",
+		"position": "[46.830302007841475,-71.22779108583927]",
+		"etage": 3,
+		"message": "DSTI (Service informatique)"
+	},
+    {
+		"nom": "Local 3421",
+		"local": "3421",
+		"position": "[46.830302007841475,-71.22779108583927]",
+		"etage": 3,
+		"message": "DSTI (Service informatique)"
+	},
+    {
+		"nom": "Local 3422",
+		"local": "3422",
+		"position": "[46.830302007841475,-71.22779108583927]",
+		"etage": 3,
+		"message": "DSTI (Service informatique)"
+	},
+    {
+		"nom": "Local 3423",
+		"local": "3423",
+		"position": "[46.830302007841475,-71.22779108583927]",
+		"etage": 3,
+		"message": "DSTI (Service informatique)"
+	},
+    {
+		"nom": "Local 3427",
+		"local": "3427",
+		"position": "[46.830302007841475,-71.22779108583927]",
+		"etage": 3,
+		"message": "DSTI (Service informatique)"
+	},
+    {
+		"nom": "Local 3416",
+		"local": "3416",
+		"position": "[46.830302007841475,-71.22779108583927]",
+		"etage": 3,
+		"message": "DSTI (Service informatique)"
+	},
+    {
+		"nom": "Local 3061",
+		"local": "3061",
+		"position": "[46.83019695031959,-71.2276455760002]",
+		"etage": 3,
+		"message": " "
+	},
+    {
+		"nom": "Local 3062",
+		"local": "3062",
+		"position": "[46.83030567796953,-71.22745178639889]",
+		"etage": 3,
+		"message": "Carrefour de l’information"
+	},
+    {
+		"nom": "Local 3063",
+		"local": "3063",
+		"position": "[46.83033045132737,-71.2274745851755]",
+		"etage": 3,
+		"message": "Carrefour de l’information"
+	},
+    {
+		"nom": "Local 3064",
+		"local": "3064",
+		"position": "[46.83035430714261,-71.22749604284763]",
+		"etage": 3,
+		"message": "Carrefour de l’information"
+	},
+    {
+		"nom": "Local 3065",
+		"local": "3065",
+		"position": "[46.83037219899714,-71.22747257351875]",
+		"etage": 3,
+		"message": "Carrefour de l’information"
+	},
+    {
+		"nom": "Local 3066",
+		"local": "3066",
+		"position": "[46.83038458566215,-71.22744508087635]",
+		"etage": 3,
+		"message": "Carrefour de l’information"
+	},
+    {
+		"nom": "Local 3067",
+		"local": "3067",
+		"position": "[46.83045110659208,-71.22736595571041]",
+		"etage": 3,
+		"message": "Carrefour de l’information"
+	},
+    {
+		"nom": "Local 3068",
+		"local": "3068",
+		"position": "[46.83045890559228,-71.22738070786]",
+		"etage": 3,
+		"message": "Carrefour de l’information"
+	},
+    {
+		"nom": "Local 3069",
+		"local": "3069",
+		"position": "[46.83043780241269,-71.2273183465004]",
+		"etage": 3,
+		"message": "Carrefour de l’information"
+	},
+    {
+		"nom": "Local 3073",
+		"local": "3073",
+		"position": "[46.83046532829746,-71.22736394405364]",
+		"etage": 3,
+		"message": "Carrefour de l’information"
+	},
+    {
+		"nom": "Local 3074",
+		"local": "3074",
+		"position": "[46.83048872528843,-71.2273109704256]",
+		"etage": 3,
+		"message": "Carrefour de l’information"
+	},
+    {
+		"nom": "Local 3075",
+		"local": "3075",
+		"position": "[46.83048367887946,-71.22729286551476]",
+		"etage": 3,
+		"message": "Carrefour de l’information"
+	},
+    {
+		"nom": "Local 3076",
+		"local": "3076",
+		"position": "[46.83045385918051,-71.22729286551476]",
+		"etage": 3,
+		"message": "Carrefour de l’information"
+	},
+	{
+		"nom": "Local 4410",
+		"local": "4410",
+		"position": "[46.830439178707245,-71.22803784906863]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4409",
+		"local": "4409",
+		"position": "[46.83037541035501,-71.22797951102257]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4408",
+		"local": "4408",
+		"position": "[46.830307971799456,-71.22791849076746]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4407",
+		"local": "4407",
+		"position": "[46.8302538373875,-71.2278688699007]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4406",
+		"local": "4406",
+		"position": "[46.83021805359373,-71.22783668339251]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4418",
+		"local": "4418",
+		"position": "[46.83020429058978,-71.22777566313744]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4417",
+		"local": "4417",
+		"position": "[46.830232275360785,-71.22770793735981]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4419",
+		"local": "4419",
+		"position": "[46.830341461704954,-71.22790105640888]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4415",
+		"local": "4415",
+		"position": "[46.830365776280814,-71.22780181467533]",
+		"etage": 4,
+		"message": "Accès via 4419"
+	},
+	{
+		"nom": "Local 4413",
+		"local": "4413",
+		"position": "[46.83047679741194,-71.22795067727566]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4412",
+		"local": "4412",
+		"position": "[46.830396972324294,-71.22795201838017]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4001",
+		"local": "4001",
+		"position": "[46.83009372766356,-71.2275879085064]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4002",
+		"local": "4002",
+		"position": "[46.830022159839025,-71.22752219438553]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4003",
+		"local": "4003",
+		"position": "[46.829953803302246,-71.22745983302593]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4012",
+		"local": "4012",
+		"position": "[46.82988728175681,-71.22742362320423]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4013",
+		"local": "4013",
+		"position": "[46.82987260112879,-71.22745916247368]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4014",
+		"local": "4014",
+		"position": "[46.829865719583054,-71.2274745851755]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4015",
+		"local": "4015",
+		"position": "[46.82982488906007,-71.22747123241425]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4017",
+		"local": "4017",
+		"position": "[46.82978681112868,-71.2274370342493]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4018",
+		"local": "4018",
+		"position": "[46.82970790255847,-71.22732102870941]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4021",
+		"local": "4021",
+		"position": "[46.82969826836463,-71.22726336121558]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4022",
+		"local": "4022",
+		"position": "[46.82975974366707,-71.22704744338989]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4023",
+		"local": "4023",
+		"position": "[46.82976846030874,-71.22702665627003]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4031",
+		"local": "4031",
+		"position": "[46.8297927751438,-71.2269850820303]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4032",
+		"local": "4032",
+		"position": "[46.82982626537033,-71.22684895992279]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4040",
+		"local": "4040",
+		"position": "[46.82984415740062,-71.22678592801094]",
+		"etage": 4,
+		"message": "Accès via le 4032"
+	},
+	{
+		"nom": "Local 4033",
+		"local": "4033",
+		"position": "[46.82988774052638,-71.22677117586136]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4034",
+		"local": "4034",
+		"position": "[46.82992077192446,-71.22680269181728]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4035",
+		"local": "4035",
+		"position": "[46.82988498790895,-71.22681677341461]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4041",
+		"local": "4041",
+		"position": "[46.82987673005582,-71.22702732682228]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4025",
+		"local": "4025",
+		"position": "[46.829754238418964,-71.2271212041378]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4026",
+		"local": "4026",
+		"position": "[46.82974001652543,-71.22715540230274]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4028",
+		"local": "4028",
+		"position": "[46.829781305883344,-71.22724190354347]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4029",
+		"local": "4029",
+		"position": "[46.829804703172094,-71.22723452746868]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4037",
+		"local": "4037",
+		"position": "[46.82997720051588,-71.22687377035618]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4038",
+		"local": "4038",
+		"position": "[46.82995793222304,-71.22699312865734]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4039",
+		"local": "4039",
+		"position": "[46.829960226067776,-71.2269951403141]",
+		"etage": 4,
+		"message": "Accès via le 4038"
+	},
+	{
+		"nom": "Local 4044",
+		"local": "4044",
+		"position": "[46.82989186945225,-71.22723050415516]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4045",
+		"local": "4045",
+		"position": "[46.82990884392195,-71.22734919190407]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4046",
+		"local": "4046",
+		"position": "[46.8299331586935,-71.22737132012844]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4047",
+		"local": "4047",
+		"position": "[46.829965731294784,-71.2274008244276]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4053",
+		"local": "4053",
+		"position": "[46.83003638165789,-71.22739546000957]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4051",
+		"local": "4051",
+		"position": "[46.8300285825964,-71.22745782136917]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4052",
+		"local": "4052",
+		"position": "[46.83006023760369,-71.22748732566833]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4054",
+		"local": "4054",
+		"position": "[46.83009281012796,-71.22751615941525]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4055",
+		"local": "4055",
+		"position": "[46.83010657316043,-71.22752889990807]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4056",
+		"local": "4056",
+		"position": "[46.83013134661005,-71.22755169868469]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4057",
+		"local": "4057",
+		"position": "[46.830141439493666,-71.2275617569685]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4058",
+		"local": "4058",
+		"position": "[46.830165295392796,-71.22758321464062]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4059",
+		"local": "4059",
+		"position": "[46.83017676457132,-71.22759394347668]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4004",
+		"local": "4004",
+		"position": "[46.82984048724104,-71.22732907533646]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4005",
+		"local": "4005",
+		"position": "[46.82980562071263,-71.22727207839489]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4006",
+		"local": "4006",
+		"position": "[46.82973405250445,-71.2273109704256]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4008",
+		"local": "4008",
+		"position": "[46.829776259407964,-71.22738607227802]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4009",
+		"local": "4009",
+		"position": "[46.82980240932069,-71.2274095416069]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 4011",
+		"local": "4011",
+		"position": "[46.829868013431735,-71.22740551829338]",
+		"etage": 4,
+		"message": " "
+	},
+	{
+		"nom": "Local 5411",
+		"local": "5411",
+		"position": "[46.83042908587956,-71.22803784906863]",
+		"etage": 5,
+		"message": " "
+	},
+	{
+		"nom": "Local 5410",
+		"local": "5410",
+		"position": "[46.83034329676768,-71.22795872390269]",
+		"etage": 5,
+		"message": " "
+	},
+	{
+		"nom": "Local 5407",
+		"local": "5407",
+		"position": "[46.830248790956475,-71.22787289321423]",
+		"etage": 5,
+		"message": " "
+	},
+	{
+		"nom": "Local 5406",
+		"local": "5406",
+		"position": "[46.83020796072452,-71.22783534228802]",
+		"etage": 5,
+		"message": " "
+	},
+	{
+		"nom": "Local 5412",
+		"local": "5412",
+		"position": "[46.8304134878694,-71.22797749936579]",
+		"etage": 5,
+		"message": " "
+	},
+	{
+		"nom": "Local 5413",
+		"local": "5413",
+		"position": "[46.83036210615686,-71.22792989015579]",
+		"etage": 5,
+		"message": " "
+	},
+	{
+		"nom": "Local 5416",
+		"local": "5416",
+		"position": "[46.830477714941,-71.22786082327366]",
+		"etage": 5,
+		"message": "Accès via le 5413"
+	},
+	{
+		"nom": "Local 5418",
+		"local": "5418",
+		"position": "[46.83044376635558,-71.22785277664661]",
+		"etage": 5,
+		"message": "Accès via le 5413"
+	},
+	{
+		"nom": "Local 5414",
+		"local": "5414",
+		"position": "[46.830288703625165,-71.22786350548267]",
+		"etage": 5,
+		"message": " "
+	},
+	{
+		"nom": "Local 5415",
+		"local": "5415",
+		"position": "[46.830269435444,-71.22784540057182]",
+		"etage": 5,
+		"message": " "
+	},
+	{
+		"nom": "Local 5417",
+		"local": "5417",
+		"position": "[46.83029742018106,-71.22776359319687]",
+		"etage": 5,
+		"message": "Accès via le 5413"
+	},
+	{
+		"nom": "Local 5419",
+		"local": "5419",
+		"position": "[46.830281822132676,-71.2277977913618]",
+		"etage": 5,
+		"message": "Accès via le 5413"
+	},
+	{
+		"nom": "Local 5421",
+		"local": "5421",
+		"position": "[46.83022998152762,-71.22780919075012]",
+		"etage": 5,
+		"message": " "
+	},
+	{
+		"nom": "Local 0430",
+		"local": "0430",
+		"position": "[46.830239156859605,-71.22762612998486]",
+		"etage": -1,
+		"message": "Accès via le stationnement"
+	},
+	{
+		"nom": "Local 0425",
+		"local": "0425",
+		"position": "[46.83019924415412,-71.22776962816715]",
+		"etage": -1,
+		"message": " "
+	},
+    {
+		"nom": "Local 0424",
+		"local": "0424",
+		"position": "[46.830243744525006,-71.22781053185463]",
+		"etage": -1,
+		"message": " "
+	},
+	{
+		"nom": "Local 0417",
+		"local": "0417",
+		"position": "[46.83032219354269,-71.22787691652773]",
+		"etage": -1,
+		"message": " "
+	},
+    {
+		"nom": "Local 0403",
+		"local": "0403",
+		"position": "[46.83023686302675,-71.22784875333309]",
+		"etage": -1,
+		"message": " "
+	},
+	{
+		"nom": "Local 0406",
+		"local": "0406",
+		"position": "[46.830203373056065,-71.22781991958618]",
+		"etage": -1,
+		"message": " "
+	},
+    {
+		"nom": "Local 0404",
+		"local": "0404",
+		"position": "[46.83030246660751,-71.22790977358818]",
+		"etage": -1,
+		"message": " "
+	},
+	{
+		"nom": "Local 0422",
+		"local": "0422",
+		"position": "[46.83034788442418,-71.22795067727566]",
+		"etage": -1,
+		"message": " "
+	},
+    {
+		"nom": "Local 0420",
+		"local": "0420",
+		"position": "[46.83037128146627,-71.22797347605228]",
+		"etage": -1,
+		"message": " "
+	},
+	{
+		"nom": "Local 0419",
+		"local": "0419",
+		"position": "[46.830398807385116,-71.22799828648567]",
+		"etage": -1,
+		"message": " "
+	},
+    {
+		"nom": "Local 0405",
+		"local": "0405",
+		"position": "[46.83042679205482,-71.22805997729301]",
+		"etage": -1,
+		"message": " "
+	},
+    {
+		"nom": "Local 0408",
+		"local": "0408",
+		"position": "[46.83047175100187,-71.2280224263668]",
+		"etage": -1,
+		"message": " "
+	},
+	{
+		"nom": "Local 0411",
+		"local": "0411",
+		"position": "[46.83046808088515,-71.22800566256046]",
+		"etage": -1,
+		"message": " "
+	},
+    {
+		"nom": "Local 0409",
+		"local": "0409",
+		"position": "[46.830429544644495,-71.22796542942524]",
+		"etage": -1,
+		"message": " "
+	},
+	{
+		"nom": "Local 0407",
+		"local": "0407",
+		"position": "[46.830446060179604,-71.22789569199085]",
+		"etage": -1,
+		"message": " "
+	},
+    {
+		"nom": "Local 0418",
+		"local": "0418",
+		"position": "[46.830441931296285,-71.22793927788734]",
+		"etage": -1,
+		"message": " "
+	},
+	{
+		"nom": "Local 0412",
+		"local": "0412",
+		"position": "[46.83041165280909,-71.22794464230537]",
+		"etage": -1,
+		"message": " "
+	},
+	{
+		"nom": "Vestiaire - Hommes - Piscine",
+		"local": "0318",
+		"position": "[46.830609838961244,-71.22817531228065]",
+		"etage": -1,
+		"message": "Accès via la piscine"
+	},
+    {
+		"nom": "Vestiaire - Femmes - Piscine",
+		"local": "0323",
+		"position": "[46.83067911218929,-71.2281833589077]",
+		"etage": -1,
+		"message": "Accès via la piscine"
+	},
+	{
+		"nom": "Piscine",
+		"local": "0324",
+		"position": "[46.83068828744457,-71.22812233865261]",
+		"etage": -1,
+		"message": "Accès via le premier étage"
+	}
+]

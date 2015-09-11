@@ -1,0 +1,366 @@
+        html, body {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+            overflow: hidden;
+            font-family: 'Roboto', sans-serif;
+        }
+        
+        #loading
+        {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          z-index: 9999;
+          background-color: #e46d4d;
+          display: block;
+        }
+
+        #loading #content
+        {
+          display: block;
+          width: 80vw;
+          max-width: 1000px;
+          height: auto;
+          margin: 0 auto;
+        }
+
+        #loading #content img
+        {
+          display: block;
+          width: 80%;
+          height: auto;
+          margin: 0 auto 30px auto;
+        }
+
+        #map {
+            position: relative;
+            height: 100vh;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+      }
+
+      .container-fluid
+      {
+        margin: 0;
+        padding: 0;
+      }
+
+      .col-xs-12, .col-xs-4
+      {
+        margin: 0;
+        padding: 0;
+      }
+
+      .info {
+        width: 150px;
+        padding: 6px 8px;
+        font: 14px/16px Arial, Helvetica, sans-serif;
+        background: white;
+        background: rgba(255,255,255,1);
+        box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        border-radius: 5px;
+    }
+
+    .leaflet-clickable
+    {
+        cursor: help;
+    }
+
+    .list {
+      font-family:sans-serif;
+      margin:0;
+      padding:20px 0 0;
+      list-style-type:none;
+  }
+
+  .list > li {
+      display:block;
+      background-color: #fff;
+      padding:10px;
+      box-shadow: inset 0 1px 0 #e26d4d;
+  }
+
+   #listePoi li:hover, #listeLocaux li:hover
+   {
+    background-color: #f6f6f6;
+   }
+
+  .list li a
+  {
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+#listeLocaux li {
+    background-color: #fff;
+    }
+
+#listePoi .material-icons, #listeLocaux .material-icons {
+  margin-top:-12px !important;
+  }  
+
+
+img {
+  max-width: 100%;
+}
+
+h3 {
+  font-size: 16px;
+  margin:0 0 0.3rem;
+  font-weight: normal;
+  font-weight:bold;
+}
+p {
+  margin:0;
+}
+
+input {
+  border:solid 1px #ccc;
+  padding:7px 14px;
+}
+
+input:focus {
+  border-color:#aaa;
+}
+
+.recherche {
+  width:100%;
+  padding:0 15px;
+  }
+
+.list h1, .list h2, .list h3, .list h4, .list h5, .list h6
+{
+    display: inline-block;
+    margin: 0;
+}
+
+.navbar
+{
+    margin: 0;
+}
+
+#controlleEtage
+{
+    display: none;
+    list-style-type: none;
+    position: absolute;
+    width: 45px;
+    height: auto;
+    bottom: 140px;
+    left: -15px;
+}
+
+#controlleEtage li
+{
+    
+    position: relative;
+    bottom: 0;
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    background-color: rgba(0,0,0,0.7);
+    transition: all 250ms linear;
+    margin-bottom: 3px;
+}
+
+#controlleEtage li:hover
+{
+  background-color: rgb(0,0,0);
+}
+
+#controlleEtage li a:hover
+{
+    color: #fff;
+}
+
+#controlleEtage li a
+{
+  box-sizing:border-box;
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-align: center;
+  padding-top:8px;
+  
+}
+
+
+.etageActif
+{
+  background-color: rgba(0,0,0);
+}
+#indicateurEtage
+{
+  box-sizing:border-box;
+  background-color: rgba(0,0,0,0.7);
+  font-size: 25px;
+  display: block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 40px;
+  margin: 0;
+  margin-top:-4px;
+  padding: 0;
+  padding-top:7px;
+}
+
+#boutonAfficherEtage
+{
+  position: absolute;
+  z-index: 999;
+  bottom: 70px;
+  left: 25px;
+  display: block;
+  width: 40px;
+  color: #000;
+  text-align: center;
+}
+
+
+footer
+{
+  height: 60px;
+  width: 100%;
+  position: absolute;
+  bottom: 1px;
+  background-color: rgba(0,0,0,0.7);
+}
+
+#navigationFooter
+{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+#navigationFooter li
+{
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  width: 100%;
+  height: 55px;
+  text-align: center;
+}
+
+
+#navigationFooter li a
+{
+    box-sizing: content-box;
+    display: block;
+    width: 100%;
+    height: 60px;
+    text-decoration: none;
+    color: #fff;
+    border-right: 1px solid rgba(255,255,255,0.3);
+    padding-top: 10px;
+}
+
+#navigationFooter li a:hover
+{
+  background-color: rgba(0,0,0,0.9);
+}
+
+#navigationFooter li a img
+{
+    display: inline-block;
+    height: 60%;
+    margin: 0 auto;
+}
+
+/* Cache le controle de localisation (Normalement en haut à gauche) */
+.leaflet-control
+{
+    display: none;
+}
+
+.codeLocalQ
+{
+  visibility: hidden;
+}
+
+#modalInformations .modal-body {
+  background-color:#fff;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+  padding-bottom:40px;
+  }
+
+.logo-dismoiou {
+  width:140px;
+  height:auto;
+  margin-bottom:30px;
+  }
+      
+.logo-cegep-limoilou {
+  width:140px;
+  height:auto;
+  }
+  
+.contenu {
+  box-sizing:border-box;
+  font-family: 'Roboto', sans-serif;
+  font-size:14px;
+  margin-bottom:80px;
+  margin:10px auto 40px auto;
+  padding:0 20px;
+  }
+
+.contenu h3 {
+  font-size:14px;
+  color:#e26d4d;
+  margin-bottom:0;
+  }
+  
+.contenu a {
+  color:#000;
+  }   
+
+.progress-bar {
+        background-image:none !important;
+        background-color:#333 !important;
+        }
+        
+.progress {
+height: 20px !important;
+} 
+
+#aucunResultat {
+  list-style-type: none;
+  margin-left:20px;
+  color:#fff;
+  font-size:24px;
+  }
+
+#inputRechercherModal
+{
+  padding-left: 30px;
+}
+.recherche
+{
+  position: relative;
+}
+
+.recherche .glyphicon
+{
+  position: absolute;
+  left:  10px;
+  padding: 10px;
+  pointer-events: none;
+}

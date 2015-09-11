@@ -1,0 +1,111 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>Dis moi où</title><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><link rel="stylesheet" href="css/app.css"><link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Roboto:400,900" rel="stylesheet" type="text/css"><!--[if lt IE 9]><link rel="stylesheet" href="//rawgithub.com/domoritz/leaflet-locatecontrol/gh-pages/dist/L.Control.Locate.ie.min.css"/><![endif]--><!--[if lte IE 8]><link rel="stylesheet" href="libs/leaflet.ie.css" /><![endif]--><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><script src="js/jquery-2.1.4.min.js"></script></head><body><div id="loading"><div id="content"><img src="images/logo-dismoiou.svg" onerror="this.src='images/logo-dismoiou-blanc.png'"><div class="progress"><div class="progress-bar progress-bar-striped" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:0"><span>Chargement...</span></div></div></div></div><script>$("#loading #content").css("margin-top", function(){
+                    return ($(window).height() / 2) - ($(this).height()/2);
+                });
+
+                var progressBar = $(".progress-bar");
+                var pourcentageProgres = 0;
+
+                // Charge toutes les images d'avance
+                $.when(
+                    $.get("images/etages/routes.svg", function(){
+                    pourcentageProgres += 7;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage1_numero.svg", function(){
+                    pourcentageProgres += 10;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage1_locaux.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage1_icones.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage1_libelle.svg", function(){
+                    pourcentageProgres += 10;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage2_numero.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage2_locaux.svg", function(){
+                    pourcentageProgres += 15;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage2_icones.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage2_libelle.svg", function(){
+                    pourcentageProgres += 7;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage3_numero.svg", function(){
+                    pourcentageProgres += 10;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage3_locaux.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage3_icones.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage3_libelle.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage4_numero.svg", function(){
+                    pourcentageProgres += 8;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage4_locaux.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage4_icones.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage5_numero.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage5_locaux.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage5_icones.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage0_numero.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage0_locaux.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage0_icones.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                }),
+                $.get("images/etages/etage0_libelle.svg", function(){
+                    pourcentageProgres += 1;
+                    progressBar.css("width", pourcentageProgres + "%");
+                })
+            ).then(function() {
+
+                // Enlève du DOM le div #loading
+                if (pourcentageProgres == 100){
+
+                                    $("#loading").fadeOut(300, function(){
+                                        $(this).remove();
+                                    });
+                }
+            });</script><div class="container-fluid"><div class="row"><div class="col-xs-12"><div id="map"></div><div><bouton id="boutonAfficherEtage"><span class="glyphicon glyphicon-triangle-top" aria-hidden="true"></span><h4 id="indicateurEtage">1</h4><span class="glyphicon glyphicon-triangle-bottom" aria-hidden="true"></span></bouton><ul id="controlleEtage"><li><a href="javascript:changerEtage(5)">5</a></li><li><a href="javascript:changerEtage(4)">4</a></li><li><a href="javascript:changerEtage(3)">3</a></li><li><a href="javascript:changerEtage(2)">2</a></li><li><a href="javascript:changerEtage(1)">1</a></li><li><a href="javascript:changerEtage(-1)">-1</a></li></ul></div><footer class="footer"><div class="container-fluid"><div class="row"><ul id="navigationFooter"><div class="col-xs-4"><li><a href="javascript:lc.start()"><img src="images/position.png"></a></li></div><div class="col-xs-4"><li><a id="boutonRechercher" href="javascript:"><img src="images/loupe.png"></a></li></div><div class="col-xs-4"><li><a id="boutonInformations" href="javascript:"><img src="images/information.png"></a></li></div></ul></div></div></footer></div></div><div class="modal fade" id="modalRechercher" tabindex="-1" role="dialog" aria-labelledby="labelRechercher"><div class="modal-dialog" role="document"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button><h4 class="modal-title text-center" id="labelRechercher">Rechercher</h4></div><div class="modal-body"><div id="containerListeLocaux"><div class="recherche"><input id="inputRechercherModal" class="search form-control" placeholder="Local 2106, Cafétéria, Porte principale" autofocus tabindex="1"></div><ul class="list" id="listePoi"><li style="display:list-item"><a href="javascript:afficherMarqueur('[46.83007675325225,-71.22719295322894]',1, '<strong>Café étudiant</strong>')"><h3 class="nomLocal">Café étudiant</h3><br><h6 class="etage">1er étage</h6><i class="material-icons pull-right">local_cafe</i></a></li><li style="display:list-item"><a href="javascript:afficherMarqueur('[46.8303763278858,-71.22721575200558]',1, '<strong>Cafétéria</strong>')"><h3 class="nomLocal">Cafétéria</h3><br><h6 class="etage">1er étage</h6><i class="material-icons pull-right">local_dining</i></a></li><li style="display:list-item"><a href="javascript:afficherMarqueur('[46.83017676457132,-71.22741490602493]',2, '<strong>Carrefour de l\'information (Bibliothèque)</strong>')"><h3 class="nomLocal">Carrefour de l'information (Bibliothèque)</h3><br><h6 class="etage">2e étage</h6><i class="material-icons pull-right">local_library</i></a></li><li style="display:list-item"><a href="javascript:afficherMarqueur('[46.83039743108951,-71.22702732682228]',1, '<strong>COOP</strong>')"><h3 class="nomLocal">COOP</h3><br><h6 class="etage">1er étage</h6><i class="material-icons pull-right">shopping_basket</i></a></li><li style="display:list-item"><a href="javascript:afficherMarqueur('[46.82972350077338,-71.22621729969978]',1, '<strong>DSEFC Formation continue</strong>')"><h3 class="nomLocal">DSEFC Formation continue</h3><br><h6 class="etage">1er étage</h6><i class="material-icons pull-right">school</i></a></li><li style="display:list-item"><a href="javascript:afficherMarqueur('[46.82990425622797,-71.2274806201458]',1, '<strong>Garderie</strong>')"><h3 class="nomLocal">Garderie</h3><br><h6 class="etage">1er étage</h6><i class="material-icons pull-right">face</i></a></li><li style="display:list-item"><a href="javascript:afficherMarqueur('[46.830871333460415,-71.22740015387535]',1, '<strong>Gymnase A, B et C</strong>')"><h3 class="nomLocal">Gymnase A, B et C</h3><br><h6 class="etage">1er étage</h6><i class="material-icons pull-right">school</i></a></li><li style="display:list-item"><a href="javascript:afficherMarqueur('[46.83080022543308,-71.22824840247631]',1, '<strong>Gymnase D</strong>')"><h3 class="nomLocal">Gymnase D</h3><br><h6 class="etage">1er étage</h6><i class="material-icons pull-right">school</i></a></li><li style="display:list-item"><a href="javascript:afficherMarqueur('[46.83084013769227,-71.22769519686699]',1, '<strong>Magasin Sportif</strong>')"><h3 class="nomLocal">Magasin Sportif</h3><br><h6 class="etage">1er étage</h6><i class="material-icons pull-right">school</i></a></li><li style="display:list-item"><a href="javascript:afficherMarqueur('[46.830615344121696,-71.22801639139652]',1, '<strong>Salle Sylvain-Lelièvre</strong><br>Accès via le Foyer Desjardins')"><h3 class="nomLocal">Salle Sylvain-Lelièvre</h3><br><h6 class="etage">1er étage</h6><i class="material-icons pull-right">event_seat</i></a></li><li style="display:list-item"><a href="javascript:afficherMarqueur('[46.83068828744457,-71.22812233865261]',-1, '<strong>Piscine</strong><br>Accès via le premier étage')"><h3 class="nomLocal">Piscine</h3><br><h6 class="etage">Sous-Sol</h6><i class="material-icons pull-right">school</i></a></li></ul><div id="containerResultatRecherche"><ul class="list" id="listeLocaux"></ul></div></div></div></div></div></div><div class="modal fade" id="modalInformations" tabindex="-1" role="dialog" aria-labelledby="labelInformations"><div class="modal-dialog" role="document"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button><h4 class="modal-title text-center" id="labelInformations">Informations</h4></div><div class="modal-body"><div class="contenu"><div class="text-center"><img class="logo-dismoiou" src="images/logo-dismoiou.png" width="449" height="434" alt="Logo Dismoiou"></div><p><strong>Dis-moi où?</strong> est une application de localisation produite par les étudiants du Cégep Limoilou. Elle vous permet de trouver facilement n'importe quel local ou point d'intérêt au sein de l'établissement.</p><br><h3>Numéro de téléphone :</h3><p><a href="tel:+4186476600">418 647-6600</a></p><h3>Courriel :</h3><p><a href="mailto:web@cegeplimoilou.ca" title="Courriel du Cégep Limoilou">web@cegeplimoilou.ca</a></p><hr><h3>Équipe de production</h3><p>Ce produit a été réalisé par le groupe 2 de <strong>Production en médias interactifs (NWE.2N) :</strong></p><ul><li>Vesselin Eugène</li><li>Étienne Loiselle</li><li>Christian Nommay</li><li>Maïsa Mpembe</li><li>Gabriel Rodrigue</li></ul><hr><h3>Remerciements</h3><p class="small">Nous tenons à remercier Alain Boilard et Xavier Mirlycourtois de la Formation continue (DSEFC), la Direction des communications, la Direction des systèmes et des technologies de l'information (DSTI) et le Département de la géomatique.</p></div><div class="col-xs-12 text-center"><small>Version 1.0 - ©2015</small></div></div></div></div></div></div><script src="js/app.js"></script></body></html>
